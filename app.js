@@ -364,7 +364,8 @@ async function loadKjv(){
 function parseVerseRef(ref){
  const m=String(ref).match(/^(.+?)\s+(\d+):(\d+)(?:-(\d+))?$/);
  if(!m)return null;
- return {book:m[1],chapter:Number(m[2]),start:Number(m[3]),end:m[4]?Number(m[4]):Number(m[3])};
+ const book=canonicalBook(m[1])||m[1];
+ return {book:book,chapter:Number(m[2]),start:Number(m[3]),end:m[4]?Number(m[4]):Number(m[3])};
 }
 async function verseTextFor(ref){
  const data=await loadKjv();
