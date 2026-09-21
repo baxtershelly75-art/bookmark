@@ -1,18 +1,78 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5efe2">
 <title>Bookmark — Bible Reading Companion</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header class="mast"><div class="mark">🔖</div><div><p class="eyebrow">A quiet place in the Word</p><h1>Bookmark</h1><p class="sub">Read slowly. Notice carefully. Follow the threads.</p></div></header>
-<nav class="tabs" aria-label="Collections"><button class="tab active" data-filter="all">All</button><button class="tab" data-filter="Foundational Stories">Foundational Stories</button><button class="tab" data-filter="Psalms & Prayer">Psalms & Prayer</button><button class="tab" data-filter="Life of Jesus">Life of Jesus</button><button class="tab" data-filter="Practical Christian Living">Practical Christian Living</button></nav>
-<main><section class="intro"><p class="eyebrow">FIRST COLLECTION</p><h2>Genesis to Hebrews</h2><p>139 chapter bookmarks chosen for a substantial first walk through creation, prayer, Christ, and Christian life. Finished studies open below; chapters still being researched are clearly marked rather than filled with shallow summaries.</p></section><section id="cards" class="grid" aria-live="polite"></section></main>
-<dialog id="study"><button class="close" aria-label="Close">×</button><article id="studyBody"></article></dialog>
-<footer><span>🐔</span><span>🐝</span><span>🐿️</span><p>Made for slow, faithful reading.</p></footer>
+<main id="entryView" class="entry-view">
+  <section class="entry-card" aria-labelledby="entryTitle">
+    <span class="maker-mark" aria-hidden="true">🐔🔧</span>
+    <p class="eyebrow">Shelly's Bible Notes</p>
+    <div class="bookmark-glyph" aria-hidden="true">🔖</div>
+    <h1 id="entryTitle">Bookmark</h1>
+    <p class="entry-lead">A quiet companion for reading slowly, noticing carefully, and following Scripture's threads.</p>
+
+    <section class="find-panel" aria-labelledby="findTitle">
+      <h2 id="findTitle">Find a verse</h2>
+      <p>Type a chapter such as <strong>Genesis 3</strong>. Read it in your own Bible first; then open the notes.</p>
+      <form id="findForm" class="find-form">
+        <label class="sr-only" for="chapterSearch">Book and chapter</label>
+        <input id="chapterSearch" type="search" inputmode="text" autocomplete="off" placeholder="Genesis 3">
+        <button type="submit" class="primary">Find notes</button>
+      </form>
+      <p id="findStatus" class="find-status" aria-live="polite"></p>
+    </section>
+
+    <section class="first-collection" aria-labelledby="collectionTitle">
+      <p class="eyebrow">First collection</p>
+      <h2 id="collectionTitle">Genesis to Hebrews</h2>
+      <p class="collection-intro">Four quiet paths through foundational stories, prayer, the life of Jesus, and practical Christian living.</p>
+      <div class="collection-rows">
+        <button class="collection-row" data-filter="Foundational Stories"><span><strong>Foundational Stories</strong><small>Genesis</small></span><span aria-hidden="true">→</span></button>
+        <button class="collection-row" data-filter="Psalms & Prayer"><span><strong>Psalms &amp; Prayer</strong><small>Psalms 1–30</small></span><span aria-hidden="true">→</span></button>
+        <button class="collection-row" data-filter="Life of Jesus"><span><strong>Life of Jesus</strong><small>John</small></span><span aria-hidden="true">→</span></button>
+        <button class="collection-row" data-filter="Practical Christian Living"><span><strong>Practical Christian Living</strong><small>Galatians · Ephesians · Philippians · Colossians · James · Hebrews</small></span><span aria-hidden="true">→</span></button>
+      </div>
+      <button id="browseAll" class="secondary wide">Browse the whole first collection</button>
+    </section>
+
+    <p class="quiet-rhythm"><strong>Read in your Bible.</strong> Open the notes. Keep what matters.</p>
+  </section>
+</main>
+
+<main id="libraryView" class="library-view" hidden>
+  <header class="library-head">
+    <button id="homeBtn" class="back-btn">← Entry page</button>
+    <p class="eyebrow">First collection</p>
+    <h2>Genesis to Hebrews</h2>
+    <p>Finished chapter notes open below. Chapters still being researched stay plainly marked rather than being filled with shallow summaries.</p>
+  </header>
+
+  <nav class="tabs" aria-label="Collections">
+    <button class="tab active" data-filter="all">All</button>
+    <button class="tab" data-filter="Foundational Stories">Foundational Stories</button>
+    <button class="tab" data-filter="Psalms & Prayer">Psalms &amp; Prayer</button>
+    <button class="tab" data-filter="Life of Jesus">Life of Jesus</button>
+    <button class="tab" data-filter="Practical Christian Living">Practical Christian Living</button>
+  </nav>
+
+  <section id="cards" class="grid" aria-live="polite"></section>
+</main>
+
+<dialog id="study">
+  <button class="close" aria-label="Close chapter notes">×</button>
+  <article id="studyBody"></article>
+</dialog>
+
+<footer><p>Made for slow, faithful reading.</p></footer>
+
 <script src="app.js"></script>
 <script src="studies-extra.js"></script>
 <script src="studies-genesis6.js"></script>
 <script src="studies-genesis7.js"></script>
-</body></html>
+</body>
+</html>
