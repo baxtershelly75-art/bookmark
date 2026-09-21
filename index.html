@@ -10,13 +10,12 @@
 <body>
 <header class="site-head">
   <div class="head-inner">
-    <span class="maker-mark" aria-hidden="true">🐔🔧</span>
     <p class="eyebrow">Living Bookmark</p>
     <h1>Shelly's Bible Notes</h1>
     <p class="tagline">Read in your own Bible. Keep the notes that help you see the text more clearly.</p>
     <div class="head-actions">
       <button id="findVerseOpen" class="primary">Find a verse</button>
-      <button id="sourcesOpen" class="secondary">🍩 Sources &amp; References</button>
+      <button id="sourcesOpen" class="secondary">Sources &amp; references</button>
     </div>
   </div>
 </header>
@@ -61,7 +60,7 @@
   </section>
 
   <section class="availability-note">
-    <strong>Notes currently ready:</strong> Genesis 1–7. You can still add any Bible chapter to your reading list; unfinished notes stay plainly marked.
+    <strong>Notes currently ready:</strong> Genesis 1–7, Genesis 31, and Psalm 1. You can add any chapter to your reading list; chapters awaiting notes stay plainly marked.
   </section>
 </main>
 
@@ -87,8 +86,8 @@
 <dialog id="sourcesDialog" class="sheet">
   <button class="close" data-close="sourcesDialog" aria-label="Close Sources and References">×</button>
   <div class="sheet-body sources-page">
-    <p class="eyebrow">Follow the crumbs</p>
-    <h2>🍩 Sources &amp; References</h2>
+    <p class="eyebrow">About these notes</p>
+    <h2>Sources &amp; references</h2>
     <p>Scripture leads. Historical voices and background research serve the text rather than replacing it.</p>
 
     <section>
@@ -115,12 +114,13 @@
 </template>
 
 <footer>
-  <p>Made for slow, faithful reading.</p>
+  <p aria-label="Shelly, Adam, and Miles">🐿️ 🐝 🐔</p>
 </footer>
 
 <script src="app.js"></script>
 <script src="studies-extra.js"></script>
 <script src="studies-genesis6.js"></script>
 <script src="studies-genesis7.js"></script>
+<script src="studies-current.js"></script>
 </body>
 </html>

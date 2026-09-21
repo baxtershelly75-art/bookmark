@@ -272,11 +272,6 @@ function itemListHtml(items,kind,owner){
    (item.text?'<p>'+escapeHtml(item.text)+'</p>':'')+xrefHtml(item,owner+'-'+kind+'-'+i)+'</li>';
  }).join('')+'</ul>';
 }
-function cleanedResearchBody(html){
- return String(html||'')
-  .replace('<h3>Bookmarks</h3>','')
-  .replace('<h3>Sources beside the open Bible</h3>','<h3>🍩 Sources &amp; References</h3>');
-}
 function notesHtml(ref,study,meta,index){
  const commentary=meta.commentary;
  const reflections='<ol class="reflection-list">'+meta.reflections.map(function(q){return '<li>'+escapeHtml(q)+'</li>';}).join('')+'</ol>';
@@ -286,30 +281,26 @@ function notesHtml(ref,study,meta,index){
   '<h4>Worth writing down</h4>'+itemListHtml(meta.write,'margin',refId(ref))+
   '<div class="underline-box"><strong>Verse worth marking — '+escapeHtml(meta.underline.ref)+'</strong><br>'+escapeHtml(meta.underline.reason)+'</div>'+
   '<h4>Notice this</h4>'+itemListHtml(meta.notice,'notice',refId(ref))+
-  '<section class="reflection-box"><h4>🐝 Reflection questions</h4>'+reflections+'</section>'+
-  '<details class="drawer"><summary>🐿️ Commentary</summary><div class="drawer-body">'+
+  '<section class="reflection-box"><h4>Reflection questions</h4>'+reflections+'</section>'+
+  '<details class="drawer"><summary>Commentary</summary><div class="drawer-body">'+
     '<p><strong>'+escapeHtml(commentary.voice)+'</strong><br><small>'+escapeHtml(commentary.identity)+'</small></p>'+
     '<blockquote>“'+escapeHtml(commentary.quote)+'”</blockquote>'+
     '<p class="plain"><strong>In plain English:</strong> '+escapeHtml(commentary.plain)+'</p>'+
     '<p><strong>Source:</strong> '+escapeHtml(commentary.source)+'</p>'+
     '<p><a href="'+escapeHtml(commentary.url)+'" target="_blank" rel="noopener">Read the full source</a></p>'+
-    '<details class="drawer"><summary>More study notes &amp; chapter sources</summary><div class="drawer-body">'+cleanedResearchBody(study.body)+'</div></details>'+
   '</div></details>'+
   '<details class="drawer"><summary>I have a question</summary><div class="drawer-body">'+
     '<p><strong>'+escapeHtml(meta.question.q)+'</strong></p>'+
     '<p class="question-short">'+escapeHtml(meta.question.short)+'</p>'+
     '<details class="drawer"><summary>Explain more</summary><div class="drawer-body"><p>'+escapeHtml(meta.question.more)+'</p></div></details>'+
   '</div></details>'+
-  '<div class="completion"><button class="mark-read" type="button" data-mark-read="'+escapeHtml(ref)+'">Mark as Read</button>'+
-   (next?'<div class="next-prompt"><p>Ready for your next chapter? <strong>'+escapeHtml(next)+'</strong></p><button class="next-button" type="button" data-next="'+escapeHtml(next)+'">Next chapter: '+escapeHtml(next)+' →</button></div>':'')+
+  '<div class="completion">'+(isRead(ref)?'<p><strong>Read ✓</strong> <button class="undo-btn" type="button" data-undo="'+escapeHtml(ref)+'">Undo</button></p>':'<button class="mark-read" type="button" data-mark-read="'+escapeHtml(ref)+'">Mark as Read</button>')+
   '</div></div>';
 }
 function unavailableHtml(ref,index){
- const next=nextUnreadAfter(index);
  return '<div class="card-prompt"><p>Read <strong>'+escapeHtml(ref)+'</strong> in your own Bible.</p>'+
   '<div class="unavailable"><strong>Research in progress.</strong><br>The notes for this chapter are not ready yet. It can stay in your Living Bookmark while the chapter card is developed.</div>'+
   '<div class="completion"><button class="mark-read" type="button" data-mark-read="'+escapeHtml(ref)+'">Mark as Read</button>'+
-  (next?'<div class="next-prompt"><p>Ready for your next chapter? <strong>'+escapeHtml(next)+'</strong></p><button class="next-button" type="button" data-next="'+escapeHtml(next)+'">Next chapter: '+escapeHtml(next)+' →</button></div>':'')+
   '</div></div>';
 }
 function cardHtml(ref,index){
@@ -317,7 +308,9 @@ function cardHtml(ref,index){
  const read=isRead(ref);
  const current=readingQueue.findIndex(function(x){return !isRead(x);})===index;
  if(read&&!openedNotes.has(ref)){
-  return '<article id="card-'+refId(ref)+'" class="reading-card read"><div class="collapsed-read"><strong>'+escapeHtml(ref)+' — Read ✓</strong><div class="read-actions"><button class="open-notes" type="button" data-open-notes="'+escapeHtml(ref)+'">Open notes</button><button class="undo-btn" type="button" data-undo="'+escapeHtml(ref)+'">Undo</button><button class="remove-btn" type="button" data-remove="'+escapeHtml(ref)+'">Remove</button></div></div></article>';
+  const next=nextUnreadAfter(index);
+  return '<article id="card-'+refId(ref)+'" class="reading-card read"><div class="collapsed-read"><strong>'+escapeHtml(ref)+' — Read ✓</strong><div class="read-actions"><button class="open-notes" type="button" data-open-notes="'+escapeHtml(ref)+'">Open notes</button><button class="undo-btn" type="button" data-undo="'+escapeHtml(ref)+'">Undo</button><button class="remove-btn" type="button" data-remove="'+escapeHtml(ref)+'">Remove</button></div></div>'+
+   (next?'<div class="next-prompt"><p>Ready for your next chapter? <strong>'+escapeHtml(next)+'</strong></p><button class="next-button" type="button" data-next="'+escapeHtml(next)+'">Next chapter: '+escapeHtml(next)+' →</button></div>':'')+'</article>';
  }
  const top='<div class="card-top"><div><span class="small-status">'+(read?'Read ✓':(study&&meta?'Notes ready':'Research in progress'))+'</span><h3>'+escapeHtml(ref)+'</h3></div><button class="remove-btn" type="button" data-remove="'+escapeHtml(ref)+'">Remove</button></div>';
  if(!study||!meta){
@@ -357,7 +350,7 @@ async function loadKjv(){
    kjvMap=data;
    kjvSearchRows=Object.entries(data).map(function(pair){return {ref:pair[0],text:pair[1],norm:normalizeSearch(pair[1]+' '+pair[0])};});
    return data;
-  });
+  }).catch(function(error){kjvPromise=null;throw error;});
  }
  return kjvPromise;
 }
