@@ -4,71 +4,119 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#f5efe2">
-<title>Bookmark — Bible Reading Companion</title>
+<title>Shelly's Bible Notes — Living Bookmark</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<main id="entryView" class="entry-view">
-  <section class="entry-card" aria-labelledby="entryTitle">
+<header class="site-head">
+  <div class="head-inner">
     <span class="maker-mark" aria-hidden="true">🐔🔧</span>
-    <p class="eyebrow">Shelly's Bible Notes</p>
-    <div class="bookmark-glyph" aria-hidden="true">🔖</div>
-    <h1 id="entryTitle">Bookmark</h1>
-    <p class="entry-lead">A quiet companion for reading slowly, noticing carefully, and following Scripture's threads.</p>
+    <p class="eyebrow">Living Bookmark</p>
+    <h1>Shelly's Bible Notes</h1>
+    <p class="tagline">Read in your own Bible. Keep the notes that help you see the text more clearly.</p>
+    <div class="head-actions">
+      <button id="findVerseOpen" class="primary">Find a verse</button>
+      <button id="sourcesOpen" class="secondary">🍩 Sources &amp; References</button>
+    </div>
+  </div>
+</header>
 
-    <section class="find-panel" aria-labelledby="findTitle">
-      <h2 id="findTitle">Find a verse</h2>
-      <p>Type a chapter such as <strong>Genesis 3</strong>. Read it in your own Bible first; then open the notes.</p>
-      <form id="findForm" class="find-form">
-        <label class="sr-only" for="chapterSearch">Book and chapter</label>
-        <input id="chapterSearch" type="search" inputmode="text" autocomplete="off" placeholder="Genesis 3">
-        <button type="submit" class="primary">Find notes</button>
-      </form>
-      <p id="findStatus" class="find-status" aria-live="polite"></p>
-    </section>
+<main class="page">
+  <section class="passage-entry paper-card" aria-labelledby="readingTitle">
+    <p class="eyebrow">Your reading</p>
+    <h2 id="readingTitle">What are you reading?</h2>
+    <p class="help">Type one chapter or several. Each chapter will get its own reading card.</p>
 
-    <section class="first-collection" aria-labelledby="collectionTitle">
-      <p class="eyebrow">First collection</p>
-      <h2 id="collectionTitle">Genesis to Hebrews</h2>
-      <p class="collection-intro">Four quiet paths through foundational stories, prayer, the life of Jesus, and practical Christian living.</p>
-      <div class="collection-rows">
-        <button class="collection-row" data-filter="Foundational Stories"><span><strong>Foundational Stories</strong><small>Genesis</small></span><span aria-hidden="true">→</span></button>
-        <button class="collection-row" data-filter="Psalms & Prayer"><span><strong>Psalms &amp; Prayer</strong><small>Psalms 1–30</small></span><span aria-hidden="true">→</span></button>
-        <button class="collection-row" data-filter="Life of Jesus"><span><strong>Life of Jesus</strong><small>John</small></span><span aria-hidden="true">→</span></button>
-        <button class="collection-row" data-filter="Practical Christian Living"><span><strong>Practical Christian Living</strong><small>Galatians · Ephesians · Philippians · Colossians · James · Hebrews</small></span><span aria-hidden="true">→</span></button>
+    <form id="passageForm" class="passage-form">
+      <label for="passageInput">Type your chapters</label>
+      <input id="passageInput" type="text" autocomplete="off" placeholder="Genesis 31, Psalm 1, Matthew 1">
+      <button class="primary" type="submit">Add to my reading</button>
+    </form>
+
+    <div class="or-line"><span>or choose a chapter</span></div>
+
+    <div class="picker-row">
+      <label>
+        <span>Book</span>
+        <select id="bookSelect"></select>
+      </label>
+      <label>
+        <span>Chapter</span>
+        <select id="chapterSelect"></select>
+      </label>
+      <button id="addSelected" class="secondary" type="button">Add chapter</button>
+    </div>
+    <p id="entryStatus" class="status-line" aria-live="polite"></p>
+  </section>
+
+  <section class="reading-section" aria-labelledby="queueTitle">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">Living Bookmark</p>
+        <h2 id="queueTitle">My reading</h2>
       </div>
-      <button id="browseAll" class="secondary wide">Browse the whole first collection</button>
-    </section>
+      <button id="clearQueue" class="text-button" type="button">Clear list</button>
+    </div>
+    <div id="queue" class="queue" aria-live="polite"></div>
+  </section>
 
-    <p class="quiet-rhythm"><strong>Read in your Bible.</strong> Open the notes. Keep what matters.</p>
+  <section class="availability-note">
+    <strong>Notes currently ready:</strong> Genesis 1–7. You can still add any Bible chapter to your reading list; unfinished notes stay plainly marked.
   </section>
 </main>
 
-<main id="libraryView" class="library-view" hidden>
-  <header class="library-head">
-    <button id="homeBtn" class="back-btn">← Entry page</button>
-    <p class="eyebrow">First collection</p>
-    <h2>Genesis to Hebrews</h2>
-    <p>Finished chapter notes open below. Chapters still being researched stay plainly marked rather than being filled with shallow summaries.</p>
-  </header>
-
-  <nav class="tabs" aria-label="Collections">
-    <button class="tab active" data-filter="all">All</button>
-    <button class="tab" data-filter="Foundational Stories">Foundational Stories</button>
-    <button class="tab" data-filter="Psalms & Prayer">Psalms &amp; Prayer</button>
-    <button class="tab" data-filter="Life of Jesus">Life of Jesus</button>
-    <button class="tab" data-filter="Practical Christian Living">Practical Christian Living</button>
-  </nav>
-
-  <section id="cards" class="grid" aria-live="polite"></section>
-</main>
-
-<dialog id="study">
-  <button class="close" aria-label="Close chapter notes">×</button>
-  <article id="studyBody"></article>
+<dialog id="findVerseDialog" class="sheet">
+  <button class="close" data-close="findVerseDialog" aria-label="Back to reading">×</button>
+  <div class="sheet-body">
+    <p class="eyebrow">Find a verse</p>
+    <h2>What do you remember?</h2>
+    <p>Type any words or ideas you remember. Wording does not have to be exact.</p>
+    <form id="verseSearchForm" class="verse-search-form">
+      <label class="sr-only" for="verseSearch">Words or ideas you remember</label>
+      <input id="verseSearch" type="search" autocomplete="off" placeholder="God spoke in different ways long ago">
+      <button class="primary" type="submit">Find possible matches</button>
+    </form>
+    <p id="verseSearchStatus" class="status-line" aria-live="polite"></p>
+    <div id="verseResults" class="verse-results"></div>
+    <button id="showMoreVerses" class="secondary wide" type="button" hidden>Show more</button>
+    <button class="back-reading text-button" data-close="findVerseDialog" type="button">← Back to reading</button>
+    <p class="source-foot">Displayed verse text: King James Version (KJV), public-domain 1769 text. Exact electronic source is recorded under Sources &amp; References.</p>
+  </div>
 </dialog>
 
-<footer><p>Made for slow, faithful reading.</p></footer>
+<dialog id="sourcesDialog" class="sheet">
+  <button class="close" data-close="sourcesDialog" aria-label="Close Sources and References">×</button>
+  <div class="sheet-body sources-page">
+    <p class="eyebrow">Follow the crumbs</p>
+    <h2>🍩 Sources &amp; References</h2>
+    <p>Scripture leads. Historical voices and background research serve the text rather than replacing it.</p>
+
+    <section>
+      <h3>Bible text used for verse previews</h3>
+      <p><strong>King James Version (1769 text).</strong> Bookmark's verse-preview and Find-a-Verse text is loaded from the public-domain <em>farskipper/kjv</em> electronic corpus, file <code>json/verses-1769.json</code>, pinned in our source record by Git blob <code>65283236a5b9d8fd85283ea2ff1522fa0a06ca7b</code>.</p>
+      <a href="https://github.com/farskipper/kjv" target="_blank" rel="noopener">View the electronic KJV source</a>
+    </section>
+
+    <section>
+      <h3>Older voices</h3>
+      <p>Bookmark draws selectively from traceable works by voices such as Charles Spurgeon, Matthew Henry, John Gill, J. C. Ryle, Alexander Maclaren, F. B. Meyer, and George Müller when a documented passage genuinely helps.</p>
+      <p>Exact quotations are kept short, attributed, and tied to a verifiable work. Chapter-specific sources appear inside that chapter's Commentary section.</p>
+    </section>
+
+    <section>
+      <h3>Pastor Brian</h3>
+      <p>No sermon quotation is included unless there is a stable, verifiable source and Shelly has confirmed permission to reproduce the excerpt.</p>
+    </section>
+  </div>
+</dialog>
+
+<template id="loadingVerseTemplate">
+  <p class="verse-loading">Loading the KJV verse text…</p>
+</template>
+
+<footer>
+  <p>Made for slow, faithful reading.</p>
+</footer>
 
 <script src="app.js"></script>
 <script src="studies-extra.js"></script>
