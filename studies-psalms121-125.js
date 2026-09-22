@@ -32,7 +32,7 @@ Object.assign(studyMeta,{
   ],
   underline:{ref:'Psalms 122:1',reason:'Worship is not only obligation here; it is something David is genuinely glad to enter.'},
   notice:[
-   {ref:'Psalms 122:4',title:'Pilgrimage is communal.',text:'The tribes do not come merely as isolated individuals; they gather as one people to give thanks.'},
+   {ref:'Psalms 122:4',title:'The journey to worship is shared.',text:'The tribes do not come merely as isolated individuals; they gather as one people to give thanks.'},
    {ref:'Psalms 122:5',title:'Jerusalem held both worship and public judgment.',text:'The Psalm does not separate spiritual life from justice among God’s people.'},
    {ref:'Psalms 122:6',title:'Biblical “peace” is bigger than absence of fighting.',text:'Shalom carries the sense of wholeness, well-being, and things being set right.'}
   ],
