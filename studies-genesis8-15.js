@@ -92,7 +92,7 @@ Object.assign(studyMeta,{
  ],
  underline:{ref:'Genesis 12:3',reason:'The promise reaches outward: “in thee shall all families of the earth be blessed.”'},
  notice:[
-  {ref:'Genesis 11:4; Genesis 12:2',title:'Babel grasps for a name; God gives Abram a name.',text:'The two chapters sit beside each other with a revealing contrast between self-exaltation and received blessing.'},
+  {ref:'Genesis 12:2',title:'Babel grasps for a name; God gives Abram a name.',text:'The two chapters sit beside each other with a revealing contrast between self-exaltation and received blessing.',cross:[{ref:'Genesis 11:4',label:'Immediate contrast',reason:'Babel’s builders say, “let us make us a name”; the next chapter has God promise, “I will make thy name great.”'}]},
   {ref:'Genesis 12:6-8',title:'Abram lives as a tent-dwelling worshiper in promised land he does not yet possess.',text:'Altars and tents become recurring features of his life of promise.'}
  ],
  reflections:['Which part of God’s call to Abram requires trust before Abram can see the outcome?','What does the Egypt episode teach me about reading Bible heroes truthfully rather than idealizing them?'],
