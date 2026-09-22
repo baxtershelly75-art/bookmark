@@ -38,7 +38,7 @@ Object.assign(studyMeta,{
    {ref:'Psalms 92:13',title:'Being planted in God’s house does not mean never leaving a building.',text:'It is worship imagery for a life rooted in God’s presence and among His people.'}
   ],
   reflections:['What does my morning need to remember about God’s mercy, and what does my night need to remember about His faithfulness?','What kind of fruit do I hope my life is still producing when strength changes with age?'],
-  commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'praise is Sabbatic work, the joyful occupation of resting hearts',plain:'Spurgeon sees Sabbath praise as fitting rest—not inactivity, but the heart settling into God’s finished goodness.',source:'The Treasury of David — Psalm 92',url:'https://biblehub.com/commentaries/tod/psalms/92.htm'},
+  commentary:{voice:'Joseph Benson',identity:'English Methodist minister and commentator, 1749–1821',quote:'their last days shall be their best days',plain:'Benson sees old age here as a season that can still deepen in grace, comfort, and usefulness even while natural strength changes.',source:'Commentary on Psalm 92:13–14',url:'https://biblehub.com/commentaries/benson/psalms/92.htm'},
   question:{q:'Does “flourishing in old age” mean believers will stay physically strong?',short:'Not necessarily. The Psalm’s main picture is continuing spiritual fruit and testimony, not a promise that aging bodies will not weaken.',more:'Verse 14 speaks of fruitfulness, fullness, and flourishing, and verse 15 explains the purpose: showing that the LORD is upright. A person can become physically frail while still bearing deep fruit through prayer, wisdom, faithfulness, encouragement, and testimony.'}
  },
  'Psalms 93':{
