@@ -29,14 +29,14 @@ Object.assign(studyMeta,{
   oneLine:'John points sinning believers to Christ their Advocate and atoning sacrifice, then gives tests of knowing God through obedience, love, perseverance, and loyalty to the true Christ rather than antichrist teaching.',
   write:[
    {ref:'1 John 2:1',title:'Jesus is our Advocate with the Father.',text:'John wants believers not to sin, yet gives hope when they do.'},
-   {ref:'1 John 2:2',title:'Christ is the propitiation for sins.',text:'His sacrifice is sufficient beyond one small circle or nation.'},
+   {ref:'1 John 2:2',title:'Christ’s sacrifice truly deals with sin.',text:'The KJV word “propitiation” points to a sacrifice that answers guilt and restores peace with God; John says its sufficiency reaches far beyond one small circle or nation.'},
    {ref:'1 John 2:10',title:'Love walks in the light.',text:'Hatred toward a brother or sister exposes spiritual darkness.'},
    {ref:'1 John 2:17',title:'The world’s desires pass away.',text:'Doing God’s will belongs to what lasts.'},
    {ref:'1 John 2:28',title:'Abide in Christ.',text:'Continued fellowship produces confidence rather than shame at His appearing.'}
   ],
   underline:{ref:'1 John 2:1',reason:'John holds holiness and hope together: “sin not”—and “if any man sin, we have an advocate.”'},
   notice:[
-   {ref:'1 John 2:1-2',title:'Advocate and sacrifice belong together.',text:'Jesus does not plead for sinners as though the Father must be talked into mercy against justice. He is Himself “the propitiation for our sins.” His advocacy rests on the atoning work already accomplished.'},
+   {ref:'1 John 2:1-2',title:'Advocate and sacrifice belong together.',text:'Jesus does not plead for sinners as though the Father must be talked into mercy against justice. He is Himself the sacrifice that deals with our guilt. His advocacy rests on the atoning work already accomplished.'},
    {ref:'1 John 2:2',title:'“The sins of the whole world” has been understood in more than one way.',text:'Some Christians emphasize Christ’s sacrifice as sufficient and genuinely offered for all people; others read John as stressing believers throughout the world rather than one local group. Either way, John destroys a tiny, sectarian view of Christ’s saving worth.'},
    {ref:'1 John 2:3-6',title:'Obedience is evidence of knowing God, not the price of earning Him.',text:'John repeatedly tests profession by practice. Saying “I know him” while treating His commands as irrelevant makes the claim false. Yet the same paragraph keeps believers “in him”; obedience grows from relationship rather than purchasing it.'},
    {ref:'1 John 2:7-11',title:'The command to love is both old and new.',text:'It is old because God’s people have heard it from the beginning; it is new because Christ embodies and deepens it, and because the new age is already breaking into the darkness through Him.'},
@@ -78,7 +78,7 @@ Object.assign(studyMeta,{
    {ref:'1 John 4:1',title:'Test the spirits.',text:'Not every spiritual-sounding claim comes from God.'},
    {ref:'1 John 4:4',title:'Greater is He that is in you.',text:'The Spirit in believers is greater than the spirit at work in the world.'},
    {ref:'1 John 4:8',title:'God is love.',text:'Love belongs to God’s very character.'},
-   {ref:'1 John 4:10',title:'Love begins with God’s initiative.',text:'He loved us and sent His Son as the propitiation for our sins.'},
+   {ref:'1 John 4:10',title:'Love begins with God’s initiative.',text:'He loved us first and sent His Son as the sacrifice that truly deals with our sins.'},
    {ref:'1 John 4:18',title:'Perfect love casts out fear.',text:'Mature love drives out the fear of punishment.'}
   ],
   underline:{ref:'1 John 4:10',reason:'John defines love not by our feelings toward God but by God sending His Son to deal with our sins.'},
@@ -86,7 +86,7 @@ Object.assign(studyMeta,{
    {ref:'1 John 4:1-3',title:'Spiritual experience requires doctrinal testing.',text:'John does not say “if it feels spiritual, receive it.” The test centers on Jesus Christ truly come in the flesh. Spiritual claims that detach Christ from His real incarnation belong to the antichrist pattern.'},
    {ref:'1 John 4:4-6',title:'Discernment includes who a message listens to.',text:'John contrasts apostolic testimony with “the world.” His “he that knoweth God heareth us” is not permission for every later teacher to demand unquestioning loyalty; it refers to the apostolic witness through which the true Christ is known.'},
    {ref:'1 John 4:7-10',title:'“God is love” does not mean “whatever I call love must be God.”',text:'John defines love by God’s action in sending His Son for sinners. Love therefore has holy, sacrificial, truth-shaped content. The sentence cannot be used to make every desire morally right simply because someone experiences it as loving.'},
-   {ref:'1 John 4:9-10',title:'The sending of the Son reveals both love and seriousness about sin.',text:'Christ comes that we might live through Him and as “propitiation for our sins.” Divine love does not solve the problem by pretending guilt is unreal; it bears the cost of dealing with it.'},
+   {ref:'1 John 4:9-10',title:'The sending of the Son reveals both love and seriousness about sin.',text:'Christ comes that we might live through Him and as the sacrifice that deals with our guilt. Divine love does not solve the problem by pretending sin is unreal; it bears the cost of dealing with it.'},
    {ref:'1 John 4:11-12',title:'The unseen God becomes visible through love among His people.',text:'John says no one has seen God, yet when believers love one another God dwells in them and His love is brought toward maturity. Church relationships become a visible witness to an invisible God.'},
    {ref:'1 John 4:13-16',title:'Spirit, apostolic confession, and abiding love reinforce assurance together.',text:'John does not reduce assurance to one inward feeling. The Spirit is given, the Son is confessed as Savior, and God’s love becomes the place where believers abide.'},
    {ref:'1 John 4:17-18',title:'The fear cast out is fear tied to punishment.',text:'John says fear has torment or punishment in view. Reverence for God remains biblical; what mature love drives out is terror that imagines the believer still awaits condemnation from the God who has received him in Christ.'},
