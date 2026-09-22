@@ -26,7 +26,7 @@ The approved Genesis 31 written prototype remains the chapter-card benchmark. Hi
 
 ## Content and sources
 
-- Very short, useful, verse-linked margin notes. Teach one small thing. Keep supplemental commentary collapsed. Cross-references need a reason and never claim a thematic echo is a direct quotation.
+- Very short, useful, verse-linked margin notes. Teach one small thing. Keep supplemental commentary collapsed. Cross-references need a reason and never claim a thematic echo is a direct quotation. Preserve real biblical, theological, historical, and textual depth, but write in Shelly’s natural voice: thoughtful, informed, plainspoken, and direct. Do not dumb the material down, and do not sound academic or pontificating. Technical terms are welcome when they genuinely help, but explain them naturally in the same note. The test is whether Shelly could plausibly have written the note beside her Bible after studying the passage; if the substance is deep but the wording does not sound like her, rewrite the wording—not the depth.
 - KJV verse previews come from the [farskipper/kjv 1769 electronic text](https://github.com/farskipper/kjv), pinned in `app.js`. Quote only a verse or smallest relevant range in the interface.
 - Older historical voices may include Charles Spurgeon, Matthew Henry, John Gill, J. C. Ryle, John Calvin, Alexander Maclaren, F. B. Meyer, George Müller, Andrew Murray, and other appropriate older evangelical Protestant writers when an original, identifiable source truly fits.
 - Do **not** default to Matthew Henry and Spurgeon. Use a broad, passage-appropriate mix of trustworthy historical commentators and theologians. Choose the writer who genuinely illuminates the text rather than forcing a preferred name into every chapter.
@@ -36,12 +36,12 @@ The approved Genesis 31 written prototype remains the chapter-card benchmark. Hi
 
 ## Collection and current state
 
-Approved collection: Genesis 1–50; Psalms 1–30; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **139 carefully developed cards**, not a speed target. The interface supports queueing any Bible chapter.
+Approved collection: Genesis 1–50; Psalms 1–40; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **149 carefully developed cards**, not a speed target. Shelly explicitly extended the current Psalms run through Psalm 40 and requested a review checkpoint there. The interface supports queueing any Bible chapter.
 
-**Genesis 1–50 and Psalms 1–5 are published on `main`.** Genesis was published through PR #1; Psalms 2–5 were reviewed by Shelly, approved with 🐿️, merged through PR #2 at commit `d75a6e9445d6b3ac492aa0e95ab69591bfbf057c`, and the GitHub Pages build for that exact merge commit completed successfully.
+**Genesis 1–50 and Psalms 1–10 are published on `main`.** Psalms 6–10 were approved when Shelly instructed Miles to continue in the same manner through Psalm 40, then merged through PR #3 at commit `c8675fca7f2b05b14e108c2f4c78f1caf9383980`.
 
 Genesis 31 remains the benchmark card. Published content has passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks before publication. Durable checkpoints belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
 
-The next protected build line is Psalms 6–10, developed on a fresh branch using the same chapter-card standard, broad historical voices, verified sources, and a user-preview checkpoint before merge.
+**Psalm 40 checkpoint:** protected branch `psalms-11-40` contains authored cards for Psalms 11–40. Six five-psalm module checkpoints passed syntax/runtime, required-field, verse-reference, loader, source-link, and short-quotation checks. Commentary distribution across Psalms 11–40: Matthew Henry 6, John Gill 6, C. H. Spurgeon 6, Alexander Maclaren 6, John Calvin 4, F. B. Meyer 2. This branch remains off live `main` pending Shelly’s Psalm 40 checkpoint review.
 
 Visual style: quiet study Bible; warm cream paper, dark brown body text, burgundy headings, forest-green actions, antique-gold accents, readable phone typography and large word-labeled controls. Public site: https://baxtershelly75-art.github.io/bookmark/ .
