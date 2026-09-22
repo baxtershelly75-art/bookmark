@@ -38,10 +38,10 @@ The approved Genesis 31 written prototype remains the chapter-card benchmark. Hi
 
 Approved collection: Genesis 1–50; Psalms 1–30; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **139 carefully developed cards**, not a speed target. The interface supports queueing any Bible chapter.
 
-**Genesis 1–50 and Psalm 1 are published on `main`.** Shelly reviewed the recovered Genesis experience and approved proceeding with the plan. PR #1 was merged at commit `3f2250e1b668b53d95f4d9f1fff85a2e0866e695`, and the GitHub Pages build for that exact commit completed successfully.
+**Genesis 1–50 and Psalms 1–5 are published on `main`.** Genesis was published through PR #1; Psalms 2–5 were reviewed by Shelly, approved with 🐿️, merged through PR #2 at commit `d75a6e9445d6b3ac492aa0e95ab69591bfbf057c`, and the GitHub Pages build for that exact merge commit completed successfully.
 
-Genesis 31 remains the benchmark card. The Genesis set passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks before publication. Durable checkpoints belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
+Genesis 31 remains the benchmark card. Published content has passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks before publication. Durable checkpoints belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
 
-The next protected build line is Psalms 2–30, developed in quality checkpoints using the same chapter-card standard and a broad, passage-appropriate mix of older voices.
+The next protected build line is Psalms 6–10, developed on a fresh branch using the same chapter-card standard, broad historical voices, verified sources, and a user-preview checkpoint before merge.
 
 Visual style: quiet study Bible; warm cream paper, dark brown body text, burgundy headings, forest-green actions, antique-gold accents, readable phone typography and large word-labeled controls. Public site: https://baxtershelly75-art.github.io/bookmark/ .
