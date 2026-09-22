@@ -7,7 +7,7 @@ Object.assign(studyMeta,{
   oneLine:'David asks God to examine his integrity, separates himself from deceitful company, loves God’s dwelling, and still ends by asking for mercy rather than claiming self-sufficiency.',
   write:[
    {ref:'Psalms 26:1-2',title:'“Judge me” includes “examine me.”',text:'David wants vindication against false accusations, but he also invites God to test his inner life.'},
-   {ref:'Psalms 26:3',title:'God’s lovingkindness stays in front of David’s eyes.',text:'His walk in truth is framed by attention to God’s covenant mercy, not by moral self-congratulation.'},
+   {ref:'Psalms 26:3',title:'God’s lovingkindness stays in front of David’s eyes.',text:'David keeps God’s faithful mercy in view instead of congratulating himself for being good.'},
    {ref:'Psalms 26:8',title:'David loves the place associated with God’s glory.',text:'Public worship is not an obligation he tolerates; God’s dwelling is something he loves.'},
    {ref:'Psalms 26:11',title:'Integrity and mercy appear in the same verse.',text:'David resolves to walk uprightly and immediately prays, “redeem me, and be merciful unto me.”'}
   ],
@@ -71,7 +71,7 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 29:3-9',title:'“The voice of the LORD” is repeated seven times.',text:'The repetition gives the psalm its thunderous rhythm and keeps attention on the Speaker behind the storm.'},
    {ref:'Psalms 29:6',title:'Sirion is another name for Mount Hermon.',text:'The poetry imagines even great mountains skipping under divine power.'},
-   {ref:'Psalms 29:10',title:'The Hebrew word for “flood” is unusually strong.',text:'The word mabbul is otherwise associated with the Genesis flood, which makes the picture of God enthroned over overwhelming waters especially striking.'}
+   {ref:'Psalms 29:10',title:'The word “flood” is especially striking here.',text:'The Hebrew word used here is the same unusual word used for Noah’s flood in Genesis. Even overwhelming waters are pictured under God’s throne.'}
   ],
   reflections:['What kind of power makes me feel small—and how does Psalm 29 relocate that awe toward God?','Why is it important that the final word after all this thunder is peace?'],
   commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'The verses march to the tune of thunderbolts.',plain:'Spurgeon catches the sound of the poem itself. Psalm 29 is meant to feel powerful as the repeated voice of the LORD rolls through the landscape.',source:'The Treasury of David — Psalm 29',url:'https://www.biblehub.com/commentaries/tod/psalms/29.htm'},
@@ -80,7 +80,7 @@ Object.assign(studyMeta,{
  'Psalms 30':{
   oneLine:'David praises God for lifting him from near death, admits that prosperity made him overconfident, and celebrates the God who turns night-weeping into morning joy and mourning into praise.',
   write:[
-   {ref:'Psalms 30:1-3',title:'“Lifted me up” answers a near-death descent.',text:'The psalm moves vertically: God draws David up when he feels headed toward Sheol and the pit.'},
+   {ref:'Psalms 30:1-3',title:'“Lifted me up” answers a near-death descent.',text:'David pictures God pulling him upward when he feels headed toward the grave and the realm of the dead.'},
    {ref:'Psalms 30:5',title:'The verse compares duration as well as emotion.',text:'Anger is momentary beside favor that lasts; weeping lodges for the night, but joy arrives with morning.'},
    {ref:'Psalms 30:6-7',title:'Prosperity created false permanence.',text:'David admits that when secure he said, “I shall never be moved.” The hidden face of God exposed how dependent that stability really was.'},
    {ref:'Psalms 30:11-12',title:'God does not merely remove mourning; He turns it toward praise.',text:'Sackcloth becomes gladness so that David’s glory may sing and not be silent.'}
@@ -93,7 +93,7 @@ Object.assign(studyMeta,{
   ],
   reflections:['Where has comfort tempted me to confuse God-given stability with self-made permanence?','What sorrow in my life is still “night,” and what would it mean to leave room for God’s morning without pretending the night is painless?'],
   commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'the anger lasts for a moment; the favour lasts for a lifetime.',plain:'Maclaren emphasizes the asymmetry of the verse. Sorrow and discipline are real, but David sees God’s favor as the larger, enduring reality.',source:'Expositions of Holy Scripture — Psalm 30:5, “The Two Guests”',url:'https://biblehub.com/commentaries/maclaren/psalms/30.htm'},
-  question:{q:'How can Psalm 30 be “for the dedication of the house” if David did not build Solomon’s temple?',short:'The title can be understood in more than one way, and interpreters have long disagreed about the exact “house” and occasion.',more:'Suggestions include David’s own palace, a song later assigned to a temple dedication, or a title reflecting later liturgical use. The psalm itself does not settle the question because it never describes a building ceremony. Bookmark should preserve the title and the uncertainty rather than inventing a confident occasion.'}
+  question:{q:'How can Psalm 30 be “for the dedication of the house” if David did not build Solomon’s temple?',short:'The title can be understood in more than one way, and interpreters have long disagreed about the exact “house” and occasion.',more:'Suggestions include David’s own palace, a song later used for a temple dedication, or a title added because the psalm became part of later worship. The psalm itself does not settle the question because it never describes a building ceremony. It is better to admit that than to invent a confident answer.'}
  }
 });
 render();
