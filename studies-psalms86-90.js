@@ -73,7 +73,7 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 89:3-4',title:'The promise reaches back to 2 Samuel 7.',text:'God promised David a continuing house and kingdom, language that becomes central to the Bible’s hope for the Messiah.',cross:[{ref:'2 Samuel 7:12-16',label:'Covenant background',reason:'God promises David a continuing seed, kingdom, and throne.'}]},
    {ref:'Psalms 89:30-33',title:'Discipline does not equal covenant cancellation.',text:'The sons of David can be punished for sin while God says His lovingkindness will not be utterly taken away.'},
-   {ref:'Psalms 89:52',title:'The doxology closes Book III.',text:'“Blessed be the LORD for evermore. Amen, and Amen” stands even after the unresolved lament.'}
+   {ref:'Psalms 89:52',title:'A short burst of praise closes Book III.',text:'“Blessed be the LORD for evermore. Amen, and Amen” stands even after the unresolved lament.'}
   ],
   reflections:['What promise of God feels hardest to understand beside present circumstances?','How can lament become a way of holding onto a promise instead of letting it go?'],
   commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'Though our expectations may be disappointed, yet God’s promises are established in the heavens',plain:'Henry distinguishes our expectations from God’s promises. What we thought fulfillment would look like can collapse without the promise itself collapsing.',source:'Concise Commentary — Psalm 89:1–4',url:'https://biblehub.com/commentaries/mhc/psalms/89.htm'},
