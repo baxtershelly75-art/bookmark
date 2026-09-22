@@ -8,7 +8,7 @@ Object.assign(studyMeta,{
   write:[
    {ref:'Psalms 36:1-2',title:'Sin can become its own flattering interpreter.',text:'The wicked person loses the fear of God and then speaks reassuringly to himself about his own iniquity.'},
    {ref:'Psalms 36:5-6',title:'David answers cramped human evil with the vastness of God.',text:'Mercy reaches the heavens, faithfulness the clouds, righteousness is mountain-like, and judgments are a great deep.'},
-   {ref:'Psalms 36:7',title:'Precious lovingkindness creates refuge.',text:'The children of men hide under God’s wings because His covenant love is valuable beyond measure.'},
+   {ref:'Psalms 36:7',title:'Precious lovingkindness creates refuge.',text:'People hide under God’s wings because His faithful love is precious beyond measure.'},
    {ref:'Psalms 36:8-9',title:'God is pictured as both feast and fountain.',text:'His people drink from the river of His pleasures, and life itself is traced back to Him as its source.'},
    {ref:'Psalms 36:9',title:'God’s light lets us see.',text:'“In thy light shall we see light” means true perception is received from the One who is Himself the fountain of life.'}
   ],
@@ -73,7 +73,7 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 39:1',title:'Guarding the tongue is wise, but total suppression can become another problem.',text:'David’s initial silence is motivated by avoiding sin, yet verses 2–3 show grief needing a truthful Godward outlet.'},
    {ref:'Psalms 39:5-6',title:'The psalm uses breath-and-shadow imagery.',text:'Human life is real but fleeting; accumulation becomes absurd when treated as though the accumulator will remain forever.'},
-   {ref:'Psalms 39:12',title:'The sojourner image has covenant roots.',text:'Israel’s law could describe the people as strangers and sojourners with God because the land finally belonged to Him.',cross:[{ref:'Leviticus 25:23',label:'Covenant background',reason:'God says the land is His and Israel lives with Him as strangers and sojourners.'}]}
+   {ref:'Psalms 39:12',title:'The “stranger and sojourner” picture also appears in Israel’s law.',text:'God reminded Israel that the land ultimately belonged to Him, so even His people lived there as temporary residents under His care.',cross:[{ref:'Leviticus 25:23',label:'Old Testament background',reason:'God says the land is His and Israel lives there as strangers and sojourners with Him.'}]}
   ],
   reflections:['Is my silence helping me avoid sin, or merely trapping pain that needs to be spoken to God?','What am I treating as permanent that Psalm 39 would call breath or shadow?'],
   commentary:{voice:'F. B. Meyer',identity:'English Baptist pastor and devotional writer, 1847–1929',quote:'Life need not be lonely, if He be with us; nor its shortness sad.',plain:'Meyer takes David’s “stranger with thee” seriously. Brevity is frightening when life is detached from God; with God, even a short pilgrimage has companionship and destination.',source:'Through the Bible Day by Day — Psalm 39',url:'https://www.sermonindex.net/commentary/fbmeyer/PSA/39/'},
@@ -97,7 +97,7 @@ Object.assign(studyMeta,{
   ],
   reflections:['Where have I been tempted to think waiting means nothing is happening?','What would it look like for worship to become “I delight to do thy will,” not only words or ritual?'],
   commentary:{voice:'John Calvin',identity:'Reformation pastor and commentator, 1509–1564',quote:'God requires not mere ceremonies of those who serve him',plain:'Calvin hears verses 6–8 as a warning against separating worship forms from obedient surrender. The outward act matters only inside a life yielded to God.',source:'Commentary on Psalms — Psalm 40',url:'https://biblehub.com/commentaries/calvin/psalms/40.htm'},
-  question:{q:'Why does Psalm 40:6 say “mine ears hast thou opened,” while Hebrews 10:5 says “a body hast thou prepared me”?',short:'Hebrews is quoting the ancient Greek translation of Psalm 40, which renders the line differently from the Hebrew text behind the KJV.',more:'The Hebrew says, literally, something like “ears you have dug for me,” an image of a servant made ready to hear and obey. The Greek Septuagint has “a body you prepared for me,” and Hebrews 10 quotes that Greek wording, then applies the whole passage to Christ coming to do God’s will. The shared point is willing obedience over empty sacrifice; the different wording is real and should be acknowledged.'}
+  question:{q:'Why does Psalm 40:6 say “mine ears hast thou opened,” while Hebrews 10:5 says “a body hast thou prepared me”?',short:'Hebrews is quoting the ancient Greek translation of Psalm 40, which renders the line differently from the Hebrew text behind the KJV.',more:'The Hebrew wording is literally something like “ears you have dug for me,” which pictures a servant made ready to listen and obey. An ancient Greek translation says, “a body you prepared for me,” and Hebrews 10 quotes that Greek wording when speaking about Christ coming to do God’s will. The wording is different, but both versions point toward willing obedience rather than empty religious ritual.'}
  }
 });
 render();
