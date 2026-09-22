@@ -1,0 +1,93 @@
+// Romans 13–16 — Living Bookmark cards.
+Object.assign(studies,{
+ 'Romans 13':{body:''},'Romans 14':{body:''},'Romans 15':{body:''},'Romans 16':{body:''}
+});
+Object.assign(studyMeta,{
+ 'Romans 13':{
+  oneLine:'Paul places civil authority under God, summarizes neighbor-love as the fulfillment of the law, and tells believers to wake up and live as people of the coming day.',
+  write:[
+   {ref:'Romans 13:1',title:'Authority is not ultimate; it is under God.',text:'Paul calls governing authority a minister operating under a higher Lord.'},
+   {ref:'Romans 13:8',title:'Love is the debt that never gets paid off.',text:'Christian obligation to love the neighbor continues.'},
+   {ref:'Romans 13:10',title:'Love does no harm to the neighbor.',text:'That is why Paul can call love the fulfilling of the law.'},
+   {ref:'Romans 13:12',title:'The night is far spent.',text:'Christians are to live now in the light of the day that is coming.'}
+  ],
+  underline:{ref:'Romans 13:10',reason:'Paul’s summary is concrete: love refuses to harm the neighbor and therefore fulfills the law’s neighborward intent.'},
+  notice:[
+   {ref:'Romans 13:1-7',title:'Paul gives government real authority without making government divine.',text:'Civil rulers are called God’s servants for order and judgment, which gives their role seriousness but also places them under God. The text does not say every command a ruler gives is morally right. Scripture also contains faithful disobedience when authorities command what God forbids or forbid what God commands.',cross:[{ref:'Acts 5:29',label:'A needed boundary',reason:'The apostles say, “We ought to obey God rather than men” when rulers forbid what Christ commanded.'}]},
+   {ref:'Romans 13:3-4',title:'The description assumes authority is carrying out its proper purpose.',text:'Paul speaks of rulers as a terror to evil works and servants for good. When governments reward evil or punish good, they are contradicting the very God-given purpose Paul names rather than proving that whatever a government does must automatically be righteous.'},
+   {ref:'Romans 13:5-7',title:'Submission involves conscience, taxes, honor, and what is owed.',text:'Paul does not reduce Christian public life to fear of punishment. Believers recognize ordered authority as part of God’s providence and therefore give what is genuinely due—while still keeping ultimate worship for God alone.'},
+   {ref:'Romans 13:8-10',title:'Love fulfills the law without making the commandments meaningless.',text:'Paul names commands against adultery, murder, theft, false witness, and coveting, then says they are summed up in loving the neighbor. Love is not a vague feeling that replaces moral content; it is the kind of good toward the neighbor that the commandments were guarding.'},
+   {ref:'Romans 13:11-14',title:'Paul motivates holiness with the approaching day.',text:'Salvation is nearer in its final completion than when believers first believed. That future pulls behavior into the present: cast off works of darkness, put on the armor of light, and “put ye on the Lord Jesus Christ.” Christian ethics are shaped by where history is going.'}
+  ],
+  reflections:['Do I confuse respect for authority with treating authority as morally infallible?','What habit belongs to the night that I need to stop carrying into a life meant for the coming day?'],
+  commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'Love is a debt which is never discharged.',plain:'Henry catches the unusual nature of Paul’s command. We should pay ordinary debts and be done with them, but love remains permanently owed because the neighbor never becomes someone we are finished treating with Christlike good.',source:'Concise Commentary — Romans 13',url:'https://biblehub.com/commentaries/mhc/romans/13.htm'},
+  question:{q:'Does Romans 13 require Christians to obey every government order?',short:'No. It commands real submission to legitimate civil authority, but Scripture never gives government the right to overrule God.',more:'The same Bible that says “be subject” also praises people who refuse commands that require sin and records apostles disobeying orders to stop preaching Christ. Romans 13 defines authority as God’s servant for good. Christians should not turn every disagreement into rebellion, but neither should they treat the state as Lord.'}
+ },
+ 'Romans 14':{
+  oneLine:'Paul teaches believers to stop despising and judging one another over disputable practices, to live before the Lord, and to use freedom in a way that does not crush another believer’s conscience.',
+  write:[
+   {ref:'Romans 14:4',title:'Another believer answers to his own Master.',text:'Paul tells Christians to stop acting like they own one another’s servants.'},
+   {ref:'Romans 14:8',title:'Living and dying both belong to the Lord.',text:'Christian identity is deeper than the disputed practice.'},
+   {ref:'Romans 14:17',title:'The kingdom is bigger than food and drink.',text:'Righteousness, peace, and joy in the Holy Spirit matter more.'},
+   {ref:'Romans 14:23',title:'Conscience matters.',text:'Acting against faith and conscience turns even a disputed practice into sin for that person.'}
+  ],
+  underline:{ref:'Romans 14:19',reason:'Paul redirects energy from winning disputes toward “things which make for peace” and mutual edification.'},
+  notice:[
+   {ref:'Romans 14:1-6',title:'The disputed issues are real practices, not doctrines Paul thinks are morally identical.',text:'Some believers eat broadly while others restrict themselves; some esteem particular days while others do not. Paul allows differing convictions because these matters can be practiced “unto the Lord.” He is not saying idolatry, adultery, injustice, and every other moral issue are merely personal preferences.'},
+   {ref:'Romans 14:1',title:'“Doubtful disputations” means arguments over disputed opinions.',text:'Paul tells the church to receive the weak believer without turning welcome into a strategy for endless quarrels about scruples. Christian fellowship should not require every conscience to reach maturity on the same timetable.'},
+   {ref:'Romans 14:3-4',title:'The strong are tempted to despise; the weak are tempted to judge.',text:'Paul addresses both directions of pride. Freedom can become contempt for a stricter believer, while strictness can become condemnation of a freer believer. Both forget that God has received the other person.'},
+   {ref:'Romans 14:10-12',title:'The coming judgment should make us less eager to sit in God’s chair now.',text:'Every believer will give account of himself to God. Paul uses that fact not to create panic but to restrain interpersonal judgment. I have enough responsibility answering for my own life without appointing myself final judge of another servant.'},
+   {ref:'Romans 14:13-21',title:'Love may voluntarily limit a real freedom.',text:'Paul does not solve the chapter by declaring the stronger conscience wrong. He says nothing is unclean of itself in the disputed food question, yet a freedom becomes badly used when flaunted in a way that wounds another believer or pressures him to violate conscience.'},
+   {ref:'Romans 14:22-23',title:'Private conviction does not always need public display.',text:'“Hast thou faith? have it to thyself before God” warns against turning liberty into performance. Mature freedom can be quiet. The goal is not proving how unbothered my conscience is but walking in love.'}
+  ],
+  reflections:['Am I more tempted to despise people with stricter consciences or judge people with freer consciences?','Is there a freedom I could quietly limit because loving somebody matters more than displaying the freedom?'],
+  commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'Every man must give an account of himself to God.',plain:'Gill keeps Paul’s judgment-seat language pointed in the right direction. The coming account should make believers more serious about their own faithfulness and less eager to manage every disputed choice in somebody else’s life.',source:'Exposition of the Entire Bible — Romans 14',url:'https://biblehub.com/commentaries/gill/romans/14.htm'},
+  question:{q:'How do I know whether something belongs in Romans 14 or is a clear moral issue?',short:'Romans 14 fits practices Scripture allows believers to hold differently while still honoring the Lord, not conduct Scripture directly condemns.',more:'The chapter’s examples involve food and days, and Paul can say the person on either side may act “unto the Lord.” That test matters. We should not use Romans 14 to relabel clear sin as a preference, but we also should not promote every personal conviction into a command God gave everyone.'}
+ },
+ 'Romans 15':{
+  oneLine:'The strong are called to carry the weak rather than please themselves, Scripture gives endurance and hope, Jew and Gentile praise God together, and Paul explains his missionary calling toward places where Christ has not been named.',
+  write:[
+   {ref:'Romans 15:1',title:'Strength is for carrying, not dominating.',text:'The strong should bear the infirmities of the weak rather than please themselves.'},
+   {ref:'Romans 15:4',title:'Old Testament Scripture was written for our learning.',text:'Through patience and comfort from the Scriptures believers have hope.'},
+   {ref:'Romans 15:7',title:'Receive one another because Christ received you.',text:'Grace received becomes the pattern for fellowship given.'},
+   {ref:'Romans 15:13',title:'The God of hope fills believers with joy and peace in believing.',text:'Hope overflows by the power of the Holy Spirit.'},
+   {ref:'Romans 15:20',title:'Paul wants to preach where Christ is not named.',text:'His ambition is missionary, not competitive.'}
+  ],
+  underline:{ref:'Romans 15:7',reason:'Paul grounds Christian welcome in the deepest welcome believers already received: “as Christ also received us.”'},
+  notice:[
+   {ref:'Romans 15:1-3',title:'Christ is the model for how strength is used.',text:'Paul tells the strong not merely to tolerate the weak but to carry their weaknesses and seek the neighbor’s good. He then quotes Psalm 69 about reproaches falling on Christ. Christian strength bends toward service because Christ did not live for self-pleasing.'},
+   {ref:'Romans 15:4',title:'Paul openly tells Christians to read Israel’s Scriptures as their own source of hope.',text:'The Old Testament was written in earlier times, yet Paul says it was written “for our learning.” Christians should neither discard Israel’s Scriptures nor read them carelessly as if their original setting does not matter. Patient reading lets their comfort and endurance feed hope in Christ.'},
+   {ref:'Romans 15:5-7',title:'Unity is aimed toward shared worship, not uniform personality.',text:'Paul wants believers “with one mind and one mouth” to glorify God. The context is still strong and weak believers who do not agree on every practice. Gospel unity can therefore hold real secondary difference without turning worship into separate camps.'},
+   {ref:'Romans 15:8-12',title:'Christ’s ministry confirms promises to Israel and extends mercy to the nations.',text:'Paul refuses to tell a story where Gentile salvation means Israel’s story has become irrelevant. Jesus confirms the promises made to the fathers, and the Gentiles glorify God for mercy. Paul then stacks Old Testament quotations showing nations joining Israel’s praise.'},
+   {ref:'Romans 15:14-21',title:'Paul’s confidence in the Romans does not make his apostolic correction contradictory.',text:'He calls them full of goodness and able to admonish one another, yet says he has written boldly as a reminder because of God’s grace on his ministry. Mature believers can still need strong reminders without being treated as spiritually useless.'},
+   {ref:'Romans 15:22-29',title:'Paul’s Spain plan shows the outward momentum of his mission.',text:'He hopes Rome will become a sending point toward territory farther west. Before that, he is carrying financial help from Gentile churches to poor Jewish believers in Jerusalem—a practical sign that Gentile spiritual blessing creates real obligation toward Jewish brothers and sisters.'},
+   {ref:'Romans 15:30-33',title:'Paul asks for serious prayer because ministry plans are not self-executing.',text:'He asks the church to “strive together” in prayer for rescue from unbelieving opponents and for his service to be accepted. Apostolic calling does not eliminate dependence on ordinary believers’ intercession.'}
+  ],
+  reflections:['Where could I use strength to carry somebody instead of expecting them to catch up before I welcome them?','What part of Scripture have I neglected that God may want to use to produce endurance and hope?'],
+  commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'The strong are to bear the infirmities of the weak.',plain:'Maclaren keeps Paul’s strength from becoming status. In the church, maturity is measured partly by whether strength becomes load-bearing love rather than a reason to demand that weaker consciences move faster.',source:'Expositions of Holy Scripture — Romans 15',url:'https://biblehub.com/commentaries/maclaren/romans/15.htm'},
+  question:{q:'What does it mean that Christ became “a minister of the circumcision”?',short:'It means Jesus came within Israel’s covenant story and ministry in order to confirm God’s promises to the patriarchs.',more:'Paul is emphasizing God’s faithfulness to Israel, not limiting Jesus’ mission to Jewish people forever. The very next verses celebrate Gentiles glorifying God for mercy. Christ fulfills promises to Israel in a way that opens worldwide praise rather than erasing Israel’s place in the story.'}
+ },
+ 'Romans 16':{
+  oneLine:'Paul closes a deeply theological letter with a deeply personal network of coworkers, warns against divisive teachers, and ends by praising the God who establishes believers through the gospel of Jesus Christ.',
+  write:[
+   {ref:'Romans 16:1-2',title:'Phoebe is warmly commended.',text:'Paul entrusts the Roman church to receive and assist a proven servant and benefactor.'},
+   {ref:'Romans 16:3-4',title:'Priscilla and Aquila risked their lives for Paul.',text:'Gospel ministry in Romans is never a one-man story.'},
+   {ref:'Romans 16:16',title:'The churches greet one another.',text:'The long name-list reveals a connected, affectionate Christian network.'},
+   {ref:'Romans 16:20',title:'God will bruise Satan under their feet.',text:'Paul echoes Genesis 3:15 while giving ordinary believers a share in Christ’s victory.'},
+   {ref:'Romans 16:27',title:'The final glory belongs to God through Jesus Christ.',text:'The letter ends in worship just as its gospel demands.'}
+  ],
+  underline:{ref:'Romans 16:20',reason:'The promise echoes the Bible’s first serpent-defeat hope and places the church beneath God’s coming victory.'},
+  notice:[
+   {ref:'Romans 16:1-2',title:'Phoebe’s description is important and debated in translation.',text:'Paul calls her a “servant” or deacon of the church at Cenchrea and a “succourer” or benefactor/patron of many, including Paul. Christians differ on whether the first term identifies a formal church office, but the passage unquestionably presents Phoebe as trusted, active, and worthy of substantial support.'},
+   {ref:'Romans 16:3-16',title:'The name-list is theology with faces.',text:'Women and men, Jews and Gentiles, people with slave-associated names and people with social standing, house-church hosts and laborers all appear. The gospel Paul explained for fifteen chapters has created an actual family whose diversity is not theoretical.'},
+   {ref:'Romans 16:7',title:'Junia’s exact description has generated long discussion.',text:'The name is naturally feminine, and the phrase can mean she and Andronicus were “well known among the apostles” or “notable to the apostles.” The verse certainly honors them as early believers who shared imprisonment; debates about the precise meaning should not erase what Paul plainly praises.'},
+   {ref:'Romans 16:17-18',title:'Paul’s call for unity does not mean every teacher should be welcomed.',text:'After Romans 14–15 tells believers not to divide over disputable matters, Romans 16 warns against people creating divisions contrary to apostolic teaching. Christian charity distinguishes between secondary differences and teaching that pulls people away from the gospel.'},
+   {ref:'Romans 16:20',title:'“Under your feet” echoes Genesis while keeping God as the actor.',text:'Genesis 3:15 promises conflict with the serpent and a crushing blow. Paul says “the God of peace shall bruise Satan under your feet shortly.” The church participates in victory, but God is the One who crushes the enemy.',cross:[{ref:'Genesis 3:15',label:'Serpent-defeat background',reason:'The first biblical promise of conflict and ultimate crushing of the serpent stands behind Paul’s language.'}]},
+   {ref:'Romans 16:25-27',title:'The final praise gathers major Romans themes into one ending.',text:'God establishes believers according to Paul’s gospel, centered on Jesus Christ, revealing a mystery now made known through prophetic Scriptures to all nations for the obedience of faith. The letter closes where it began: gospel, nations, faith, obedience, and glory to God.'}
+  ],
+  reflections:['Whose quiet gospel labor do I tend to overlook because it is not public or impressive?','Can I distinguish between a secondary disagreement that needs patience and teaching that actually damages the gospel?'],
+  commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'None are more truly honourable than those who are useful to the saints.',plain:'Henry fits Romans 16’s surprising emphasis. Paul ends a monumental doctrinal letter by honoring people who served, hosted, risked themselves, labored, and helped. Gospel usefulness has a kind of honor the world’s status systems often miss.',source:'Concise Commentary — Romans 16',url:'https://biblehub.com/commentaries/mhc/romans/16.htm'},
+  question:{q:'Why does Romans end with so many names?',short:'Because Paul’s gospel creates a real people, and those relationships are part of the letter’s message rather than an afterthought.',more:'Romans has explained one body made from Jew and Gentile, strong and weak, all under grace. Chapter 16 lets us see that body in human form. Theology has produced friendships, coworkers, hosts, risk-takers, imprisoned believers, and churches meeting in homes.'}
+ }
+});
+render();

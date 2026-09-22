@@ -1,0 +1,94 @@
+// Romans 9–12 — Living Bookmark cards.
+Object.assign(studies,{
+ 'Romans 9':{body:''},'Romans 10':{body:''},'Romans 11':{body:''},'Romans 12':{body:''}
+});
+Object.assign(studyMeta,{
+ 'Romans 9':{
+  oneLine:'Paul grieves over Israel’s unbelief and defends God’s freedom in carrying the promise forward, showing that physical descent alone never guaranteed participation in the promised line.',
+  write:[
+   {ref:'Romans 9:2-3',title:'Paul’s theology begins with grief, not triumph.',text:'He speaks about Israel’s unbelief with “great heaviness and continual sorrow.”'},
+   {ref:'Romans 9:6',title:'God’s word has not failed.',text:'Paul distinguishes physical descent from the children through whom the promise runs.'},
+   {ref:'Romans 9:16',title:'Mercy is not earned by human willing or running.',text:'Paul keeps salvation rooted in God’s mercy.'},
+   {ref:'Romans 9:33',title:'The stumbling stone is also the sure foundation.',text:'Whoever believes on Him will not be put to shame.'}
+  ],
+  underline:{ref:'Romans 9:6',reason:'The chapter’s painful question is answered first with this conviction: “Not as though the word of God hath taken none effect.”'},
+  notice:[
+   {ref:'Romans 9:1-5',title:'Paul’s grief keeps the chapter from becoming cold speculation.',text:'Israel has extraordinary privileges: adoption, glory, covenants, law, worship, promises, patriarchs, and the Messiah according to the flesh. Paul does not discuss election as an abstract puzzle detached from real people; he begins with tears over people he loves.'},
+   {ref:'Romans 9:6-13',title:'The Old Testament itself shows that promise and physical descent are not identical.',text:'Isaac rather than Ishmael and Jacob rather than Esau show that God’s covenant purpose moves by divine promise rather than automatically through every biological descendant. Paul is explaining why Israel’s widespread unbelief does not prove God’s promise collapsed.'},
+   {ref:'Romans 9:14-18',title:'Paul anticipates the fairness objection.',text:'His answer reaches back to Moses and Pharaoh: mercy is genuinely mercy because God is not indebted to the creature. Pharaoh is also a ruler who repeatedly hardens himself in Exodus before and alongside God’s judicial hardening, so Paul’s point should not be flattened into the idea that human moral responsibility disappears.'},
+   {ref:'Romans 9:19-24',title:'The potter-and-clay image emphasizes Creator freedom.',text:'Paul does not give the clay the right to put God in the dock. Yet the larger biblical image of potter and clay often includes God dealing with morally responsible people and even reshaping what is marred. Romans 9 stresses divine right without turning people into literal lifeless objects.'},
+   {ref:'Romans 9:25-29',title:'Paul uses Hosea and Isaiah to show both inclusion and remnant.',text:'People once called “not my people” are called beloved, while Isaiah shows only a remnant of Israel being saved. The Scriptures already contained both surprising mercy to outsiders and severe judgment within Israel.'},
+   {ref:'Romans 9:30-33',title:'The chapter ends with faith and unbelief, not with fatalism.',text:'Gentiles attain righteousness by faith while Israel stumbles because it pursues righteousness “as it were by the works of the law.” Whatever mystery remains in God’s sovereign purpose, Paul still holds people responsible for what they do with the stumbling stone, Christ.'}
+  ],
+  reflections:['Can I discuss difficult theology with the kind of grief Paul has for real people?','Where do I subtly act as though mercy is something God owes rather than something He freely gives?'],
+  commentary:{voice:'John Calvin',identity:'Reformation pastor and commentator, 1509–1564',quote:'he could not mention their destruction without tears',plain:'Calvin notices Paul’s tone before Paul’s argument. Romans 9 should never make Christians smug about unbelief. The apostle who defends God’s freedom is also the man who says the subject causes him continual sorrow.',source:'Commentary on Romans — Romans 9',url:'https://biblehub.com/commentaries/calvin/romans/9.htm'},
+  question:{q:'Is Romans 9 mainly about individual salvation or about Israel’s place in God’s plan?',short:'Both questions touch the chapter, but the immediate problem is Israel’s widespread unbelief and whether that means God’s promise failed.',more:'Paul discusses individuals like Isaac, Jacob, Esau, Moses, and Pharaoh because God’s freedom in choosing and showing mercy is part of his answer. Yet Romans 9–11 is one continuous argument about Israel, Gentiles, promise, remnant, and God’s faithfulness. Reading the chapter only as a detached system about individuals misses the larger question that makes Paul grieve.'}
+ },
+ 'Romans 10':{
+  oneLine:'Paul longs for Israel’s salvation and insists that righteousness is not reached by climbing up to God through law-performance; Christ is near in the proclaimed word, and salvation is received by believing and calling on Him.',
+  write:[
+   {ref:'Romans 10:4',title:'Christ is the goal and fulfillment of the law for righteousness.',text:'Everyone who believes finds righteousness in Him rather than in successful law-keeping.'},
+   {ref:'Romans 10:9',title:'The gospel reaches mouth and heart.',text:'Confessing Jesus as Lord and believing God raised Him from the dead belong together.'},
+   {ref:'Romans 10:13',title:'Everyone who calls on the Lord will be saved.',text:'Paul applies Joel’s promise to calling on Jesus.'},
+   {ref:'Romans 10:17',title:'Faith comes by hearing.',text:'God ordinarily creates faith through the proclaimed word about Christ.'}
+  ],
+  underline:{ref:'Romans 10:13',reason:'Paul’s “whosoever” is as wide as the promise: whoever calls on the name of the Lord will be saved.'},
+  notice:[
+   {ref:'Romans 10:1-3',title:'Zeal can be sincere and still be wrong.',text:'Paul does not dismiss Israel as spiritually lazy; he says they have zeal for God. The tragedy is zeal “not according to knowledge,” trying to establish their own righteousness instead of submitting to God’s righteousness. Intensity cannot turn the wrong foundation into the right one.'},
+   {ref:'Romans 10:4',title:'“End of the law” can mean goal as well as termination.',text:'The Greek word can carry the sense of endpoint, goal, or culmination. Paul’s argument is not that the Old Testament was a mistake now thrown away. Christ is where the law’s righteousness question arrives, so righteousness is found in Him for everyone who believes.'},
+   {ref:'Romans 10:6-8',title:'Paul reshapes Deuteronomy 30 around Christ.',text:'Moses had said God’s command was not impossibly far away in heaven or across the sea. Paul takes that “near word” language and applies it to the gospel: nobody needs to climb into heaven to bring Christ down or descend to bring Him up. God has already acted; the saving word is now proclaimed near at hand.'},
+   {ref:'Romans 10:9-10',title:'Heart-faith and mouth-confession are not two unrelated entrance exams.',text:'They describe one allegiance to the risen Jesus from inward trust to outward confession. In a world where “Jesus is Lord” challenged other lordships, confession was not a magic sentence but a public expression of genuine faith.'},
+   {ref:'Romans 10:13',title:'Paul quotes Joel’s “name of the LORD” promise and applies it to Jesus.',text:'Joel 2:32 speaks of calling on the name of the LORD. Paul has just spoken of confessing Jesus as Lord and then quotes Joel. The connection is one of the New Testament’s strong ways of placing Jesus within the divine identity of Israel’s God.',cross:[{ref:'Joel 2:32',label:'Direct Old Testament quotation',reason:'Paul quotes Joel’s promise that whoever calls on the name of the LORD will be saved.'}]},
+   {ref:'Romans 10:14-17',title:'The chain from sending to hearing shows why proclamation matters.',text:'People cannot call on One they have not believed, believe One they have not heard of, or hear without a preacher. God is sovereign in salvation, yet Romans 10 makes ordinary gospel proclamation one of the means He uses to create faith.'}
+  ],
+  reflections:['Where could sincere zeal be keeping me from submitting to what God has actually said?','Whose hearing might depend on someone being willing to speak the gospel plainly?'],
+  commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'The self-condemned sinner need not perplex himself how this righteousness may be found.',plain:'Henry hears Paul relieving the person who thinks salvation requires some impossible spiritual journey. God has already brought Christ near in the gospel. The sinner is not asked to achieve the incarnation or resurrection, only to receive the risen Lord in faith.',source:'Concise Commentary — Romans 10',url:'https://biblehub.com/commentaries/mhc/romans/10.htm'},
+  question:{q:'Does Romans 10:9 mean saying the words “Jesus is Lord” automatically saves somebody?',short:'No. Paul joins confession with genuine heart-belief in the risen Christ.',more:'The mouth and heart belong together in verses 9–10. A formula repeated without trust is not Paul’s idea of saving confession. Likewise, a supposedly private faith that refuses Jesus’ lordship misses the public allegiance the confession expresses.'}
+ },
+ 'Romans 11':{
+  oneLine:'Paul insists that God has not rejected Israel: a remnant exists by grace, Gentiles are grafted into Israel’s rich root without grounds for boasting, and the chapter ends in wonder at God’s unsearchable wisdom.',
+  write:[
+   {ref:'Romans 11:1',title:'God has not cast away His people.',text:'Paul himself is living evidence that Jewish unbelief is not total rejection.'},
+   {ref:'Romans 11:6',title:'Grace stops being grace if it becomes wages for works.',text:'Paul keeps the categories distinct.'},
+   {ref:'Romans 11:18',title:'The branch does not support the root.',text:'Gentile believers have no basis for arrogance over Jewish unbelief.'},
+   {ref:'Romans 11:29',title:'God’s gifts and calling are irrevocable.',text:'Paul grounds hope for Israel in God’s faithfulness, not Israel’s performance.'},
+   {ref:'Romans 11:33',title:'The argument ends in worship.',text:'God’s judgments are unsearchable and His ways past tracing out.'}
+  ],
+  underline:{ref:'Romans 11:33',reason:'Paul does not finish the mystery by pretending he has made God small enough to diagram completely; he worships.'},
+  notice:[
+   {ref:'Romans 11:1-6',title:'Paul answers “Has God rejected His people?” with himself and Elijah’s remnant.',text:'Israel’s unbelief is severe but not total. Just as God preserved seven thousand in Elijah’s day, Paul says there is a present remnant “according to the election of grace.” The remnant exists because of grace, not because they found a superior works-based path.'},
+   {ref:'Romans 11:7-10',title:'Hardening is both judgment and part of the present mystery.',text:'Paul quotes Scripture about eyes that do not see and ears that do not hear. Yet he will not allow readers to conclude the story is simply over. The same chapter that speaks of hardening also speaks of jealousy, grafting in again, and mercy still ahead.'},
+   {ref:'Romans 11:11-15',title:'Israel’s stumbling becomes an occasion for Gentile salvation, but Paul still hopes for Israel.',text:'God can bring worldwide blessing through a tragic rejection without calling the rejection good. Paul’s ministry to Gentiles even has a Jewish hope inside it: he longs to provoke his own people to holy jealousy and save some.'},
+   {ref:'Romans 11:17-24',title:'The olive tree destroys Gentile boasting.',text:'Wild branches are grafted into a cultivated root; they do not plant a new tree and mock the old one. Paul warns Gentile Christians to fear, not boast. The same God who grafted them in can graft natural branches in again.'},
+   {ref:'Romans 11:25-27',title:'“All Israel shall be saved” has several major Christian readings.',text:'Some understand “all Israel” as a future large-scale turning of ethnic Israel to Christ; others understand it as the full people of God, Jew and Gentile, or the complete saved remnant across history. The wording is debated, but Paul’s point is not: Gentile believers must not become wise in their own conceit, and God’s covenant mercy has not failed.'},
+   {ref:'Romans 11:28-32',title:'Paul sees mercy as the final word over the Jew-Gentile story.',text:'Israel can be “enemies” in relation to the gospel and still “beloved” because of the fathers. Paul holds present unbelief and enduring covenant concern together, then says God has shut all up in disobedience that He might have mercy upon all—leaving every group dependent on mercy.'},
+   {ref:'Romans 11:33-36',title:'The chapter ends in worship, and that ending matters.',text:'After three chapters of election, hardening, Israel, Gentiles, promise, and mercy, Paul does not close with intellectual swagger. He confesses that nobody is God’s counselor, nobody first gave to God, and everything is from Him, through Him, and to Him.'}
+  ],
+  reflections:['Does my understanding of grace make me humbler toward people who currently do not believe?','Where do I need to let mystery end in worship instead of pretending I can make God completely manageable?'],
+  commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'The root bears thee, not thou the root.',plain:'Maclaren stays close to Paul’s warning. Gentile Christianity cannot treat Israel’s story as disposable scaffolding it has outgrown. Believers stand inside promises and Scriptures they did not create, which should produce gratitude rather than contempt.',source:'Expositions of Holy Scripture — Romans 11',url:'https://biblehub.com/commentaries/maclaren/romans/11.htm'},
+  question:{q:'What does “all Israel shall be saved” mean?',short:'Christians disagree about the exact scope, especially whether Paul predicts a future large-scale turning of ethnic Israel, but the verse clearly supports hope rather than Gentile arrogance.',more:'The immediate context discusses a partial hardening on Israel “until the fulness of the Gentiles be come in.” That is why many interpreters expect a future turning of Jewish people to Christ. Others understand “all Israel” more broadly as the full covenant people God saves. Whatever position is taken, Romans 11 forbids boasting and insists God’s mercy and calling have not become unfaithful.'}
+ },
+ 'Romans 12':{
+  oneLine:'After eleven chapters of mercy, Paul describes the fitting response: offer the whole self to God, let the mind be renewed, use gifts humbly, love without pretending, bless enemies, and overcome evil with good.',
+  write:[
+   {ref:'Romans 12:1',title:'Mercy calls for a living sacrifice.',text:'Christian worship reaches the body and ordinary life.'},
+   {ref:'Romans 12:2',title:'Transformation begins with renewed thinking.',text:'Do not let the age press you into its pattern.'},
+   {ref:'Romans 12:9',title:'Love must be without hypocrisy.',text:'Real love hates evil and clings to what is good.'},
+   {ref:'Romans 12:18',title:'Peace has a limit of responsibility.',text:'“As much as lieth in you” recognizes that one person cannot manufacture mutual peace alone.'},
+   {ref:'Romans 12:21',title:'Do not let evil choose your method.',text:'Overcome evil with good rather than becoming like what harmed you.'}
+  ],
+  underline:{ref:'Romans 12:1',reason:'The great turn of Romans is “I beseech you therefore…by the mercies of God.” Obedience grows out of mercy already received.'},
+  notice:[
+   {ref:'Romans 12:1',title:'“Therefore” carries the first eleven chapters into daily life.',text:'Paul does not begin Christian ethics with “try harder.” He appeals “by the mercies of God”—all the grace, justification, union with Christ, Spirit, adoption, and mercy he has just explained. The living sacrifice is a response to salvation, not the price of it.'},
+   {ref:'Romans 12:2',title:'Renewal is the alternative to being shaped by the age.',text:'“Be not conformed” uses the image of being pressed into a pattern; “be transformed” points toward inward change. Discernment of God’s will grows from a mind being remade, not merely from hunting for secret signs about individual decisions.'},
+   {ref:'Romans 12:3-8',title:'Gifts belong inside one body and under sober self-judgment.',text:'Paul moves from renewed thinking to humility because spiritual gifts can become fuel for ego. Different functions do not create different levels of worth. The body needs prophecy, service, teaching, exhortation, giving, leadership, and mercy exercised according to grace.'},
+   {ref:'Romans 12:9-13',title:'Paul’s love list is remarkably practical.',text:'Love is sincere, morally serious, affectionate, honoring, diligent, hopeful, patient, prayerful, generous, and hospitable. Romans never lets “saved by grace” remain an invisible doctrine with no recognizable social shape.'},
+   {ref:'Romans 12:14-20',title:'Enemy-love does not mean calling evil good.',text:'Paul tells believers to bless persecutors, refuse private revenge, feed enemies, and leave vengeance to God. That is not indifference to justice; it is a transfer of final judgment out of the wounded person’s hands and into God’s.'},
+   {ref:'Romans 12:18',title:'“If it be possible” protects this verse from being used against people trapped in another person’s hostility.',text:'Paul commands the believer to do what lies within his or her responsibility. He does not say peace can always be achieved by trying harder, nor does he require pretending trust exists where ongoing danger or unrepentant harm remains.'}
+  ],
+  reflections:['Which mercy from Romans 1–11 most moves me toward offering myself to God?','Where would overcoming evil with good require courage rather than passivity?'],
+  commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'the mercies of God are the strongest motives to obedience',plain:'Gill catches the order of Romans. Paul does not threaten believers into becoming living sacrifices; he puts God’s mercies in front of them. Grace becomes the deepest motive for a holy life rather than the enemy of one.',source:'Exposition of the Entire Bible — Romans 12',url:'https://biblehub.com/commentaries/gill/romans/12.htm'},
+  question:{q:'What does “present your bodies a living sacrifice” mean?',short:'It means offering ordinary embodied life to God—actions, habits, work, relationships, sexuality, strength, and time—as worship.',more:'Unlike an animal sacrifice that dies on the altar, the Christian sacrifice keeps living. Paul will spend the rest of the letter showing what that looks like in humility, gifts, love, enemy treatment, citizenship, disputed practices, and care for weaker believers.'}
+ }
+});
+render();
