@@ -36,12 +36,12 @@ The approved Genesis 31 written prototype remains the chapter-card benchmark. Hi
 
 ## Collection and current state
 
-Approved collection: Genesis 1–50; Psalms 1–40; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **149 carefully developed cards**, not a speed target. Shelly explicitly extended the current Psalms run through Psalm 40 and requested a review checkpoint there. The interface supports queueing any Bible chapter.
+Approved collection through the current checkpoint: Genesis 1–50; Psalms 1–80; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **189 carefully developed cards**, not a speed target. Shelly explicitly approved the next forty Psalms after the Psalm 40 review and requested another checkpoint at Psalm 80. The interface supports queueing any Bible chapter.
 
-**Genesis 1–50 and Psalms 1–10 are published on `main`.** Psalms 6–10 were approved when Shelly instructed Miles to continue in the same manner through Psalm 40, then merged through PR #3 at commit `c8675fca7f2b05b14e108c2f4c78f1caf9383980`.
+**Genesis 1–50 and Psalms 1–40 are published on `main`.** Psalms 11–40 were approved at the Psalm 40 checkpoint and merged through PR #4 at commit `085850ee8fd8c59f4ec9518fccf8a07fbaad8fa5`; the matching GitHub Pages deployment completed successfully.
 
 Genesis 31 remains the benchmark card. Published content has passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks before publication. Durable checkpoints belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
 
-**Psalm 40 checkpoint:** protected branch `psalms-11-40` contains authored cards for Psalms 11–40. Six five-psalm module checkpoints passed syntax/runtime, required-field, verse-reference, loader, source-link, and short-quotation checks. Commentary distribution across Psalms 11–40: Matthew Henry 6, John Gill 6, C. H. Spurgeon 6, Alexander Maclaren 6, John Calvin 4, F. B. Meyer 2. This branch remains off live `main` pending Shelly’s Psalm 40 checkpoint review.
+**Psalm 80 checkpoint:** protected branch `psalms-41-80` contains authored cards for Psalms 41–80 in eight five-psalm modules. The full block passed JavaScript syntax/runtime, required-field, clickable verse-reference, loader, source-link, and short-quotation checks; the assembled preview loads Psalms 1–80 without gaps. Commentary across Psalms 41–80 uses a broad passage-specific mix: C. H. Spurgeon 9, John Calvin 7, Matthew Henry 7, Alexander Maclaren 6, John Gill 4, plus E. B. Pusey, Fountain Elwin, William Wisheart, Thomas Adams, Matthew Poole, Joseph Benson, and Albert Barnes. This branch remains off live `main` pending Shelly’s Psalm 80 checkpoint review.
 
 Visual style: quiet study Bible; warm cream paper, dark brown body text, burgundy headings, forest-green actions, antique-gold accents, readable phone typography and large word-labeled controls. Public site: https://baxtershelly75-art.github.io/bookmark/ .
