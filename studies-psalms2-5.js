@@ -37,7 +37,7 @@ Object.assign(studyMeta, {
   underline:{ref:'Psalms 3:3',reason:'The answer to “there is no help” is not bravado but God Himself: shield, glory, and lifter of the head.'},
   notice:[
    {ref:'Psalms 3:1',title:'The superscription places this in a family catastrophe.',text:'David is fleeing from his son Absalom, so the prayer comes from betrayal, political collapse, grief, and danger rather than from a quiet study room.',cross:[{ref:'2 Samuel 15:13-14',label:'Story setting',reason:'Second Samuel records David leaving Jerusalem when Absalom’s rebellion becomes dangerous.'}]},
-   {ref:'Psalms 3:2, 4, 8',title:'“Selah” appears three times.',text:'Its exact musical meaning is uncertain. It likely marks some kind of pause or musical direction, so it is better not to pretend we know more than we do.'},
+   {ref:'Psalms 3:2',title:'“Selah” appears three times.',text:'Its exact musical meaning is uncertain. It likely marks some kind of pause or musical direction, so it is better not to pretend we know more than we do.'},
    {ref:'Psalms 3:5',title:'The danger has not vanished before David sleeps.',text:'The point is not that circumstances are safe; the LORD sustains him inside unsafe circumstances.'}
   ],
   reflections:['Which voice is louder for me when pressure rises: “there is no help” or “but thou, O LORD”?','What does David’s ability to sleep teach me about trust before a problem is solved?'],
