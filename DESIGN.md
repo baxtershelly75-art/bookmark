@@ -26,7 +26,7 @@ The approved Genesis 31 written prototype remains the chapter-card benchmark. Hi
 
 ## Content and sources
 
-- Very short, useful, verse-linked margin notes. Teach one small thing. Keep supplemental commentary collapsed. Cross-references need a reason and never claim a thematic echo is a direct quotation.
+- Very short, useful, verse-linked margin notes. Teach one small thing. Keep supplemental commentary collapsed. Cross-references need a reason and never claim a thematic echo is a direct quotation. Use ordinary language a reader without theology or grammar training can understand. Avoid jargon; if a technical word is genuinely useful, explain it immediately in plain English. If a note itself needs decoding, rewrite it.
 - KJV verse previews come from the [farskipper/kjv 1769 electronic text](https://github.com/farskipper/kjv), pinned in `app.js`. Quote only a verse or smallest relevant range in the interface.
 - Older historical voices may include Charles Spurgeon, Matthew Henry, John Gill, J. C. Ryle, John Calvin, Alexander Maclaren, F. B. Meyer, George Müller, Andrew Murray, and other appropriate older evangelical Protestant writers when an original, identifiable source truly fits.
 - Do **not** default to Matthew Henry and Spurgeon. Use a broad, passage-appropriate mix of trustworthy historical commentators and theologians. Choose the writer who genuinely illuminates the text rather than forcing a preferred name into every chapter.
