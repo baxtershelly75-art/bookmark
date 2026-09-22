@@ -36,9 +36,9 @@ Genesis 31 remains the approved early structural prototype for chapter-card flow
 
 ## Collection and current state
 
-Current published study collection: Genesis 1–50; Psalms 1–150; **all Minor Prophets Hosea–Malachi**; and **all New Testament letters Romans–Jude** — **388 carefully developed chapter cards**. This remains a quality responsibility, not a speed target. The interface supports queueing any Bible chapter.
+Current published study collection: Genesis 1–50; Psalms 1–150; **Matthew 1–28**; **all Minor Prophets Hosea–Malachi**; and **all New Testament letters Romans–Jude** — **416 carefully developed chapter cards**. This remains a quality responsibility, not a speed target. The interface supports queueing any Bible chapter.
 
-**Genesis 1–50, Psalms 1–150, all Minor Prophets Hosea–Malachi, and all New Testament letters Romans–Jude are published on `main`.** The final letters wave, James through Jude, merged through PR #17 at commit `d5fd4a97db9e904a42f77566fd571c07f0ce0c1a`; GitHub Pages run `35741806121` completed successfully on that exact commit.
+**Genesis 1–50, Psalms 1–150, Matthew 1–28, all Minor Prophets Hosea–Malachi, and all New Testament letters Romans–Jude are published on `main`.** The final letters wave, James through Jude, merged through PR #17 at commit `d5fd4a97db9e904a42f77566fd571c07f0ce0c1a`; GitHub Pages run `35741806121` completed successfully on that exact commit.
 
 Genesis 31 remains the early structural prototype; Galatians 1–6 is the content-depth benchmark. Published content has passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks before publication. Durable checkpoints belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
 
@@ -50,5 +50,8 @@ Genesis 31 remains the early structural prototype; Galatians 1–6 is the conten
 
 
 **Minor Prophets — first short-book wave:** Obadiah (1 chapter), Haggai (2), Joel (3), Nahum (3), Habakkuk (3), and Zephaniah (3) were built at the Galatians depth standard as the first shortest-to-longest Minor Prophets wave. Difficult or commonly misused passages receive explicit context guardrails, including Obadiah’s date uncertainty, Haggai 2:7, Joel 2:25 and 3:14, Nahum’s judgment imagery, Habakkuk 2:2–4, and Zephaniah 3:17. The 4-chapter wave adds Jonah 1–4 and Malachi 1–4 at the same Galatians depth standard. Micah 1–7 is the next completed wave, preserving its judgment/restoration structure, Bethlehem prophecy, justice themes, and common-context guardrails. Amos 1–9 and Hosea 1–14 are complete. Zechariah 1–14 is the final completed Minor Prophets wave, preserving the night visions, Branch/priest-king imagery, direct New Testament fulfillments, and honest uncertainty around disputed prophetic details. All twelve Minor Prophets are now complete at the Galatians depth standard; there is no unfinished Minor Prophets build waiting.
+
+
+**Matthew — complete Gospel wave:** Matthew 1–28 is built at the Galatians depth standard as the first Gospel collection after the letters and Minor Prophets. The cards preserve Matthew’s fulfillment structure, Jewish and Old Testament background, kingdom teaching, difficult-text guardrails, and explicit distinctions between direct fulfillment, typology, and debated interpretation. High-risk misuse passages receive context notes, including Matthew 5–7, 10:34, 16:18–19, 18:15–20, 19:3–12, 24, 25, and Passion/Resurrection texts. The next Gospel step begins only after Matthew is fully audited, merged, deployed, and recorded in Drive continuity.
 
 Visual style: quiet study Bible; warm cream paper, dark brown body text, burgundy headings, forest-green actions, antique-gold accents, readable phone typography and large word-labeled controls. Public site: https://baxtershelly75-art.github.io/bookmark/ .
