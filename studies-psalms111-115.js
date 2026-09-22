@@ -19,7 +19,7 @@ Object.assign(studyMeta,{
    {ref:'Psalms 111:10',title:'Psalm 112 picks up where this one ends.',text:'Psalm 111 ends with fearing the LORD; Psalm 112 begins by describing the person who does.'}
   ],
   reflections:['What work of God have I admired without slowing down enough to study what it teaches me?','How would my decisions change if “fear of the LORD” came before being impressive or clever?'],
-  commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'The hidden wisdom of God is the most marvellous part of his works',plain:'Spurgeon sees careful study as worship. The deeper we look into God’s works, the more wisdom and wonder we find rather than less.',source:'The Treasury of David — Psalm 111',url:'https://biblehub.com/commentaries/tod/psalms/111.htm'},
+  commentary:{voice:'Albert Barnes',identity:'American Presbyterian pastor and commentator, 1798–1870',quote:'A man who loves God will have real pleasure in studying his works as well as his word',plain:'Barnes refuses to separate careful observation from devotion. Love for God can make us curious about both what He has made and what He has spoken.',source:'Notes on the Bible — Psalm 111',url:'https://www.biblehub.com/commentaries/barnes/psalms/111.htm'},
   question:{q:'What does “the fear of the LORD is the beginning of wisdom” actually mean?',short:'It means wisdom starts by recognizing who God is, taking His authority seriously, and letting that shape how we live.',more:'This fear is bigger than being scared. It includes awe, reverence, humility, and obedience. A person can know many facts and still be foolish if God is treated as irrelevant. Psalm 111 says wisdom starts when life is ordered around Him.'}
  },
  'Psalms 112':{
@@ -38,7 +38,7 @@ Object.assign(studyMeta,{
    {ref:'Psalms 112:10',title:'The wicked person sees the righteous life and is frustrated by it.',text:'The Psalm ends by contrasting lasting righteousness with desires that finally perish.'}
   ],
   reflections:['What kind of bad news tends to take over my heart fastest?','Where could generosity become one way God’s character is reflected through me?'],
-  commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'the reflection of the divine brightness in men born from above',plain:'Spurgeon sees Psalm 112 as more than a list of good habits. The righteous life reflects something of God’s own gracious and compassionate character.',source:'The Treasury of David — Psalm 112',url:'https://biblehub.com/commentaries/tod/psalms/112.htm'},
+  commentary:{voice:'Joseph Benson',identity:'English Methodist minister and commentator, 1749–1821',quote:'This confidence is the prop and support of his soul',plain:'Benson explains why bad news does not finally undo the righteous person: the heart has somewhere stronger than circumstances to rest.',source:'Commentary on Psalm 112:6–9',url:'https://www.biblehub.com/commentaries/benson/psalms/112.htm'},
   question:{q:'Does “he shall not be afraid of evil tidings” mean a godly person never feels fear when bad news comes?',short:'No. It describes a settled heart whose final trust remains in God, not a person who never has an anxious first reaction.',more:'Scripture gives us faithful people who tremble, weep, and become distressed. Psalm 112 is talking about where the heart comes to rest: “his heart is fixed, trusting in the LORD.” Courage is not the absence of feeling; it is fear losing the right to decide what is ultimately true.'}
  },
  'Psalms 113':{
@@ -75,7 +75,7 @@ Object.assign(studyMeta,{
    {ref:'Psalms 114:8',title:'Rock-to-water remembers wilderness provision.',text:'The same God who makes a path through water can make water come from rock.'}
   ],
   reflections:['What happens to my view of an “immovable” obstacle when I read creation itself moving before God?','Why might the Psalm leave Moses almost completely out of the picture?'],
-  commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'True poetry has here reached its climax',plain:'Spurgeon is reacting to how boldly the Psalm makes seas flee and mountains dance. The poetry feels huge because the God being praised is huge.',source:'The Treasury of David — Psalm 114',url:'https://biblehub.com/commentaries/tod/psalms/114.htm'},
+  commentary:{voice:'Joseph Benson',identity:'English Methodist minister and commentator, 1749–1821',quote:'the whole earth had reason to tremble and quake on such an occasion',plain:'Benson hears the creation imagery as a proper response to God’s presence: if the Lord of creation comes near, even mountains and seas are pictured as moved before Him.',source:'Commentary on Psalm 114:4–8',url:'https://biblehub.com/commentaries/benson/psalms/114.htm'},
   question:{q:'Did the mountains literally jump when Israel left Egypt?',short:'The Psalm is using vivid poetry to make creation respond to God’s presence.',more:'The Red Sea and Jordan crossings were real acts of deliverance, but “mountains skipped like rams” is poetic personification. The point is not to turn the Exodus into a cartoon. It is to say that seas, rivers, mountains, and rock are all under the Creator’s command when He comes to save His people.'}
  },
  'Psalms 115':{
