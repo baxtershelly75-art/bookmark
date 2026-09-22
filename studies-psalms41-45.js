@@ -42,7 +42,7 @@ Object.assign(studyMeta,{
  'Psalms 43':{
   oneLine:'The prayer from Psalm 42 continues: the psalmist asks God to defend him, send light and truth to lead him home to worship, and teach his downcast soul to hope again.',
   write:[
-   {ref:'Psalms 43:1',title:'He asks God to take his case.',text:'Vindication is placed with God instead of becoming a private campaign to destroy the people opposing him.'},
+   {ref:'Psalms 43:1',title:'He asks God to take his case.',text:'He leaves it with God to show what is true instead of turning the conflict into his own campaign to destroy the people opposing him.'},
    {ref:'Psalms 43:3',title:'Light and truth are asked to lead him.',text:'He wants God’s favor and faithfulness to bring him back to the place of worship he has been missing.'},
    {ref:'Psalms 43:4',title:'God is called “my exceeding joy.”',text:'The altar matters because God is there; worship is headed toward a Person, not merely a place.'},
    {ref:'Psalms 43:5',title:'The same question is asked a third time.',text:'The repeated refrain shows that hope may need to be preached to the heart more than once.'}
