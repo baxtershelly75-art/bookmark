@@ -28,7 +28,7 @@ Object.assign(studyMeta,{
    {ref:'Psalms 82:1',title:'The judges are not the highest court.',text:'God stands in their assembly and judges the people who are used to judging everyone else.'},
    {ref:'Psalms 82:2-4',title:'Justice is measured by what happens to the weak.',text:'Poor, fatherless, afflicted, needy, and oppressed people sit at the center of God’s rebuke.'},
    {ref:'Psalms 82:5',title:'Bad judgment shakes more than one case.',text:'When rulers walk in darkness, the “foundations of the earth” are pictured as unstable because public justice has been corrupted.'},
-   {ref:'Psalms 82:6-7',title:'Being called “gods” does not make rulers divine.',text:'These people carry delegated authority, yet God reminds them they will die like other human beings.'},
+   {ref:'Psalms 82:6-7',title:'Being called “gods” does not make rulers divine.',text:'Whatever authority these people have was given under God, and He reminds them they will still die like other human beings.'},
    {ref:'Psalms 82:8',title:'The psalm ends by appealing above every human court.',text:'God is asked to judge the earth because all nations finally belong under His rule.'}
   ],
   underline:{ref:'Psalms 82:3',reason:'God’s rebuke makes care for powerless people a test of whether authority is being used rightly.'},
