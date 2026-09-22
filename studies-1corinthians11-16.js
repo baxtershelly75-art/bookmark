@@ -1,0 +1,141 @@
+// 1 Corinthians 11–16 — Living Bookmark cards.
+Object.assign(studies,{
+ '1 Corinthians 11':{body:''},'1 Corinthians 12':{body:''},'1 Corinthians 13':{body:''},
+ '1 Corinthians 14':{body:''},'1 Corinthians 15':{body:''},'1 Corinthians 16':{body:''}
+});
+Object.assign(studyMeta,{
+ '1 Corinthians 11':{
+  oneLine:'Paul addresses worship conduct and the Lord’s Supper, insisting that Christian gatherings should honor God’s order, care about one another, and discern the body rather than reproduce social humiliation.',
+  write:[
+   {ref:'1 Corinthians 11:1',title:'Imitation stops where Christ stops.',text:'Paul asks imitation only as he himself follows Christ.'},
+   {ref:'1 Corinthians 11:11-12',title:'Man and woman are interdependent in the Lord.',text:'Paul refuses an account of order that turns either sex into spiritual independence.'},
+   {ref:'1 Corinthians 11:23',title:'The Supper is received tradition from the Lord.',text:'Paul anchors the meal in Jesus’ own words and actions.'},
+   {ref:'1 Corinthians 11:28',title:'Self-examination belongs at the Table.',text:'The command is examine, then eat—not examine until nobody dares come.'}
+  ],
+  underline:{ref:'1 Corinthians 11:26',reason:'The Lord’s Supper looks backward to the cross and forward to Christ’s coming: “ye do shew the Lord’s death till he come.”'},
+  notice:[
+   {ref:'1 Corinthians 11:2-16',title:'The head-covering section is one of Paul’s most discussed worship passages.',text:'Paul appeals to headship, creation, honor/shame signals, angels, nature, and church practice. Christians disagree over which parts are permanent principle and which reflect first-century cultural symbols. The safest core is that worship should honor God’s order without humiliating men or women, and verses 11–12 deliberately stress mutual dependence “in the Lord.”'},
+   {ref:'1 Corinthians 11:3',title:'“Head” language carries both relationship and order.',text:'Interpreters debate whether the Greek word emphasizes authority, source, or both. Paul’s own sequence—Christ/man, man/woman, God/Christ—makes simplistic definitions difficult. Whatever model is taken, it must fit the mutuality and honor Paul affirms later in the paragraph.'},
+   {ref:'1 Corinthians 11:5',title:'Women are plainly praying and prophesying in the gathered setting.',text:'Paul’s correction concerns how they do it, not whether their voices can ever be heard. That fact has to remain in view when this chapter is placed beside chapter 14’s later instruction about silence.'},
+   {ref:'1 Corinthians 11:17-22',title:'The Lord’s Supper has become a class-divided meal.',text:'Wealthier believers appear able to eat earlier and more abundantly while poorer believers arrive to shame and hunger. Paul says a meal that humiliates members of Christ’s body no longer deserves to be called the Lord’s Supper.'},
+   {ref:'1 Corinthians 11:23-26',title:'Paul’s tradition predates the written Gospels.',text:'He recites Jesus’ words over bread and cup as tradition he “received” and “delivered.” First Corinthians is early evidence that the church was already carefully handing on the meaning of Jesus’ final meal and death.'},
+   {ref:'1 Corinthians 11:27-32',title:'“Unworthily” describes the manner, not a class of worthy people.',text:'Nobody comes to the Table because he or she has achieved personal worthiness. The Corinthians are eating in a way that contradicts the meal’s meaning by despising the body and humiliating others. Self-examination should lead to honest participation, not permanent avoidance.'}
+  ],
+  reflections:['Does the way I worship honor other members of Christ’s body or quietly rank them?','When I think about the Lord’s Supper, do I see both remembrance and proclamation?'],
+  commentary:{voice:'John Calvin',identity:'Reformation pastor and commentator, 1509–1564',quote:'the Supper is a bond of unity',plain:'Calvin’s phrase fits Paul’s sharpest rebuke. A meal that proclaims one crucified Lord while visibly dividing rich and poor contradicts itself. The Table should embody the fellowship the cross created.',source:'Commentary on 1 Corinthians — chapter 11',url:'https://biblehub.com/commentaries/calvin/1_corinthians/11.htm'},
+  question:{q:'Does “eating and drinking unworthily” mean I should stay away from Communion whenever I feel sinful?',short:'No. Paul is condemning an unworthy manner of participation, especially selfish division, not requiring sinless participants.',more:'The command is “let a man examine himself, and so let him eat.” Examination should lead toward repentance and truthful participation. The Lord’s Table is for needy believers who discern what Christ’s body and death mean, not for people who have made themselves worthy first.'}
+ },
+ '1 Corinthians 12':{
+  oneLine:'The Spirit gives diverse gifts for the common good, confesses one Lord, forms one body from many members, and refuses both superiority and self-rejection inside the church.',
+  write:[
+   {ref:'1 Corinthians 12:3',title:'The Spirit glorifies Jesus as Lord.',text:'Spiritual experience that dishonors Christ fails Paul’s first test.'},
+   {ref:'1 Corinthians 12:7',title:'A gift is given for the common good.',text:'Spiritual ability is not private status.'},
+   {ref:'1 Corinthians 12:13',title:'One Spirit forms one body.',text:'Jew or Gentile, slave or free, all believers share the same Spirit.'},
+   {ref:'1 Corinthians 12:22',title:'Seemingly weaker members are necessary.',text:'The body of Christ cannot rank people only by visibility.'}
+  ],
+  underline:{ref:'1 Corinthians 12:7',reason:'The Spirit’s gifts are not trophies; each manifestation is given “to profit withal.”'},
+  notice:[
+   {ref:'1 Corinthians 12:1-3',title:'Paul begins gift teaching with allegiance to Jesus, not with spectacular phenomena.',text:'The Corinthians came from idol worship and need discernment. Paul’s first boundary is Christological: God’s Spirit will not lead someone to curse Jesus, and the true confession “Jesus is Lord” comes through the Holy Spirit.'},
+   {ref:'1 Corinthians 12:4-6',title:'Variety comes from the Triune God.',text:'Different gifts, ministries, and workings are traced to the same Spirit, Lord, and God. Diversity is not evidence that the church lacks unity; properly ordered diversity displays the one God at work through many people.'},
+   {ref:'1 Corinthians 12:7-11',title:'The Spirit distributes gifts sovereignly.',text:'Wisdom, knowledge, faith, healings, miracles, prophecy, discernment, tongues, and interpretation are not handed out according to human prestige. The same Spirit distributes “to every man severally as he will.”'},
+   {ref:'1 Corinthians 12:12-13',title:'Paul’s body image is grounded in Spirit-baptized belonging.',text:'One body has many members, and believers from different ethnic and social backgrounds have all been baptized by one Spirit into that body. Whatever Christians debate about later experiences of the Spirit, this verse presents Spirit-baptism as shared membership in Christ’s one body.'},
+   {ref:'1 Corinthians 12:14-21',title:'Inferiority and superiority are both body-denying lies.',text:'The foot cannot resign because it is not a hand, and the eye cannot dismiss the hand because it looks more important. Envy says “I do not belong”; pride says “I do not need you.” Paul rejects both.'},
+   {ref:'1 Corinthians 12:22-26',title:'Honor is intentionally redirected toward less visible members.',text:'Paul says weaker members are necessary and less honorable parts receive greater honor. God has “tempered the body together” so there should be no schism and members should share suffering and honor rather than compete for attention.'},
+   {ref:'1 Corinthians 12:27-31',title:'Not everyone has the same gift or role.',text:'Paul’s repeated rhetorical questions expect “no.” The Spirit’s unity does not create identical Christians. The chapter closes by pointing beyond gifts to “a more excellent way,” preparing for love in chapter 13.'}
+  ],
+  reflections:['Do I tend more toward “I do not belong” or “I do not need them”?','How would I use a gift differently if I thought first about the common good rather than my own visibility?'],
+  commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'No member of the body of Christ is useless.',plain:'Henry’s line fits the chapter’s attack on church status. A member can be quiet, weak, hidden, or unimpressive by human standards and still be necessary to the body God Himself arranged.',source:'Concise Commentary — 1 Corinthians 12',url:'https://biblehub.com/commentaries/mhc/1_corinthians/12.htm'},
+  question:{q:'Does 1 Corinthians 12 teach that every Christian must speak in tongues?',short:'No. Paul explicitly asks, “do all speak with tongues?” in a series of questions expecting “no.”',more:'The whole chapter argues for diversity of gifts within one body. Making one particular gift mandatory for every believer cuts directly across Paul’s repeated insistence that the Spirit distributes different gifts as He wills.'}
+ },
+ '1 Corinthians 13':{
+  oneLine:'Paul places love above every spectacular gift because gifts without love are empty, love seeks another’s good rather than itself, and love remains when partial gifts have finished their work.',
+  write:[
+   {ref:'1 Corinthians 13:1',title:'Gifted speech without love becomes noise.',text:'Spiritual impressiveness cannot substitute for love.'},
+   {ref:'1 Corinthians 13:4',title:'Love is patient and kind.',text:'Paul defines love through practiced character, not vague emotion.'},
+   {ref:'1 Corinthians 13:5',title:'Love does not keep a private ledger of wrongs.',text:'It refuses to build identity around remembered injuries.'},
+   {ref:'1 Corinthians 13:13',title:'Love remains.',text:'Faith, hope, and love abide, and the greatest is love.'}
+  ],
+  underline:{ref:'1 Corinthians 13:5',reason:'“Seeketh not her own” cuts directly against the self-promoting spirit troubling Corinth.'},
+  notice:[
+   {ref:'1 Corinthians 13:1-3',title:'Paul deliberately names the most impressive spiritual achievements he can imagine.',text:'Tongues of men and angels, prophecy, mysteries, knowledge, mountain-moving faith, radical generosity, even surrender of the body—without love they amount to nothing for the person. The chapter is not sentimental decoration between two gift chapters; it is a rebuke to gifted lovelessness.'},
+   {ref:'1 Corinthians 13:4-7',title:'Paul defines love mostly with verbs and moral direction.',text:'Love suffers long, acts kindly, refuses envy and boasting, behaves fittingly, does not insist on itself, is not easily provoked, does not rejoice in evil, rejoices in truth, bears, believes, hopes, and endures. Love is something practiced under pressure.'},
+   {ref:'1 Corinthians 13:5',title:'“Thinketh no evil” means not keeping account of wrong.',text:'The Greek expression is bookkeeping language: love does not maintain a running ledger in order to weaponize every injury later. That does not mean pretending abuse never happened, abandoning wisdom, or refusing necessary boundaries.'},
+   {ref:'1 Corinthians 13:6',title:'Love and truth cannot be separated.',text:'Biblical love does not rejoice in wrongdoing merely to keep peace or appear accepting. It rejoices “in the truth.” Love can therefore be tender and morally serious at the same time.'},
+   {ref:'1 Corinthians 13:8-12',title:'Gifts are partial and temporary because the present age is partial.',text:'Prophecy, tongues, and knowledge belong to a world where believers know “in part.” Christians disagree about exactly when some gifts cease, but Paul’s big contrast is clear: the partial gives way when fullness comes, and face-to-face knowledge replaces dim sight.'},
+   {ref:'1 Corinthians 13:11-12',title:'Child/adult and mirror/face-to-face are pictures of partial versus complete knowing.',text:'Ancient Corinth was known for polished bronze mirrors, which gave an image but not modern glass clarity. Paul’s point is not that present revelation is false; it is real yet incomplete compared with the direct fullness still to come.'},
+   {ref:'1 Corinthians 13:13',title:'Love is greatest because it belongs permanently to God’s future.',text:'Faith trusts what is unseen and hope waits for what is coming. Love is not rendered obsolete when sight arrives. The life of God’s kingdom remains a life of holy love.'}
+  ],
+  reflections:['Which description of love in verses 4–7 most exposes where my behavior needs to change?','Do I ever use truth without love or “love” without truth?'],
+  commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'Love is the greatest thing in the world.',plain:'Maclaren’s simplicity suits Paul’s conclusion. Gifts can be dazzling and useful, but they belong to a partial age. Love is not an accessory to spiritual maturity; it is the atmosphere of the coming kingdom already meant to govern the church now.',source:'Expositions of Holy Scripture — 1 Corinthians 13',url:'https://biblehub.com/commentaries/maclaren/1_corinthians/13.htm'},
+  question:{q:'Is 1 Corinthians 13 mainly a wedding chapter?',short:'It applies beautifully to marriage, but Paul originally writes it to a divided, status-conscious church arguing about spiritual gifts.',more:'That context makes the chapter sharper. “Love is patient” is not romantic poetry floating above conflict; it is instruction for Christians who envy, boast, compete, humiliate one another, and prize impressive gifts. Marriage is one place to live it, not the chapter’s only setting.'}
+ },
+ '1 Corinthians 14':{
+  oneLine:'Paul tells a gifted church to value understandable edification over impressive confusion, regulate tongues and prophecy, and let gathered worship reflect God’s peace and order.',
+  write:[
+   {ref:'1 Corinthians 14:1',title:'Pursue love and desire spiritual gifts.',text:'Paul does not make love and gifts competitors.'},
+   {ref:'1 Corinthians 14:12',title:'Seek gifts for the church’s edification.',text:'The common good remains the measure of spiritual usefulness.'},
+   {ref:'1 Corinthians 14:26',title:'“Let all things be done unto edifying.”',text:'Every contribution in gathered worship should build the body.'},
+   {ref:'1 Corinthians 14:40',title:'Worship should be decent and orderly.',text:'Spiritual vitality does not require chaos.'}
+  ],
+  underline:{ref:'1 Corinthians 14:26',reason:'Paul’s repeated test for public gifts is not “Was it dramatic?” but “Did it build the church?”'},
+  notice:[
+   {ref:'1 Corinthians 14:1-5',title:'Paul prefers prophecy publicly because people understand it.',text:'Tongues without interpretation address God but leave the congregation unable to receive the message. Prophecy speaks to people for edification, exhortation, and comfort. Paul’s ranking here is functional: understandable speech builds the gathered church more directly.'},
+   {ref:'1 Corinthians 14:6-12',title:'Meaningless sound cannot communicate simply because it is spiritual.',text:'Paul uses flute, harp, trumpet, and human languages. Distinct sound carries intelligible meaning; undifferentiated sound does not. His concern is not to make worship dull but to make spiritual speech serve actual people.'},
+   {ref:'1 Corinthians 14:13-19',title:'Paul wants spirit and mind together.',text:'He can say “I will pray with the spirit, and I will pray with the understanding also.” The chapter refuses the assumption that deeper spirituality means bypassing the mind. In church Paul would rather speak five understandable words than ten thousand uninterpreted ones.'},
+   {ref:'1 Corinthians 14:20-25',title:'Tongues and prophecy affect outsiders differently in Paul’s argument.',text:'Paul uses Isaiah’s judgment-sign language to explain tongues, while understandable prophetic disclosure can expose the secrets of an unbeliever’s heart and lead him to confess that God is truly among the church. The passage is complex, but intelligibility remains central.'},
+   {ref:'1 Corinthians 14:26-33',title:'Paul regulates participation rather than shutting the whole congregation down.',text:'A psalm, doctrine, tongue, revelation, or interpretation may be brought, but speakers take turns and others discern. “The spirits of the prophets are subject to the prophets” means spiritual impulse is not an excuse for loss of self-control.'},
+   {ref:'1 Corinthians 14:34-35',title:'The command for women to be silent must be read beside women praying and prophesying in chapter 11.',text:'Because Paul has already assumed women speak in worship under proper conditions, “silence” here cannot simply mean women may never make any sound in a gathering. Interpreters differ: some see disruptive questioning, some evaluation of prophecies, others a broader restriction tied to teaching authority. The two passages need to be held together honestly.'},
+   {ref:'1 Corinthians 14:36-40',title:'Paul does not allow Corinthian practice to become self-authorizing.',text:'“Came the word of God out from you?” punctures local arrogance. Spiritual people should recognize apostolic instruction, and everything must finally be done decently and in order.'}
+  ],
+  reflections:['Do I value spiritual expression partly by whether it actually helps other people understand and grow?','Where do I confuse spontaneity with spirituality or order with lifelessness?'],
+  commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'all things should be done unto edifying',plain:'Gill follows Paul’s repeated standard. A gift may be genuine and still need restraint in public worship if using it at that moment does not build the congregation. Love governs the microphone.',source:'Exposition of the Entire Bible — 1 Corinthians 14',url:'https://biblehub.com/commentaries/gill/1_corinthians/14.htm'},
+  question:{q:'Does 1 Corinthians 14:34 mean women can never speak in church?',short:'The chapter cannot mean absolute silence in every sense, because 1 Corinthians 11 already assumes women pray and prophesy.',more:'Christians disagree on the precise restriction in verses 34–35. Some connect it with disruptive questions, others with judging prophetic messages or authoritative teaching. Whatever view is taken, it must account for both passages rather than using one to erase the other.'}
+ },
+ '1 Corinthians 15':{
+  oneLine:'Paul anchors Christianity in the bodily resurrection of Jesus, shows that believers’ resurrection stands or falls with His, and ends with death swallowed up in victory and present labor made meaningful.',
+  write:[
+   {ref:'1 Corinthians 15:3-4',title:'The gospel includes historical events.',text:'Christ died for sins, was buried, and rose the third day according to the Scriptures.'},
+   {ref:'1 Corinthians 15:14',title:'No resurrection means empty preaching and faith.',text:'Paul refuses a Christianity that can survive unchanged if Jesus stayed dead.'},
+   {ref:'1 Corinthians 15:20',title:'Christ is the firstfruits.',text:'His resurrection is the beginning and guarantee of a larger harvest.'},
+   {ref:'1 Corinthians 15:52',title:'The dead will be raised incorruptible.',text:'Christian hope is bodily transformation, not permanent escape from embodiment.'},
+   {ref:'1 Corinthians 15:58',title:'Resurrection makes present labor meaningful.',text:'Work in the Lord is not in vain because death does not get the last word.'}
+  ],
+  underline:{ref:'1 Corinthians 15:20',reason:'“But now is Christ risen from the dead”—Paul’s whole argument turns on that announced fact.'},
+  notice:[
+   {ref:'1 Corinthians 15:1-8',title:'Paul passes on an early gospel summary he himself received.',text:'The repeated “that Christ died…was buried…rose…and was seen” gives the message historical shape. The appearance list includes Peter, the Twelve, more than five hundred, James, all the apostles, and finally Paul. Christian resurrection faith is presented as testimony about an event, not a private symbol.'},
+   {ref:'1 Corinthians 15:3-4',title:'“According to the scriptures” applies to the gospel story as fulfillment.',text:'Paul does not cite one single Old Testament verse that says everything in exactly these words. He sees Christ’s death for sins and resurrection on the third day as the fulfillment of the larger scriptural story and promises.'},
+   {ref:'1 Corinthians 15:12-19',title:'Paul will not let “resurrection” shrink into an inspirational metaphor.',text:'If the dead do not rise, Christ did not rise; if Christ did not rise, preaching is empty, faith is empty, the apostles are false witnesses, believers remain in sins, and dead Christians have perished. The faith rises or falls with resurrection reality.'},
+   {ref:'1 Corinthians 15:20-28',title:'Firstfruits means Christ’s resurrection begins the harvest.',text:'Paul compares Adam and Christ again: death through Adam, resurrection through Christ. Yet there is an order—Christ first, then those who belong to Him at His coming, then the end when every enemy, including death, is put under His feet.'},
+   {ref:'1 Corinthians 15:29',title:'“Baptized for the dead” is genuinely difficult.',text:'Many interpretations have been proposed, and Paul gives no explanation because his first readers apparently knew the practice he meant. What is clear is how he uses it: even this practice makes no sense if the dead are never raised. The verse should not be made the foundation for an elaborate doctrine the chapter does not explain.'},
+   {ref:'1 Corinthians 15:35-49',title:'Resurrection body means transformed body, not no body.',text:'Seed imagery shows continuity and transformation: what is sown is related to what rises, yet changed in glory. “Natural” versus “spiritual” body does not mean material versus immaterial; a spiritual body is a body fully animated and fitted by God’s Spirit for the age to come.'},
+   {ref:'1 Corinthians 15:50-57',title:'“Flesh and blood cannot inherit” points to mortal corruption needing transformation.',text:'Paul immediately explains that believers will be changed and “this mortal” will put on immortality. The answer is not abandonment of creation but victory over corruption and death.'},
+   {ref:'1 Corinthians 15:58',title:'The chapter ends with work, not speculation.',text:'Because resurrection is true, believers can be steadfast and abundant in the Lord’s work now. Future bodily hope gives weight to present embodied obedience.'}
+  ],
+  reflections:['How much of my Christian hope actually depends on Jesus being bodily raised?','What work feels small or exhausting that resurrection lets me call “not in vain”?'],
+  commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'If Christ be not risen, then is our preaching vain.',plain:'Henry stays with Paul’s uncompromising logic. Resurrection is not an optional appendix to Christianity. Remove the risen Christ and the whole saving message collapses because death and sin remain undefeated.',source:'Concise Commentary — 1 Corinthians 15',url:'https://biblehub.com/commentaries/mhc/1_corinthians/15.htm'},
+  question:{q:'What is a “spiritual body”?',short:'A real resurrected body transformed and fully fitted for life by God’s Spirit—not a ghost or a body made of “spiritual material.”',more:'Paul contrasts the present body, marked by corruption and mortality, with the resurrected body, marked by incorruption, glory, power, and the Spirit’s life. The seed image preserves continuity while allowing dramatic transformation.'}
+ },
+ '1 Corinthians 16':{
+  oneLine:'Paul closes with practical gospel life: planned generosity, flexible ministry plans under the Lord’s will, courageous love, respect for faithful workers, and a network of churches serving one another.',
+  write:[
+   {ref:'1 Corinthians 16:2',title:'Generosity can be planned.',text:'Paul tells believers to set something aside regularly according to prosperity.'},
+   {ref:'1 Corinthians 16:9',title:'An open door can come with many adversaries.',text:'Opposition is not automatic proof that ministry opportunity is closed.'},
+   {ref:'1 Corinthians 16:13-14',title:'Courage and love belong together.',text:'Watch, stand fast, be strong—and let everything be done with love.'},
+   {ref:'1 Corinthians 16:18',title:'Faithful people refresh others.',text:'Paul tells the church to recognize servants who strengthen the saints.'}
+  ],
+  underline:{ref:'1 Corinthians 16:14',reason:'After every correction in the letter, Paul can still summarize Christian conduct simply: “Let all your things be done with charity.”'},
+  notice:[
+   {ref:'1 Corinthians 16:1-4',title:'The collection for Jerusalem is organized, accountable generosity.',text:'Paul asks for regular setting aside rather than frantic fundraising after he arrives. The amount is proportionate to prosperity, and trusted representatives will carry the gift. Spiritual generosity and practical financial order belong together.'},
+   {ref:'1 Corinthians 16:5-9',title:'Paul makes plans without pretending plans are sovereignty.',text:'He hopes to stay, travel, winter, and perhaps be helped onward, but says “if the Lord permit.” His open door at Ephesus is “great and effectual” while many adversaries remain. God’s leading cannot be reduced to circumstances becoming easy.'},
+   {ref:'1 Corinthians 16:10-11',title:'Timothy’s youth or temperament may make Corinth intimidating.',text:'Paul tells them to make sure Timothy can be “without fear” and that nobody despise him. Churches have responsibility not merely to receive famous apostles well but to create room for younger faithful workers to serve without needless contempt.'},
+   {ref:'1 Corinthians 16:12',title:'Paul cannot command Apollos’ travel schedule.',text:'Despite Corinth’s earlier factional use of Apollos’ name, Paul speaks warmly of him and says Apollos was not willing to come “at this time.” Healthy ministry does not require controlling another leader’s decisions.'},
+   {ref:'1 Corinthians 16:13-14',title:'Paul’s short commands need each other.',text:'Watchfulness, stability, courage, and strength can become harsh if verse 14 is detached; love can become sentimental if detached from courage and steadfastness. The mature church needs the whole cluster.'},
+   {ref:'1 Corinthians 16:15-18',title:'Stephanas’ household “addicted themselves to the ministry of the saints.”',text:'The old KJV wording means they devoted themselves to service. Paul asks the church to submit to and recognize people whose authority is demonstrated through costly, refreshing labor.'},
+   {ref:'1 Corinthians 16:19-24',title:'The letter ends with affection after severe correction.',text:'Churches send greetings, Aquila and Priscilla host a church in their house, believers greet one another, and Paul signs personally. His final lines include both solemn warning and love “in Christ Jesus.” Correction and affection have never been opposites for him.'}
+  ],
+  reflections:['Where do I mistake opposition for proof that a door is closed?','What would it look like for courage and love to govern the same decision?'],
+  commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'Let all your things be done with love.',plain:'Gill’s simple emphasis works because chapter 16 closes the whole letter. Doctrine, discipline, worship, gifts, freedom, money, leadership, and courage all need the same governing atmosphere: love shaped by Christ.',source:'Exposition of the Entire Bible — 1 Corinthians 16',url:'https://biblehub.com/commentaries/gill/1_corinthians/16.htm'},
+  question:{q:'What does “a great door and effectual is opened…and there are many adversaries” teach about guidance?',short:'A genuine opportunity from God can include serious opposition; ease is not the only sign of an open door.',more:'Paul sees both realities at once. The ministry opportunity is great and effective, and opposition is substantial. Christians should not automatically read resistance as “God must be closing this.” Discernment has to ask what God is doing, not merely which path has the fewest difficulties.'}
+ }
+});
+render();
