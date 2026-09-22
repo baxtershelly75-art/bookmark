@@ -91,12 +91,12 @@ Object.assign(studyMeta,{
   underline:{ref:'Psalms 105:5',reason:'Remembering what God has done is not nostalgia; it is fuel for present faithfulness.'},
   notice:[
    {ref:'Psalms 105:1-15',title:'Part of this Psalm appears in 1 Chronicles 16.',text:'Its opening was used in worship when David brought the Ark to Jerusalem.',cross:[{ref:'1 Chronicles 16:8-22',label:'Worship parallel',reason:'The opening section of Psalm 105 appears in David’s thanksgiving song around the Ark.'}]},
-   {ref:'Psalms 105:17',title:'God’s providence and human guilt are not the same thing.',text:'Joseph’s brothers sinned in selling him. God’s ability to send Joseph ahead through their evil does not turn betrayal into obedience.'},
+   {ref:'Psalms 105:17',title:'God working through an event does not make human evil good.',text:'Joseph’s brothers sinned in selling him. God’s ability to send Joseph ahead through their evil does not turn betrayal into obedience.'},
    {ref:'Psalms 105:45',title:'The ending keeps grace and law in the right order.',text:'God promises, protects, rescues, and gives—then the rescued people are called to live as His.'}
   ],
   reflections:['What part of my story can I retell in a way that notices God’s faithfulness without pretending human wrong was good?','How does remembering grace make obedience different from trying to earn grace?'],
   commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'Afflictions are among our mercies.',plain:'Henry is commenting on Joseph’s hard road. The suffering itself was not good, but God used what hurt Joseph inside a larger saving purpose.',source:'Concise Commentary — Psalm 105:8–23',url:'https://biblehub.com/commentaries/mhc/psalms/105.htm'},
-  question:{q:'How can Psalm 105 say God “sent” Joseph when his brothers sinfully sold him?',short:'Because the Bible can describe God’s providence working through human evil without calling the evil good or removing human responsibility.',more:'Genesis itself gives the same answer: “ye thought evil against me; but God meant it unto good.” The brothers intended harm and were guilty. God was not trapped by their intention; He worked through the same event to preserve life. Providence means evil cannot defeat God’s purpose—not that evil becomes righteous.'}
+  question:{q:'How can Psalm 105 say God “sent” Joseph when his brothers sinfully sold him?',short:'Because God can work His purpose through human evil without calling the evil good or removing human responsibility.',more:'Genesis itself gives the same answer: “ye thought evil against me; but God meant it unto good.” The brothers intended harm and were guilty. God was not trapped by their intention; He worked through the same event to preserve life. God’s ability to work through evil means evil cannot defeat His purpose—not that evil becomes righteous.'}
  }
 });
 render();
