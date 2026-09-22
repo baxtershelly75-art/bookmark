@@ -33,21 +33,21 @@ Object.assign(studyMeta,{
   underline:{ref:'Psalms 22:24',reason:'The psalm’s answer to the opening feeling of abandonment is that God did not finally despise or hide from the afflicted one’s cry.'},
   notice:[
    {ref:'Psalms 22:1',title:'Lament and faith occupy the same sentence.',text:'Even in “why hast thou forsaken me?” the repeated address remains “my God.”'},
-   {ref:'Psalms 22:16',title:'The KJV’s “they pierced my hands and my feet” rests on a real textual variant.',text:'The medieval Masoretic tradition reads a difficult phrase commonly rendered “like a lion, my hands and my feet,” while the ancient Greek translation and a Hebrew witness from Nahal Hever support a verbal reading such as “dug/pierced.” Bookmark should acknowledge the variant rather than pretending it does not exist.'},
+   {ref:'Psalms 22:16',title:'Ancient copies do not all read this line the same way.',text:'The KJV says “they pierced my hands and my feet.” Some old Hebrew copies and traditions have wording closer to “like a lion, my hands and my feet,” while other ancient witnesses support a word like “dug” or “pierced.” The difference is real, so the note should say so plainly.'},
    {ref:'Psalms 22:22-31',title:'Do not stop reading at the suffering.',text:'The second half moves into praise, congregation, the poor being satisfied, worldwide worship, and a future generation hearing what God has done.'}
   ],
   reflections:['What changes when I read the whole psalm after hearing Jesus quote its opening line?','Where do I see trust continuing even before the lament has reached its turn?'],
   commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'he keeps his hold upon his God with both hands',plain:'Spurgeon notices that the opening cry still says “my God” twice. The suffering is extreme, but faith has not released its grip.',source:'The Treasury of David — Psalm 22',url:'https://biblehub.com/commentaries/tod/psalms/22.htm'},
-  question:{q:'Why do some Bibles say “pierced my hands and feet” and others mention “like a lion”?',short:'Because Psalm 22:16 has an ancient textual variant. Different Hebrew witnesses and early translations preserve different readings.',more:'The medieval Masoretic text has wording commonly rendered “like a lion, my hands and my feet,” while the Greek Septuagint and a Hebrew manuscript from Nahal Hever support a verbal reading related to digging or piercing. The Christian connection between Psalm 22 and the crucifixion does not depend on hiding this textual history; the psalm has multiple clear New Testament connections even apart from verse 16.'}
+  question:{q:'Why do some Bibles say “pierced my hands and feet” and others say something like “a lion”?',short:'Because ancient copies do not all preserve the exact same wording in this line.',more:'One ancient Hebrew tradition has wording that is usually translated “like a lion, my hands and my feet.” Other ancient witnesses, including an early Greek translation and an old Hebrew manuscript, support a verb such as “dug” or “pierced.” Christians do not need to hide that difference. Psalm 22 has several clear connections to Jesus’ crucifixion even without making the whole case depend on this one difficult line.'}
  },
  'Psalms 23':{
   oneLine:'Because the LORD is his shepherd, David can receive provision, restoration, guidance, presence in deep darkness, protection before enemies, and a lifelong home with God.',
   write:[
    {ref:'Psalms 23:1',title:'The psalm begins with relationship before provision.',text:'“The LORD is my shepherd” comes before “I shall not want.” The gifts flow from belonging to the Shepherd.'},
    {ref:'Psalms 23:3',title:'Restoration and guidance belong together.',text:'The Shepherd restores the soul and then leads in right paths for His own name’s sake.'},
-   {ref:'Psalms 23:4',title:'The pronoun changes in the valley.',text:'David speaks about God in verses 1–3, but in the dark valley he speaks directly to Him: “thou art with me.”'},
+   {ref:'Psalms 23:4',title:'In the valley, David starts talking directly to God.',text:'In verses 1–3 David says “he.” In the dark valley he changes to “thou art with me.” Trouble makes the prayer more personal.'},
    {ref:'Psalms 23:5',title:'The image changes from Shepherd to Host.',text:'God prepares a table, anoints the head, and fills the cup even with enemies still in view.'},
-   {ref:'Psalms 23:6',title:'Goodness and mercy are not passive scenery.',text:'The Hebrew verb can carry the force of pursuing or following closely; David imagines God’s covenant goodness staying on his trail.'}
+   {ref:'Psalms 23:6',title:'Goodness and mercy stay close behind David.',text:'The Hebrew word can be stronger than simply “follow.” It can picture God’s faithful goodness pursuing him all the way home.'}
   ],
   underline:{ref:'Psalms 23:4',reason:'The valley is not promised away; its terror is answered by presence: “for thou art with me.”'},
   notice:[
@@ -71,20 +71,20 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 24:1',title:'Paul later quotes this ownership claim.',text:'First Corinthians uses “the earth is the LORD’s” while discussing food and conscience.',cross:[{ref:'1 Corinthians 10:26',label:'Direct quotation',reason:'Paul quotes Psalm 24:1 to ground Christian freedom in God’s ownership of creation.'}]},
    {ref:'Psalms 24:3-6',title:'Approaching holy space cannot be separated from ordinary life.',text:'The worshiper’s hands, heart, loyalties, and speech are all included.'},
-   {ref:'Psalms 24:7-10',title:'Many connect this with a worship procession, but the precise historical occasion is not stated.',text:'The gate dialogue sounds liturgical and public; it is safer to appreciate that shape without pretending we know the exact ceremony that first used it.'}
+   {ref:'Psalms 24:7-10',title:'This sounds like a public worship procession.',text:'The people seem to be approaching gates and calling for them to open for the King of glory. The psalm does not tell us the exact ceremony or day, so we should not pretend we know.'}
   ],
   reflections:['Where does Psalm 24 challenge me to connect worship with what my hands and heart are doing?','What difference does it make to remember that the whole earth already belongs to God?'],
   commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'They are bethinking themselves of the qualifications needed for that which they are now doing.',plain:'Maclaren hears the worshipers asking whether their lives fit the holy presence they are approaching. Worship produces self-examination, not merely ceremony.',source:'Expositions of Holy Scripture — Psalm 24:3',url:'https://biblehub.com/commentaries/maclaren/psalms/24.htm'},
-  question:{q:'Is Psalm 24:7–10 definitely describing the Ark entering Jerusalem?',short:'It fits a procession or sanctuary setting very naturally, but the psalm itself does not name the exact historical event.',more:'Many interpreters connect the gate dialogue with bringing the Ark to Jerusalem or another liturgical entrance. That may help us picture the scene, but Bookmark should distinguish a plausible reconstruction from something the text explicitly states. The clear point is the identity and worthiness of the King of glory.'}
+  question:{q:'Is Psalm 24:7–10 definitely describing the Ark entering Jerusalem?',short:'It could fit that scene very well, but the psalm itself never tells us exactly which event this was.',more:'Many Christians have pictured the Ark being brought to Jerusalem because the words sound like a grand entrance into worship. That is a reasonable possibility, but it is still a possibility. The clear point is simpler: the LORD is the King of glory, and even the gates are pictured opening before Him.'}
  },
  'Psalms 25':{
-  oneLine:'David lifts his soul to God for guidance, pardon, covenant friendship, and rescue, weaving confession and trust together in an alphabet-shaped prayer.',
+  oneLine:'David lifts his soul to God for guidance, forgiveness, close fellowship, and rescue, weaving confession and trust through the whole prayer.',
   write:[
    {ref:'Psalms 25:1-2',title:'Prayer begins by lifting the whole self toward God.',text:'David’s trust is not merely agreeing with facts; he entrusts his soul to the LORD.'},
    {ref:'Psalms 25:4-5',title:'Guidance is requested as formation, not just information.',text:'“Shew me,” “teach me,” and “lead me” ask God to shape the walker as well as reveal the road.'},
    {ref:'Psalms 25:6-7',title:'David asks God to remember mercy instead of youthful sins.',text:'The prayer rests on God’s goodness and longstanding compassion, not on a cleaned-up personal record.'},
    {ref:'Psalms 25:11',title:'The size of the sin becomes part of the plea for pardon.',text:'David does not minimize guilt: “for it is great.” He asks forgiveness for God’s name’s sake.'},
-   {ref:'Psalms 25:14',title:'The fear of the LORD is described as intimate covenant friendship.',text:'The KJV “secret” carries the idea of confidential counsel or close fellowship; God makes His covenant known to those who fear Him.'}
+   {ref:'Psalms 25:14',title:'Those who fear the LORD are invited into close fellowship with Him.',text:'The KJV word “secret” can carry the idea of private counsel between close friends. God makes His ways and promises known to those who reverence Him.'}
   ],
   underline:{ref:'Psalms 25:4-5',reason:'Guidance here is deeply relational: show me, teach me, lead me—for on Thee do I wait.'},
   notice:[
@@ -94,7 +94,7 @@ Object.assign(studyMeta,{
   ],
   reflections:['Do I mainly ask God to show me the road, or also to make me teachable enough to walk it?','What does verse 11 teach me about confessing sin without minimizing it?'],
   commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'sincere, affectionate, hearty prayer to God',plain:'Gill hears “unto thee do I lift up my soul” as much more than saying words. David is turning his inner life deliberately toward God.',source:'Exposition of the Entire Bible — Psalm 25',url:'https://www.biblehub.com/commentaries/gill/psalms/25.htm'},
-  question:{q:'Why is Psalm 25 called an acrostic if the Hebrew alphabet pattern has irregularities?',short:'Because the psalm still clearly follows an alphabetic design even though some letters are skipped, repeated, or handled unusually.',more:'Hebrew acrostics are not all mechanically identical. Psalm 25 largely moves through the alphabet, while its surviving form has several irregular points and an additional closing verse. The pattern is real; the irregularity is real too. Neither needs to be hidden.'}
+  question:{q:'Why do people say Psalm 25 follows the Hebrew alphabet?',short:'Most sections begin with the next letter of the Hebrew alphabet, although the pattern is not perfectly regular.',more:'The psalm mostly moves through the Hebrew letters in order, almost like an A-B-C prayer. A few letters are skipped, repeated, or arranged unusually, and there is an extra closing verse. So the alphabet pattern is real, even though it is not perfectly neat.'}
  }
 });
 render();
