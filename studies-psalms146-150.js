@@ -35,7 +35,7 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 147:4',title:'Counting stars is a greatness picture, not astronomy homework.',text:'What humans cannot number with ease is fully known to God.'},
    {ref:'Psalms 147:10-11',title:'The contrast is not “strength is bad.”',text:'The Psalm is correcting misplaced confidence: God’s pleasure rests in reverent trust, not impressive physical power.'},
-   {ref:'Psalms 147:16-18',title:'Cold is described vividly because ordinary weather belongs to providence too.',text:'The God of Israel’s restoration is also Lord over frost and thaw.'}
+   {ref:'Psalms 147:16-18',title:'Cold is described vividly because ordinary weather is under God’s care too.',text:'The God of Israel’s restoration is also Lord over frost and thaw.'}
   ],
   reflections:['What does it do to my idea of God to put “counts the stars” beside “heals the brokenhearted”?','Where am I trying to impress God with strength instead of hoping in His mercy?'],
   commentary:{voice:'Joseph Benson',identity:'English Methodist minister and commentator, 1749–1821',quote:'The thing is done without delay or difficulty',plain:'Benson is describing God’s word running swiftly. Nature does not need to negotiate with the One whose command governs it.',source:'Commentary on Psalm 147:15',url:'https://www.biblehub.com/commentaries/benson/psalms/147.htm'},
