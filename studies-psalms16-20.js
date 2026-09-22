@@ -15,7 +15,7 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 16:4',title:'Other gods do not enlarge life.',text:'David describes multiplied sorrow rather than freedom flowing from chasing rival worship.'},
    {ref:'Psalms 16:6',title:'“Lines” and “heritage” use land-allotment language.',text:'The imagery sounds like an assigned inheritance, but David’s emphasis is that what God has given—and God Himself—is good.'},
-   {ref:'Psalms 16:10',title:'“Hell” in the KJV is Sheol here.',text:'The verse speaks of the realm of the dead and of God’s Holy One not seeing corruption. Acts 2 and Acts 13 guide Christians toward its resurrection fulfillment in Jesus.'}
+   {ref:'Psalms 16:10',title:'The KJV says “hell,” but the Hebrew word means the realm of the dead.',text:'David is speaking about death and about God’s Holy One not remaining in corruption. Acts 2 and Acts 13 show Christians how this points to Jesus’ resurrection.'}
   ],
   reflections:['What changes if I think of God Himself—not only His gifts—as my portion?','What would it look like today to “set the LORD always before me”?'],
   commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'we will venture to believe that in it “Christ is all”',plain:'Spurgeon reads Psalm 16 strongly through the apostolic use of verses 9–10. Whatever David experiences in the psalm, the resurrection language reaches its fullest meaning in Jesus.',source:'The Treasury of David — Psalm 16',url:'https://biblehub.com/commentaries/tod/psalms/16.htm'},
@@ -51,7 +51,7 @@ Object.assign(studyMeta,{
   underline:{ref:'Psalms 18:2',reason:'The many images are worth slowing down over: David has learned several different ways to name the same dependable God.'},
   notice:[
    {ref:'Psalms 18:1',title:'This song appears elsewhere in David’s story.',text:'Second Samuel 22 preserves a closely parallel version, with small wording differences appropriate to two textual settings.',cross:[{ref:'2 Samuel 22:1-3',label:'Story parallel',reason:'The historical book records David singing substantially the same deliverance song.'}]},
-   {ref:'Psalms 18:7-15',title:'The storm language is poetic theophany.',text:'David describes God’s intervention with earthquake, smoke, fire, clouds, thunder, hail, and lightning. The imagery magnifies divine presence and power rather than giving a weather report of one battle.'},
+   {ref:'Psalms 18:7-15',title:'The poetry pictures God arriving in overwhelming power.',text:'David uses earthquake, smoke, fire, clouds, thunder, hail, and lightning to show how mighty God’s rescue was. He is not giving us a weather report of one battle.'},
    {ref:'Psalms 18:20-24',title:'David’s “righteousness” is covenant integrity in the case he is describing.',text:'It should not be read as a claim that David was morally sinless across his whole life.'}
   ],
   reflections:['Which name for God in verses 1–2 fits something I have actually learned about Him?','Why might David remember gentleness alongside strength and victory?'],
@@ -62,7 +62,7 @@ Object.assign(studyMeta,{
   oneLine:'Creation wordlessly declares God’s glory, Scripture names His will with life-giving clarity, and both revelations drive David inward to hidden sin and outward to acceptable words.',
   write:[
    {ref:'Psalms 19:1-4',title:'Creation speaks without a human voice.',text:'The heavens communicate God’s glory continually, crossing language boundaries without ordinary speech.'},
-   {ref:'Psalms 19:7-9',title:'David shifts from “God” to the covenant name “LORD.”',text:'The Creator known through the heavens is also the LORD who addresses His people through instruction, testimony, statutes, commandment, fear, and judgments.'},
+   {ref:'Psalms 19:7-9',title:'David shifts from “God” to “LORD.”',text:'The Creator who speaks through the heavens is also the God who speaks personally to His people through His Word.'},
    {ref:'Psalms 19:10',title:'God’s words are desirable before they are merely useful.',text:'David compares them with gold and honey; obedience grows from valuing what God says.'},
    {ref:'Psalms 19:12-13',title:'Clear Scripture exposes unclear places in us.',text:'After praising the perfection of God’s law, David asks cleansing from faults he cannot even detect and restraint from presumptuous sins.'},
    {ref:'Psalms 19:14',title:'The psalm ends at the mouth and heart.',text:'The God whose heavens speak and whose law speaks is asked to make David’s own words and meditation acceptable.'}
@@ -87,7 +87,7 @@ Object.assign(studyMeta,{
   ],
   underline:{ref:'Psalms 20:7',reason:'The verse asks where confidence finally lands when visible power looks impressive.'},
   notice:[
-   {ref:'Psalms 20:1',title:'“The name” means more than a label.',text:'God’s name gathers up His revealed character and covenant identity; the people are trusting who the God of Jacob has shown Himself to be.'},
+   {ref:'Psalms 20:1',title:'“The name” means more than a label.',text:'They are trusting the character God has already shown—who He is, what He has promised, and how He has dealt with His people.'},
    {ref:'Psalms 20:3',title:'Sacrifice appears inside the prayer for the king.',text:'The people remember the king’s worship before asking for success, keeping battle from becoming merely political or military.'},
    {ref:'Psalms 20:7',title:'Israel had specific warnings about multiplying horses.',text:'The Torah warned kings not to build security by reproducing the military patterns of surrounding empires.',cross:[{ref:'Deuteronomy 17:16',label:'Royal law background',reason:'Israel’s king was specifically warned against multiplying horses as a source of royal security.'}]}
   ],
