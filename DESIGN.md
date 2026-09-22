@@ -38,8 +38,10 @@ The approved Genesis 31 written prototype remains the chapter-card benchmark. Hi
 
 Approved collection: Genesis 1–50; Psalms 1–30; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **139 carefully developed cards**, not a speed target. The interface supports queueing any Bible chapter.
 
-Published `main` still has the accepted shell with Genesis 1–7, Genesis 31, and Psalm 1. The safe `genesis-recovery` branch contains authored short-form cards for Genesis 1–50 plus Psalm 1, with Genesis 31 preserved as the approved benchmark. The recovery set has passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks.
+**Genesis 1–50 and Psalm 1 are published on `main`.** Shelly reviewed the recovered Genesis experience and approved proceeding with the plan. PR #1 was merged at commit `3f2250e1b668b53d95f4d9f1fff85a2e0866e695`, and the GitHub Pages build for that exact commit completed successfully.
 
-Shelly reviewed the recovered Genesis browser preview and said she likes it. The branch remains protected and off the live site until Shelly explicitly authorizes publication/merge. Durable checkpoints now belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
+Genesis 31 remains the benchmark card. The Genesis set passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks before publication. Durable checkpoints belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
+
+The next protected build line is Psalms 2–30, developed in quality checkpoints using the same chapter-card standard and a broad, passage-appropriate mix of older voices.
 
 Visual style: quiet study Bible; warm cream paper, dark brown body text, burgundy headings, forest-green actions, antique-gold accents, readable phone typography and large word-labeled controls. Public site: https://baxtershelly75-art.github.io/bookmark/ .
