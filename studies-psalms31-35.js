@@ -29,7 +29,7 @@ Object.assign(studyMeta,{
    {ref:'Psalms 32:3-4',title:'Silence did not make guilt disappear.',text:'David describes unconfessed sin as inward wasting and heavy pressure rather than freedom.'},
    {ref:'Psalms 32:5',title:'Confession is answered by forgiveness.',text:'David stops hiding, acknowledges his sin, and says God forgave the iniquity of it.'},
    {ref:'Psalms 32:7',title:'The forgiven sinner now calls God a hiding place.',text:'The movement is striking: hiding sin gives way to hiding in God.'},
-   {ref:'Psalms 32:10',title:'Mercy surrounds the person who trusts the LORD.',text:'The psalm ends not with a fragile second chance but with surrounding covenant mercy and commanded joy.'}
+   {ref:'Psalms 32:10',title:'Mercy surrounds the person who trusts the LORD.',text:'The psalm ends not with a fragile second chance but with God’s faithful mercy surrounding the believer and calling forth joy.'}
   ],
   underline:{ref:'Psalms 32:5',reason:'The turning point is honest confession met by God’s forgiveness.'},
   notice:[
@@ -52,13 +52,13 @@ Object.assign(studyMeta,{
   ],
   underline:{ref:'Psalms 33:11',reason:'Nations change and plans fail, but “the counsel of the LORD standeth for ever.”'},
   notice:[
-   {ref:'Psalms 33:1',title:'Psalm 33 has no superscription in the Hebrew text.',text:'Its opening closely follows the ending of Psalm 32, which may explain why the two feel naturally linked.'},
+   {ref:'Psalms 33:1',title:'Psalm 33 has no title line in the Hebrew text.',text:'Its opening sounds very much like the ending of Psalm 32, which may be one reason the two psalms feel naturally connected.'},
    {ref:'Psalms 33:6',title:'“Word” and “breath” belong together in the creation line.',text:'The verse portrays creation as effortless divine command, not struggle against equal forces.'},
    {ref:'Psalms 33:13-15',title:'God sees universally and forms individually.',text:'The One who looks on all humanity also fashions hearts and considers human works.'}
   ],
   reflections:['What human strength am I most tempted to treat as if it guarantees the future?','How can praise stay “new” without needing novelty for novelty’s sake?'],
   commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'it is beautiful, and looks lovely in them',plain:'Gill says praise is “comely” for the upright because gratitude fits people whose hearts have been touched by God’s goodness.',source:'Exposition of the Entire Bible — Psalm 33',url:'https://www.biblehub.com/commentaries/gill/psalms/33.htm'},
-  question:{q:'What is a “new song” if the truths about God are ancient?',short:'It is fresh praise arising from a living encounter with God’s works and character, not a command to discard old truth.',more:'Scripture can call for a new song while repeatedly rehearsing creation, covenant, rescue, and mercy. The newness is the renewed response of God’s people as His old, true goodness is recognized in their present life.'}
+  question:{q:'What is a “new song” if the truths about God are ancient?',short:'It is fresh praise arising from a living encounter with God’s works and character, not a command to discard old truth.',more:'Scripture can call for a new song while repeating old truths about creation, God’s promises, rescue, and mercy. The “new” part is the fresh response of God’s people as they recognize His same faithful goodness in their present life.'}
  },
  'Psalms 34':{
   oneLine:'David turns a humiliating escape into communal testimony: seek the LORD, taste His goodness, learn His fear, speak truth, pursue peace, and trust the God who stays near the brokenhearted.',
@@ -90,7 +90,7 @@ Object.assign(studyMeta,{
   ],
   underline:{ref:'Psalms 35:3',reason:'Underneath every request for justice is this needed assurance: “I am thy salvation.”'},
   notice:[
-   {ref:'Psalms 35:4-8',title:'These are severe imprecations.',text:'David asks God—not himself—to shame, scatter, and trap persecutors. Such prayers should be read as appeals to the righteous Judge, not as permission to cultivate personal cruelty.'},
+   {ref:'Psalms 35:4-8',title:'These are severe prayers for judgment.',text:'David asks God—not himself—to shame, scatter, and trap his persecutors. The prayer puts justice in God’s hands; it does not give David permission to become cruel.'},
    {ref:'Psalms 35:7-8',title:'The hidden net returns on its maker.',text:'As in Psalms 7 and 9, the poetry imagines planned harm collapsing back on the person who prepared it.'},
    {ref:'Psalms 35:19',title:'“Without a cause” becomes important language later in Scripture.',text:'Jesus describes unjust hatred with the same scriptural theme; Psalm 69:4 has closely related wording as well.',cross:[{ref:'John 15:25',label:'Later Scripture theme',reason:'Jesus says the hatred against Him fulfills the scriptural word, “They hated me without a cause.”'}]}
   ],
