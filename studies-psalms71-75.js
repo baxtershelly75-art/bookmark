@@ -34,12 +34,12 @@ Object.assign(studyMeta,{
   underline:{ref:'Psalms 72:12',reason:'The king’s worldwide greatness is explained by this: he hears the needy person who has no helper.'},
   notice:[
    {ref:'Psalms 72:1',title:'The title can be understood “of Solomon” or “for Solomon.”',text:'That leaves room for a real royal setting while the language of the psalm reaches beyond anything one ordinary king fully accomplished.'},
-   {ref:'Psalms 72:5-17',title:'Christians have long read this as a messianic royal psalm.',text:'Its worldwide, enduring, justice-filled kingship fits the Bible’s growing hope for the final Son of David.'},
+   {ref:'Psalms 72:5-17',title:'Christians have long heard this psalm pointing toward the Messiah.',text:'Its worldwide, lasting, justice-filled kingship fits the Bible’s growing hope for the final Son of David.'},
    {ref:'Psalms 72:20',title:'“The prayers of David…are ended” marks a collection boundary.',text:'It does not mean David never wrote another psalm; it closes an earlier gathered section of Davidic prayers.'}
   ],
   reflections:['What does this psalm teach me to look for when Scripture calls leadership righteous?','Why does the king’s treatment of people with no helper matter so much in a psalm about worldwide rule?'],
   commentary:{voice:'C. H. Spurgeon',identity:'Baptist preacher, 1834–1892',quote:'A cry is the native language of a spiritually needy soul.',plain:'Spurgeon notices that the needy person in verse 12 does not need polished speech to reach the King. Need itself can cry—and the righteous King listens.',source:'The Poor Man’s Friend — Psalm 72:12',url:'https://www.biblehub.com/sermons/auth/spurgeon/the_poor_man%27s_friend.htm'},
-  question:{q:'Is Psalm 72 about Solomon or Jesus?',short:'It belongs to Israel’s royal hope and can fit Solomon’s reign in its first setting, but its full picture of worldwide, lasting righteousness reaches beyond Solomon and has long been read as messianic.',more:'The psalm asks for the king or king’s son to rule justly and then describes a reign stretching through generations and nations, with the poor perfectly defended and worldwide blessing. Solomon gives us a real royal setting, but the Bible’s hope for the Son of David grows larger than Solomon. Christians therefore hear the fullest answer in Christ without pretending Solomon was never part of the picture.'}
+  question:{q:'Is Psalm 72 about Solomon or Jesus?',short:'It belongs to Israel’s royal hope and can fit Solomon’s reign in its first setting, but its full picture of worldwide, lasting righteousness reaches beyond Solomon and points toward the Messiah.',more:'The psalm asks for the king or king’s son to rule justly and then describes a reign stretching through generations and nations, with the poor perfectly defended and worldwide blessing. Solomon gives us a real royal setting, but the Bible’s hope for the Son of David grows larger than Solomon. Christians therefore hear the fullest answer in Christ without pretending Solomon was never part of the picture.'}
  },
  'Psalms 73':{
   oneLine:'Asaph nearly loses his footing while envying wicked people who seem to thrive, but worship changes what he can see: their prosperity has an end, while God Himself remains his portion.',
@@ -61,10 +61,10 @@ Object.assign(studyMeta,{
   question:{q:'What actually changed when Asaph went into the sanctuary?',short:'The wicked people did not suddenly stop prospering. Asaph finally saw their present prosperity inside a much bigger story.',more:'Before verse 17, Asaph measures life mainly by what is happening now: they are comfortable, he is troubled. In God’s presence he starts seeing their end, his own foolish envy, God’s hand holding him, and God Himself as his final portion. Worship does not hide the unfairness; it changes the time scale and the standard by which he judges it.'}
  },
  'Psalms 74':{
-  oneLine:'With the sanctuary wrecked and God seeming silent, the congregation tells Him exactly what has been destroyed, then reaches backward to His old acts of rescue and creation as reasons to ask Him to act again.',
+  oneLine:'With the sanctuary wrecked and God seeming silent, the whole worshiping community tells Him exactly what has been destroyed, then reaches backward to His old acts of rescue and creation as reasons to ask Him to act again.',
   write:[
    {ref:'Psalms 74:1-3',title:'The prayer does not hide the devastation.',text:'The worshipers ask why, ask God to remember them, and ask Him to look at what the enemy has ruined.'},
-   {ref:'Psalms 74:7',title:'The place associated with God’s name has been burned.',text:'This is communal grief over destroyed worship, not merely damage to a favorite building.'},
+   {ref:'Psalms 74:7',title:'The place associated with God’s name has been burned.',text:'The whole community is grieving destroyed worship, not merely damage to a favorite building.'},
    {ref:'Psalms 74:9-10',title:'The hardest part is not knowing how long.',text:'They say there are no signs and no prophet telling them when the devastation will end.'},
    {ref:'Psalms 74:12',title:'“Yet God is my King of old.”',text:'The psalm turns by remembering that present silence has not erased God’s long history of saving.'},
    {ref:'Psalms 74:16-17',title:'Day, night, seasons, and boundaries still belong to God.',text:'The congregation uses the stability of creation as an argument for hope when their worshiping world feels destroyed.'}
