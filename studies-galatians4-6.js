@@ -1,0 +1,75 @@
+// Galatians 4–6 — Living Bookmark cards.
+Object.assign(studies,{
+ 'Galatians 4':{body:''},
+ 'Galatians 5':{body:''},
+ 'Galatians 6':{body:''}
+});
+
+Object.assign(studyMeta,{
+ 'Galatians 4':{
+  oneLine:'Paul moves from slavery to sonship: God sent His Son and then His Spirit, making believers heirs—and making the Galatians’ desire to return to bondage especially heartbreaking.',
+  write:[
+   {ref:'Galatians 4:4',title:'Jesus came at the Father’s appointed time.',text:'The “fulness of the time” belongs to God’s timing, not human accident.'},
+   {ref:'Galatians 4:5',title:'Redemption leads to adoption.',text:'Christ does not only free slaves; He brings them into the family as sons and heirs.'},
+   {ref:'Galatians 4:6',title:'The Spirit teaches the heart to cry “Abba, Father.”',text:'Christian sonship is not merely a legal label; God gives His Spirit to make the relationship known.'},
+   {ref:'Galatians 4:19',title:'Paul wants Christ formed in them.',text:'His goal is deeper than winning an argument; he longs to see Christ take shape in their lives.'}
+  ],
+  underline:{ref:'Galatians 4:6',reason:'The gospel brings believers close enough to God to cry, “Abba, Father.”'},
+  notice:[
+   {ref:'Galatians 4:1-7',title:'Paul’s heir illustration is about status changing at the appointed time.',text:'A child may legally own the estate and still live under guardians until the father’s appointed time. Paul uses that picture to explain movement from childhood-like bondage into the full standing of sons through Christ. The point is not that Old Testament believers were unloved; it is that the coming of Christ marks a new stage in God’s saving plan.'},
+   {ref:'Galatians 4:4-5',title:'“Sent forth his Son” says more than “a child was born.”',text:'Paul speaks of the Son as already belonging to the Father and then being sent, while also being “made of a woman” and “made under the law.” The verse holds together Christ’s true pre-existence, true humanity, and willing entrance under the law in order to redeem those under it.'},
+   {ref:'Galatians 4:8-11',title:'Paul is shocked that they are moving from one kind of bondage toward another.',text:'Before Christ, the Gentile Galatians served beings that were “by nature no gods.” Now, instead of returning to paganism in exactly the same form, they are treating religious calendars and law observance as though those things could establish their standing with God. Paul calls that a return to “weak and beggarly elements” because anything used as a substitute for Christ becomes slavery.'},
+   {ref:'Galatians 4:13-15',title:'Paul’s physical illness is real, but the exact diagnosis is not given.',text:'He says bodily weakness became the occasion for preaching to them and remembers how warmly they received him. The line about giving him their eyes has led some readers to suggest an eye disease, but that remains a possibility, not something the text proves.'},
+   {ref:'Galatians 4:21-31',title:'Paul openly calls the Hagar-Sarah section an allegory.',text:'He is not saying Genesis never happened historically. He uses the real stories of Hagar and Sarah to illustrate two ways of seeking inheritance: slavery connected with Sinai and human effort, versus freedom connected with God’s promise. Because Paul himself signals the allegory, this is different from inventing hidden symbolic meanings wherever we please.'}
+  ],
+  reflections:['Do I relate to God mainly as someone trying not to fail, or as someone received into His family through Christ?','Where might I be turning a good religious practice into something I depend on for my standing with God?'],
+  commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'The slaves bought into freedom are received into the great family.',plain:'Maclaren catches the movement in verses 4–7: redemption is not merely release from a bad master. God brings the redeemed person into His household with a new relationship, a new cry of “Father,” and the standing of an heir. Galatians will not let Christian freedom be reduced to merely having fewer rules.',source:'Expositions of Holy Scripture — Galatians 4',url:'https://biblehub.com/commentaries/maclaren/galatians/4.htm'},
+  question:{q:'Does Galatians 4:10 mean Christians are wrong to observe any special days?',short:'Paul is condemning religious observance used as bondage or as a basis for standing with God, not merely noticing a day on a calendar.',more:'The Galatians were being drawn into a system where observance of days, months, seasons, and years belonged to the pressure to live under the law for fuller spiritual status. Elsewhere Paul allows believers to regard particular days differently while warning against judging one another. The issue is what the observance means and what confidence is being placed in it.'}
+ },
+ 'Galatians 5':{
+  oneLine:'Christian freedom is neither legal bondage nor permission for selfishness; faith works through love, and the Spirit produces a life the flesh cannot manufacture.',
+  write:[
+   {ref:'Galatians 5:1',title:'Freedom has to be guarded.',text:'Christ made them free, yet Paul still tells them to stand fast and refuse a new yoke of bondage.'},
+   {ref:'Galatians 5:6',title:'Faith shows its life through love.',text:'Circumcision cannot create spiritual standing; living faith expresses itself in love.'},
+   {ref:'Galatians 5:13',title:'Freedom is not permission to serve the flesh.',text:'Paul turns Christian liberty toward serving one another by love.'},
+   {ref:'Galatians 5:16',title:'Walking in the Spirit is the answer to fleshly desire.',text:'Paul does not teach victory through sheer willpower but through a life directed by the Spirit.'},
+   {ref:'Galatians 5:22-23',title:'The Spirit grows one recognizable kind of life.',text:'Love, joy, peace, longsuffering, gentleness, goodness, faith, meekness, and temperance belong together as His fruit.'}
+  ],
+  underline:{ref:'Galatians 5:13',reason:'Christ frees us not for self-indulgence but for love that gladly serves.'},
+  notice:[
+   {ref:'Galatians 5:1-4',title:'Circumcision itself is not Paul’s problem; circumcision as a requirement for justification is.',text:'Paul had no objection to Jewish identity as such, and Acts even records Timothy being circumcised for ministry reasons. Here the issue is very different: if the Galatians receive circumcision as necessary for right standing with God, they are choosing the law as the basis of righteousness and therefore taking on the obligation of the whole law.'},
+   {ref:'Galatians 5:5-6',title:'Paul refuses both religious badges and empty faith.',text:'Neither circumcision nor uncircumcision gives spiritual advantage “in Jesus Christ.” But Paul also does not describe faith as bare agreement in the head. The faith that counts is “faith which worketh by love”—trust in Christ becoming active in the shape of love.'},
+   {ref:'Galatians 5:13-15',title:'Freedom can destroy itself if it becomes selfishness.',text:'Paul immediately guards liberty from abuse. “Use not liberty for an occasion to the flesh” is followed by serving one another through love, and then by the warning that biting and devouring one another can consume a church from the inside.'},
+   {ref:'Galatians 5:16-18',title:'Flesh and Spirit describe opposing powers and directions.',text:'“Flesh” here is not simply the physical body being bad. Paul means fallen human desire operating independently of God. The Spirit leads in the opposite direction, so Christian growth is a real conflict of desires rather than an instant disappearance of temptation.'},
+   {ref:'Galatians 5:19-23',title:'“Works” of the flesh and “fruit” of the Spirit make an important contrast.',text:'The flesh produces a scattered list of destructive acts and attitudes. The Spirit produces a coherent kind of life. The singular “fruit” does not mean every believer displays every quality equally mature at once, but it does underline that these virtues belong together as the Spirit shapes Christlike character.'},
+   {ref:'Galatians 5:24-25',title:'Crucifying the flesh is decisive and ongoing.',text:'Those who belong to Christ have taken sides against the flesh and its ruling claims. Then Paul says, in effect, if the Spirit is the source of our life, let our daily steps keep in line with Him. Christian obedience is not earning life; it is walking out the life already given.'}
+  ],
+  reflections:['Where am I most tempted to confuse freedom with simply getting to do what I want?','Which part of the Spirit’s fruit most exposes where my daily walk needs to come back into step with Him?'],
+  commentary:{voice:'Alexander Maclaren',identity:'Scottish Baptist preacher and expositor, 1826–1910',quote:'Faith in Christ is the only possible basis for active love to God.',plain:'Maclaren follows Paul’s order closely. Love is not a competing alternative to faith, as though Paul cared about doctrine and somebody else cared about behavior. Trust in Christ receives the love of God, and that received love becomes active in the believer’s own love toward God and neighbor.',source:'Expositions of Holy Scripture — Galatians 5',url:'https://biblehub.com/commentaries/maclaren/galatians/5.htm'},
+  question:{q:'If we are free from the law, why does Paul immediately give moral commands?',short:'Because Christian freedom means freedom from law as the basis of justification and from slavery to sin—not freedom from holiness or love.',more:'Paul’s answer is the Spirit. He does not replace Moses with moral chaos; he describes a life where love fulfills the law’s neighborward intent and the Spirit produces the character God desires. Freedom changes the source and purpose of obedience: believers obey from life in the Spirit, not to manufacture acceptance before God.'}
+ },
+ 'Galatians 6':{
+  oneLine:'Paul brings Spirit-led freedom into ordinary church life: restore gently, carry heavy burdens, take responsibility for your own load, sow toward the Spirit, keep doing good, and boast only in Christ’s cross.',
+  write:[
+   {ref:'Galatians 6:1',title:'Restoration should look like the Spirit’s fruit.',text:'A fallen believer is to be restored with meekness, not superiority.'},
+   {ref:'Galatians 6:2',title:'Some burdens are meant to be shared.',text:'Helping carry crushing weight fulfills the law of Christ.'},
+   {ref:'Galatians 6:7',title:'What we sow matters.',text:'Choices have a harvest; God is not mocked by a life that plants one thing and expects another.'},
+   {ref:'Galatians 6:9',title:'Do not confuse delayed harvest with wasted faithfulness.',text:'Paul says there is a due season for reaping if we do not give up.'},
+   {ref:'Galatians 6:14',title:'Paul’s only boast is the cross.',text:'The teachers boast in outward marks; Paul boasts in the crucified Christ who has changed his relationship to the world.'}
+  ],
+  underline:{ref:'Galatians 6:14',reason:'The letter ends where its gospel has been pointing all along: no boast left except the cross of Christ.'},
+  notice:[
+   {ref:'Galatians 6:1',title:'“Restore” is repair language.',text:'The goal is not exposure for its own sake or proving the correct people superior. The word can carry the idea of setting something back into proper condition. Paul also tells the restorer to watch himself, because spiritual maturity should produce humility, not the illusion that temptation only happens to other people.'},
+   {ref:'Galatians 6:2, 5',title:'“Bear one another’s burdens” and “every man shall bear his own burden” are not contradictions.',text:'Paul uses different words and different ideas. Verse 2 is about heavy, crushing burdens that love helps carry. Verse 5 is about the personal load or responsibility each person must answer for before God. Christian community means both real help and real responsibility.'},
+   {ref:'Galatians 6:7-8',title:'Sowing and reaping is not Christian karma.',text:'Paul is not describing an impersonal universe paying people back with mathematically matching events. He is talking about moral direction before the living God: a life continually feeding the flesh moves toward corruption, while a life shaped by the Spirit moves toward life. Grace does not make choices meaningless.'},
+   {ref:'Galatians 6:9-10',title:'“Due season” leaves timing with God.',text:'Paul encourages weary goodness without promising an immediate visible payoff. The command widens beyond the church—do good to all people—while still naming a special responsibility toward the household of faith.'},
+   {ref:'Galatians 6:11',title:'The KJV “how large a letter” most naturally refers to large written characters.',text:'Paul calls attention to writing with his own hand, probably in visibly large letters at the close. Some have connected the large writing with poor eyesight, but the text itself does not tell us why the letters were large, so it is better not to turn the possibility into a diagnosis.'},
+   {ref:'Galatians 6:12-15',title:'The two sides boast in completely different things.',text:'The pressure for circumcision lets the false teachers avoid persecution and boast in visible converts. Paul chooses the opposite symbol: a Roman cross, an object of shame. For him the decisive reality is not circumcision or uncircumcision but “a new creature.”'},
+   {ref:'Galatians 6:17',title:'The “marks of the Lord Jesus” are best understood as Paul’s scars from suffering for Christ.',text:'The word was used for marks showing ownership or association. Paul’s battered body has been marked by persecution in Christ’s service. The verse does not require the later idea of miraculous stigmata.'}
+  ],
+  reflections:['When someone falls, is my first instinct restoration, distance, or superiority?','What good am I tempted to stop doing simply because I cannot see the harvest yet?'],
+  commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'Professors fallen into sin are like broken and dislocated bones',plain:'Gill’s image helps keep Galatians 6:1 from becoming soft indifference or harsh punishment. A dislocated bone really is wrong and needs attention, but the aim of treatment is restoration. Paul wants truth handled with the meekness he has just named as fruit of the Spirit.',source:'Exposition of the Entire Bible — Galatians 6',url:'https://biblehub.com/commentaries/gill/galatians/6.htm'},
+  question:{q:'What does “whatsoever a man soweth, that shall he also reap” mean?',short:'It means the direction we repeatedly feed has consequences; a life sown toward the flesh and a life sown toward the Spirit do not produce the same harvest.',more:'This is not a promise that every good act earns an immediate matching reward or every bad act receives an instant matching punishment. Paul is speaking about moral and spiritual direction under God. Grace forgives sinners, but grace also creates a new life in which what we cultivate really matters.'}
+ }
+});
+render();
