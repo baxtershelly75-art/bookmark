@@ -4,7 +4,9 @@ Public name: **Shelly’s Bible Notes**. Subtitle: **Living Bookmark**. Internal
 
 ## Design authority
 
-The numbered decisions in the existing private `#chicken-scratch` room and the approved Genesis 31 written prototype govern the experience. Relevant references:
+Google Drive is the durable source of truth for continuity. Read **MASTER CONTINUITY — READ FIRST** and **BIBLE PROJECT - MASTER CONTINUITY** before substantial build work. Slack is legacy/secondary history only; no current workflow should depend on a successful Slack write.
+
+The approved Genesis 31 written prototype remains the chapter-card benchmark. Historical Slack references may still be consulted when an older approved design detail must be recovered or a conflict resolved:
 
 - [Genesis 31 prototype](https://chicken-mkz9241.slack.com/archives/C0C1KHVSN01/p1790003630184499)
 - [Chapter-card approval](https://chicken-mkz9241.slack.com/archives/C0C1KHVSN01/p1790004564256239)
@@ -26,12 +28,18 @@ The numbered decisions in the existing private `#chicken-scratch` room and the a
 
 - Very short, useful, verse-linked margin notes. Teach one small thing. Keep supplemental commentary collapsed. Cross-references need a reason and never claim a thematic echo is a direct quotation.
 - KJV verse previews come from the [farskipper/kjv 1769 electronic text](https://github.com/farskipper/kjv), pinned in `app.js`. Quote only a verse or smallest relevant range in the interface.
-- Older historical voices may include Spurgeon, George Müller, Matthew Henry, J. C. Ryle, Alexander Maclaren, F. B. Meyer, and Andrew Murray where an original, identifiable source truly fits. Exact short quote, identified author and work, clickable source, and **In plain English** explanation. Never silently modernize a quote.
+- Older historical voices may include Charles Spurgeon, Matthew Henry, John Gill, J. C. Ryle, John Calvin, Alexander Maclaren, F. B. Meyer, George Müller, Andrew Murray, and other appropriate older evangelical Protestant writers when an original, identifiable source truly fits.
+- Do **not** default to Matthew Henry and Spurgeon. Use a broad, passage-appropriate mix of trustworthy historical commentators and theologians. Choose the writer who genuinely illuminates the text rather than forcing a preferred name into every chapter.
+- For historical commentary: exact short quote, identified author and work, clickable source when possible, and **In plain English** explanation. Never silently modernize a quote.
 - Scripture leads. Treat painful passages plainly and gently; record of sin is not approval. If two Christian readings genuinely help, explain very briefly without debate.
 - Pastor Brian's YouTube sermon quotations remain **permission requested, awaiting response**. Do not publish his words until Shelly confirms permission and the exact excerpt is verified against stable audio with a timestamp and citation.
 
 ## Collection and current state
 
-Approved collection: Genesis 1–50; Psalms 1–30; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **139 carefully developed cards**, not a speed target. The interface supports queueing any Bible chapter. Fully authored cards currently ready: Genesis 1–7, Genesis 31, and Psalm 1. All other chapters explicitly say that notes are in progress. The old long research modules are preserved as source drafts but are not presented as daily cards.
+Approved collection: Genesis 1–50; Psalms 1–30; John; Galatians; Ephesians; Philippians; Colossians; James; Hebrews — **139 carefully developed cards**, not a speed target. The interface supports queueing any Bible chapter.
+
+Published `main` still has the accepted shell with Genesis 1–7, Genesis 31, and Psalm 1. The safe `genesis-recovery` branch contains authored short-form cards for Genesis 1–50 plus Psalm 1, with Genesis 31 preserved as the approved benchmark. The recovery set has passed module syntax/runtime, required-field, loader-order, short-quotation-length, and clickable cross-reference-format checks.
+
+Shelly reviewed the recovered Genesis browser preview and said she likes it. The branch remains protected and off the live site until Shelly explicitly authorizes publication/merge. Durable checkpoints now belong in Drive, not Slack. The old long research modules are preserved as source drafts but are not presented as daily cards.
 
 Visual style: quiet study Bible; warm cream paper, dark brown body text, burgundy headings, forest-green actions, antique-gold accents, readable phone typography and large word-labeled controls. Public site: https://baxtershelly75-art.github.io/bookmark/ .
