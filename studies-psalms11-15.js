@@ -33,7 +33,7 @@ Object.assign(studyMeta,{
   notice:[
    {ref:'Psalms 12:4',title:'The proud claim is really about ownership.',text:'“Our lips are our own” imagines speech as answerable to no Lord.'},
    {ref:'Psalms 12:5',title:'God’s answer is personal and active.',text:'He does not merely say oppression is wrong; He says, “Now will I arise.”'},
-   {ref:'Psalms 12:7',title:'The pronouns are discussed by interpreters.',text:'The Hebrew wording can be read with the poor and needy people of verse 5 in view, while some Christian interpreters have connected it with the pure words of verse 6. The larger psalm clearly teaches both God’s reliable speech and His keeping care, but this verse should not be used to pretend the grammatical question does not exist.'}
+   {ref:'Psalms 12:7',title:'Who does “them” mean?',text:'Verse 5 talks about poor and needy people. Verse 6 talks about the LORD’s pure words. Then verse 7 says, “Thou shalt keep them.” Christians have understood “them” in both ways. The clearest things in the psalm are these: God’s words are pure, and God does not forget people who need His protection.'}
   ],
   reflections:['What kinds of speech sound kind while actually manipulating people?','What changes when I compare human promises with the character of God’s words?'],
   commentary:{voice:'John Gill',identity:'English Baptist pastor and commentator, 1697–1771',quote:'such may be said to “cease” when there are but few of them',plain:'Gill takes David’s opening cry as grief over the scarcity of genuinely faithful people, not a claim that God has literally lost every godly person.',source:'Exposition of the Entire Bible — Psalm 12',url:'https://www.biblehub.com/commentaries/gill/psalms/12.htm'},
