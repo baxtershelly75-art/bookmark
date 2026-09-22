@@ -73,7 +73,7 @@ Object.assign(studyMeta,{
   write:[
    {ref:'2 Corinthians 13:4',title:'Christ was crucified in weakness and lives by God’s power.',text:'Paul’s own weak-looking ministry follows the pattern of the cross.'},
    {ref:'2 Corinthians 13:5',title:'Examine yourselves.',text:'Paul turns scrutiny away from constant testing of him and back toward whether they are truly in the faith.'},
-   {ref:'2 Corinthians 13:9',title:'Paul wants their restoration more than his vindication.',text:'His prayer is that they be made complete.'},
+   {ref:'2 Corinthians 13:9',title:'Paul wants them restored more than he wants to prove himself right.',text:'His prayer is that they be made complete.'},
    {ref:'2 Corinthians 13:14',title:'The final blessing is richly Triune.',text:'Grace of Christ, love of God, and fellowship of the Holy Spirit are named together.'}
   ],
   underline:{ref:'2 Corinthians 13:5',reason:'The church has spent much time examining Paul; he now tells them to examine whether Christ is genuinely among and within them.'},
