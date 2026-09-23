@@ -138,6 +138,10 @@ Object.assign(studyMeta,{
   {ref:'Genesis 33:12-17',title:'Reconciliation does not require identical paths afterward.',text:'The brothers part peacefully rather than immediately combining households.'}
  ],
  reflections:['What did Jacob expect from Esau, and what actually happened?','Where might peace be real even when two people still need separate paths?'],
+ bookmarkCommentary:{
+  text:'God is a God of reconciliation and restoration. He can bring peace into places that have been broken for a long time. Jacob and Esau do not return to the relationship they once had, but fear and hatred no longer have the final word.',
+  carry:'The Lord can heal what is broken without making it look exactly like it did before.'
+ },
  commentary:{voice:'Matthew Henry',identity:'English Nonconformist commentator, 1662–1714',quote:'He ran to meet him, not in passion, but in love.',plain:'Henry highlights the reversal at the heart of the scene: the brother Jacob feared now comes toward him in reconciliation.',source:'Commentary on Genesis 33:1–4',url:'https://www.biblegateway.com/resources/matthew-henry/Gen.33.1-Gen.33.4'},
  question:{q:'Does Genesis 33 mean Jacob and Esau’s relationship was completely repaired?',short:'The meeting shows real reconciliation, but the brothers do not resume one shared household or erase their different histories.',more:'They embrace, weep, speak kindly, exchange gifts, and part without violence. That is substantial peace. The chapter also allows them to continue separately. Reconciliation can be genuine without pretending every relationship returns to its earlier form.'}
 },
