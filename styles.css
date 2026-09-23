@@ -181,6 +181,17 @@ input,select{
   border-radius:7px;
   background:#fffdf8;
 }
+.lord-note{
+  margin-top:22px;
+  padding:17px 16px;
+  background:#fffdf8;
+  border-left:4px solid var(--burgundy);
+  border-radius:6px;
+}
+.lord-note h4{margin:0 0 8px}
+.lord-note p{margin:0 0 10px}
+.lord-note p:last-child{margin-bottom:0}
+.lord-carry{color:var(--forest)}
 .xref{
   margin:9px 0 0;
   padding:10px 12px;

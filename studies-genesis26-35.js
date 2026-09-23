@@ -129,6 +129,10 @@ Object.assign(studyMeta,{
   {ref:'Genesis 33:10-11',title:'Jacob insists that Esau receive the gift.',text:'He speaks of seeing Esau’s face as though seeing the face of God because he has been received favorably.'}
  ],
  underline:{ref:'Genesis 33:4',reason:'The scene Jacob dreaded for years turns into an embrace: “Esau ran to meet him.”'},
+ lordNote:{
+  text:'God brought Jacob through what he was afraid to face. And when Jacob reached the other side, he recognized that the Lord had been faithful to him.',
+  carry:'The Lord can be trusted even when I don’t know what is waiting for me on the other side of something I fear.'
+ },
  notice:[
   {ref:'Genesis 33:8-11',title:'The gift is more than politeness.',text:'Jacob had prepared it as part of seeking favor and peace; receiving it helps mark that reconciliation has actually occurred.'},
   {ref:'Genesis 33:12-17',title:'Reconciliation does not require identical paths afterward.',text:'The brothers part peacefully rather than immediately combining households.'}

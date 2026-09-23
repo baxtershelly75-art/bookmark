@@ -280,6 +280,7 @@ function notesHtml(ref,study,meta,index){
   '<h4>Chapter in one sentence</h4><p class="one-line">'+escapeHtml(meta.oneLine)+'</p>'+
   '<h4>Worth writing down</h4>'+itemListHtml(meta.write,'margin',refId(ref))+
   '<div class="underline-box"><strong>Verse worth marking — '+escapeHtml(meta.underline.ref)+'</strong><br>'+escapeHtml(meta.underline.reason)+'</div>'+
+  (meta.lordNote?'<section class="lord-note"><h4>What might the Lord be showing us here?</h4><p>'+escapeHtml(meta.lordNote.text)+'</p>'+(meta.lordNote.carry?'<p class="lord-carry"><strong>'+escapeHtml(meta.lordNote.carry)+'</strong></p>':'')+'</section>':'')+
   '<details class="drawer study-notes"><summary>Study Notes — for deeper understanding</summary><div class="drawer-body">'+
     '<p class="plain">Background, history, language, cross-references, and other details are here when they help you understand the chapter.</p>'+
     itemListHtml(meta.notice,'notice',refId(ref))+
