@@ -46,7 +46,7 @@ Object.assign(studyMeta,{
   },
   "notice": [
    {
-    "ref": "John 7:53-8:11",
+    "ref": "John 8:1-11",
     "title": "The woman caught in adultery is one of the New Testament’s most important textual-history passages.",
     "text": "The earliest and strongest Greek manuscripts of John do not contain this story, and some later manuscripts place it at other locations. That makes it very unlikely that the paragraph stood here in the earliest recoverable form of John’s Gospel. At the same time, the account is ancient and had a long life in the church. Bookmark should neither hide the manuscript evidence nor talk as though the story appeared yesterday. No central Christian doctrine depends uniquely on this passage."
    },
