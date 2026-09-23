@@ -45,5 +45,12 @@ Object.assign(window.revelationHeartNotes, {
       {ref:'Revelation 6:9-11', title:'He does not forget those who suffer for Him.', text:'The martyrs cry, “How long?” and their suffering is not ignored. They are given white robes and told to rest. Their pain is known in heaven, and their faithfulness is not lost.'},
       {ref:'Revelation 6:16-17', title:'The Lamb is gentle, but He is not indifferent to evil.', text:'The One who gave Himself in chapter 5 is also the righteous Judge in chapter 6. His mercy is not weakness, and evil will not be allowed to reign forever.'}
     ]
+  },
+  'Revelation 7': {
+    write: [
+      {ref:'Revelation 7:3', title:'The Lord knows who belongs to Him.', text:'Before the judgment moves forward, His servants are marked as His. They are not anonymous in the crowd. God knows His own, and they belong to Him.'},
+      {ref:'Revelation 7:9-10', title:'The Lamb is gathering a people no one can count.', text:'John sees people from every nation, kindred, people, and tongue standing before the throne and the Lamb. His saving mercy is not small or narrow. The redeemed are more than John can number.'},
+      {ref:'Revelation 7:16-17', title:'The Lamb becomes their Shepherd.', text:'Jesus does not only bring His people through suffering. He leads them to living fountains of waters, and God wipes away every tear from their eyes. The One who was slain is the One who gently leads them home.'}
+    ]
   }
 });
