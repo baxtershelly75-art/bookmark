@@ -17,5 +17,12 @@ Object.assign(window.revelationHeartNotes, {
       {ref:'Revelation 2:9', title:'Jesus sees what suffering can hide.', text:'They looked poor, but He said, “thou art rich.” Jesus does not measure His people by what the world can see. He knows their suffering, and He sees the treasure that hardship cannot take away.'},
       {ref:'Revelation 2:24-25', title:'Jesus does not pile unnecessary burdens onto His faithful people.', text:'To those who had not followed the corruption around them, He said, “I will put upon you none other burden … hold fast till I come.” There is something tender there: stay with Me. Hold what you have. I am coming.'}
     ]
+  },
+  'Revelation 3': {
+    write: [
+      {ref:'Revelation 3:8', title:'Jesus is not disappointed by our little strength.', text:'He tells Philadelphia, “thou hast a little strength,” and then notices that they kept His word and did not deny His name. He values faithfulness more than impressiveness.'},
+      {ref:'Revelation 3:19', title:'His correction comes from love.', text:'Jesus says, “As many as I love, I rebuke and chasten.” His correction is not Him pushing His people away. He loves them enough to call them back to Himself.'},
+      {ref:'Revelation 3:20', title:'Jesus still wants fellowship with His people.', text:'Even after everything He has just said to Laodicea, He is standing at the door and knocking. He is not merely exposing what is wrong. He is inviting them back to the table with Him.'}
+    ]
   }
 });
