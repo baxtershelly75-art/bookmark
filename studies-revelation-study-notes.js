@@ -65,5 +65,48 @@ Object.assign(window.revelationStudyNotes, {
       {ref:'Revelation 3:20', text:'“Behold, I stand at the door, and knock” is spoken directly to a church that has shut Christ outside its self-sufficient life. It can illustrate Christ’s invitation more broadly, but its first context is a call for a compromised congregation to repent and renew fellowship with Him.'},
       {ref:'Revelation 3:21', text:'The throne promise distinguishes the Son’s victory and His sharing in the Father’s throne while promising participation in Christ’s reign to the conqueror. Revelation will develop throne and shared-reign imagery throughout the rest of the book.'}
     ]
+  },
+  'Revelation 4': {
+    notice: [
+      {ref:'Revelation 4:1', text:'“After this” marks the next vision scene. Some end-times systems read John’s summons “Come up hither” as a picture of the church’s rapture, but the verse explicitly summons John as the visionary; it does not itself say the church is being removed from the earth.'},
+      {ref:'Revelation 4:2', text:'The throne is the controlling image of chapters 4–5. Before Revelation shows seals, beasts, conflict, or judgment, John is shown a throne already occupied. The vision’s structure places everything that follows under God’s sovereign rule.'},
+      {ref:'Revelation 4:3', text:'John describes brilliant stones and a rainbow rather than giving a physical portrait of God. Jasper, sardius/carnelian, and emerald-like color communicate splendor; the rainbow also recalls the covenant sign after the flood in Genesis 9.'},
+      {ref:'Revelation 4:4', text:'The identity of the twenty-four elders is debated. They have been read as heavenly representatives of God’s people, an angelic council, or a symbolic combination connected with the twelve tribes and twelve apostles. Revelation never directly labels them, so certainty is unwarranted.'},
+      {ref:'Revelation 4:5', text:'Lightning, voices, and thunder recall the Sinai theophany in Exodus 19. The seven lamps are identified here as “the seven Spirits of God,” continuing the sevenfold Spirit imagery from Revelation 1:4.'},
+      {ref:'Revelation 4:6', text:'The “sea of glass like unto crystal” is visionary imagery before the throne. It has been connected with the bronze sea of Solomon’s temple and with ancient imagery of chaotic waters brought under divine rule; Revelation does not pause to give one explicit interpretation.'},
+      {ref:'Revelation 4:6', text:'The four living creatures draw strongly on Ezekiel 1 and also echo the six-winged seraphim of Isaiah 6. Revelation combines familiar prophetic throne-room imagery rather than asking readers to imagine ordinary earthly animals standing around God.'},
+      {ref:'Revelation 4:8', text:'“Holy, holy, holy” comes directly from Isaiah 6:3. Revelation expands the song with God’s eternal identity — “which was, and is, and is to come” — joining Isaiah’s temple vision to John’s heavenly throne vision.'},
+      {ref:'Revelation 4:11', text:'The chapter ends by grounding God’s worthiness in creation: all things exist because He willed and created them. That becomes important before chapter 5 turns to the Lamb and redemption.'}
+    ]
+  },
+  'Revelation 5': {
+    notice: [
+      {ref:'Revelation 5:1', text:'Ancient documents could be written on scrolls and secured with seals. This scroll is unusually sealed with seven seals, emphasizing that its contents remain completely closed until the authorized One opens it. The chapter does not explicitly give the scroll a title, so labels such as “title deed of the earth” go beyond what John says.'},
+      {ref:'Revelation 5:5', text:'“Lion of the tribe of Juda” recalls Genesis 49:9–10, and “Root of David” draws on Isaiah 11:1,10. Both are royal and messianic images. John is told to expect the conquering Davidic Lion — then he turns and sees a Lamb.'},
+      {ref:'Revelation 5:6', text:'The Lamb stands “as it had been slain”: Jesus’ victory is represented through His sacrificial death, not by replacing the cross with a different kind of conquest. The slaughtered-yet-standing Lamb is one of Revelation’s central images.'},
+      {ref:'Revelation 5:6', text:'Seven horns and seven eyes are symbolic imagery. Horns commonly signify power in biblical literature, while the seven eyes are explicitly identified as “the seven Spirits of God sent forth into all the earth,” echoing Zechariah 3–4.'},
+      {ref:'Revelation 5:8', text:'The golden bowls of incense are interpreted by the text itself as “the prayers of saints.” Revelation therefore pictures the prayers of God’s people as present in the heavenly throne scene; the verse does not say that Christians should pray to the elders.'},
+      {ref:'Revelation 5:9', text:'There is an important textual difference in the song. Many modern critical texts read that the Lamb purchased people for God “from every tribe and language and people and nation,” while the KJV’s underlying text reads “hast redeemed us.” Either way, the song centers redemption on the Lamb’s blood and its worldwide reach.'},
+      {ref:'Revelation 5:10', text:'The kingdom-and-priests language reaches back to Exodus 19:6 and Revelation 1:6. Manuscripts also differ between forms rendered “we shall reign” and “they shall reign,” but the wider promise that the redeemed share in God’s kingdom is clear in Revelation.'},
+      {ref:'Revelation 5:11', text:'“Ten thousand times ten thousand, and thousands of thousands” is not meant as a census total. It is conventional language for an innumerably vast heavenly company, comparable to Daniel 7:10.'},
+      {ref:'Revelation 5:13', text:'The worship widens from the living creatures and elders to every creature, and blessing is directed to “him that sitteth upon the throne, and unto the Lamb.” Revelation places the Lamb within the heavenly worship scene alongside the One on the throne.'}
+    ]
+  },
+  'Revelation 6': {
+    notice: [
+      {ref:'Revelation 6:1', text:'The Lamb opens the seals. Whatever interpretive timeline is adopted for the visions, the chapter presents the unfolding judgments as subordinate to the authority of the Lamb introduced in chapter 5.'},
+      {ref:'Revelation 6:2', text:'The first rider on the white horse is disputed. Some identify him positively with Christ or gospel conquest; many others see him as conquest or deceptive imperial power because he belongs to the same sequence as war, famine, and death. Revelation does not name this rider, so the identification should remain open.'},
+      {ref:'Revelation 6:3-8', text:'The four horsemen draw on the colored horses of Zechariah 1 and 6, though Revelation gives them its own roles. The sequence moves through conquest, violent conflict, scarcity, and death — familiar forms of judgment in the prophetic Scriptures.'},
+      {ref:'Revelation 6:5', text:'The balances in the third rider’s hand are scales used for rationing food. A denarius was commonly associated with roughly a day’s wage, so the prices in verse 6 portray severe scarcity: basic grain consumes an ordinary worker’s daily earnings.'},
+      {ref:'Revelation 6:6', text:'“Hurt not the oil and the wine” has produced many symbolic explanations, but the text does not interpret the phrase. It may indicate that the scarcity is severe yet limited or uneven. More elaborate identifications should be held lightly.'},
+      {ref:'Revelation 6:8', text:'The fourth rider is explicitly named Death, with Hades following. The four means of death — sword, hunger, death/pestilence, and wild beasts — echo the covenant-judgment language of Ezekiel 14:21.'},
+      {ref:'Revelation 6:9', text:'The martyrs are pictured “under the altar,” probably drawing on sacrificial imagery in which blood was poured at the base of the altar. Their deaths are presented as faithful witness, not as forgotten casualties.'},
+      {ref:'Revelation 6:10', text:'The martyrs’ cry “How long?” belongs to the biblical lament tradition, especially the Psalms. They appeal to God for righteous judgment rather than taking vengeance themselves.'},
+      {ref:'Revelation 6:11', text:'The white robes signify vindication and purity, and the martyrs are told to rest while the story continues. The verse acknowledges further suffering without giving readers a timetable from which a date can be calculated.'},
+      {ref:'Revelation 6:12-14', text:'Darkened sun, blood-colored moon, falling stars, and a shaken sky belong to the stock imagery of Old Testament “day of the LORD” and cosmic-judgment passages such as Isaiah 13, Isaiah 34, Joel 2, and Haggai 2. Interpreters differ over how literally each image should be mapped onto future physical events.'},
+      {ref:'Revelation 6:15', text:'The list runs from kings and commanders to enslaved and free people. The point is the universality of the crisis: social rank provides no shelter from divine judgment.'},
+      {ref:'Revelation 6:16', text:'The wording echoes Hosea 10:8, later quoted by Jesus in Luke 23:30. “The wrath of the Lamb” is deliberately striking: the sacrificial Lamb of chapter 5 is also the rightful Judge.'},
+      {ref:'Revelation 6:17', text:'“Who shall be able to stand?” ends the chapter as a question. Revelation 7 answers it by showing people sealed by God and a great multitude standing before the throne and the Lamb, so chapter 6 should not be read in isolation from what follows.'}
+    ]
   }
 });
