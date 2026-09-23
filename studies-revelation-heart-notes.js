@@ -31,5 +31,12 @@ Object.assign(window.revelationHeartNotes, {
       {ref:'Revelation 4:8', title:'His holiness never becomes ordinary.', text:'The living creatures never stop saying, “Holy, holy, holy.” Heaven does not get used to Him. The more they behold Him, the more worthy He is of wonder.'},
       {ref:'Revelation 4:10-11', title:'He is worthy of everything we can lay before Him.', text:'The elders fall down and cast their crowns before His throne. Even what they have received becomes something they gladly give back to Him, because He alone is worthy.'}
     ]
+  },
+  'Revelation 5': {
+    write: [
+      {ref:'Revelation 5:5-6', title:'Jesus conquers as the Lamb who was slain.', text:'John is told to look for the Lion, and when he turns he sees a Lamb who had been slain. His victory is not cruelty stronger than cruelty. He overcomes by giving Himself.'},
+      {ref:'Revelation 5:8', title:'The prayers of His people are not invisible to Him.', text:'The prayers of the saints are pictured as golden bowls of incense before the Lamb. What His people bring to Him is not lost in the air. It is present before Him.'},
+      {ref:'Revelation 5:9', title:'He gave Himself to bring people to God.', text:'He is worthy because He was slain and redeemed people to God by His blood. Jesus did not save from a distance. He paid the cost Himself.'}
+    ]
   }
 });
