@@ -24,5 +24,12 @@ Object.assign(window.revelationHeartNotes, {
       {ref:'Revelation 3:19', title:'His correction comes from love.', text:'Jesus says, “As many as I love, I rebuke and chasten.” His correction is not Him pushing His people away. He loves them enough to call them back to Himself.'},
       {ref:'Revelation 3:20', title:'Jesus still wants fellowship with His people.', text:'Even after everything He has just said to Laodicea, He is standing at the door and knocking. He is not merely exposing what is wrong. He is inviting them back to the table with Him.'}
     ]
+  },
+  'Revelation 4': {
+    write: [
+      {ref:'Revelation 4:2', title:'The Lord is already on the throne.', text:'Before John sees anything frightening or difficult, he sees Someone sitting on the throne. Nothing in Revelation begins with chaos being stronger than God. He is already reigning.'},
+      {ref:'Revelation 4:8', title:'His holiness never becomes ordinary.', text:'The living creatures never stop saying, “Holy, holy, holy.” Heaven does not get used to Him. The more they behold Him, the more worthy He is of wonder.'},
+      {ref:'Revelation 4:10-11', title:'He is worthy of everything we can lay before Him.', text:'The elders fall down and cast their crowns before His throne. Even what they have received becomes something they gladly give back to Him, because He alone is worthy.'}
+    ]
   }
 });
