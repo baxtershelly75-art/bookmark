@@ -288,7 +288,8 @@ function notesHtml(ref,study,meta,index){
     itemListHtml(meta.notice,'notice',refId(ref))+
   '</div></details>'+
   '<section class="reflection-box"><h4>Reflection questions</h4>'+reflections+'</section>'+
-  '<details class="drawer"><summary>Commentary</summary><div class="drawer-body">'+
+  (meta.bookmarkCommentary?'<details class="drawer"><summary>Living Bookmark Commentary</summary><div class="drawer-body"><p>'+escapeHtml(meta.bookmarkCommentary.text)+'</p>'+(meta.bookmarkCommentary.carry?'<p class="plain"><strong>'+escapeHtml(meta.bookmarkCommentary.carry)+'</strong></p>':'')+'</div></details>':'')+
+  '<details class="drawer"><summary>Historical Commentary</summary><div class="drawer-body">'+
     '<p><strong>'+escapeHtml(commentary.voice)+'</strong><br><small>'+escapeHtml(commentary.identity)+'</small></p>'+
     '<blockquote>“'+escapeHtml(commentary.quote)+'”</blockquote>'+
     '<p class="plain"><strong>In plain English:</strong> '+escapeHtml(commentary.plain)+'</p>'+
