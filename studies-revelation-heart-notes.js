@@ -38,5 +38,12 @@ Object.assign(window.revelationHeartNotes, {
       {ref:'Revelation 5:8', title:'The prayers of His people are not invisible to Him.', text:'The prayers of the saints are pictured as golden bowls of incense before the Lamb. What His people bring to Him is not lost in the air. It is present before Him.'},
       {ref:'Revelation 5:9', title:'He gave Himself to bring people to God.', text:'He is worthy because He was slain and redeemed people to God by His blood. Jesus did not save from a distance. He paid the cost Himself.'}
     ]
+  },
+  'Revelation 6': {
+    write: [
+      {ref:'Revelation 6:1', title:'The Lamb still holds the story when it becomes frightening.', text:'The seals do not open because chaos has taken control. Jesus is the One opening them. Even here, the chapter begins with the Lamb still holding authority.'},
+      {ref:'Revelation 6:9-11', title:'He does not forget those who suffer for Him.', text:'The martyrs cry, “How long?” and their suffering is not ignored. They are given white robes and told to rest. Their pain is known in heaven, and their faithfulness is not lost.'},
+      {ref:'Revelation 6:16-17', title:'The Lamb is gentle, but He is not indifferent to evil.', text:'The One who gave Himself in chapter 5 is also the righteous Judge in chapter 6. His mercy is not weakness, and evil will not be allowed to reign forever.'}
+    ]
   }
 });
