@@ -52,5 +52,12 @@ Object.assign(window.revelationHeartNotes, {
       {ref:'Revelation 7:9-10', title:'The Lamb is gathering a people no one can count.', text:'John sees people from every nation, kindred, people, and tongue standing before the throne and the Lamb. His saving mercy is not small or narrow. The redeemed are more than John can number.'},
       {ref:'Revelation 7:16-17', title:'The Lamb becomes their Shepherd.', text:'Jesus does not only bring His people through suffering. He leads them to living fountains of waters, and God wipes away every tear from their eyes. The One who was slain is the One who gently leads them home.'}
     ]
+  },
+  'Revelation 8': {
+    write: [
+      {ref:'Revelation 8:1', title:'His presence can silence heaven.', text:'When the seventh seal opens, heaven grows silent. Before another trumpet sounds, the vision pauses. His holiness is not something to rush past; even heaven falls quiet before Him.'},
+      {ref:'Revelation 8:3-4', title:'He receives the prayers of His people.', text:'As the incense rises before God, the prayers of the saints rise with it. Even while the world is shaking, their prayers are not treated as small. They are brought before Him.'},
+      {ref:'Revelation 8:7-12', title:'Even His judgment is measured.', text:'Again and again, only a third is struck. The judgments are severe, but they are not uncontrolled. God sets the boundary; destruction does not get to decide how far it goes.'}
+    ]
   }
 });
