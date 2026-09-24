@@ -148,13 +148,25 @@ Object.assign(studyMeta,{
 'Genesis 34':{
  oneLine:'Dinah is violated by Shechem, her brothers answer that wrong with deception and mass killing, and the chapter records a cascade of harm without asking the reader to bless either the assault or the revenge.',
  write:[
-  {ref:'Genesis 34:2',title:'Dinah is taken and violated.',text:'The chapter begins with harm done to her. Later affection or marriage negotiation does not undo the wrong already committed.'},
-  {ref:'Genesis 34:13',title:'The brothers answer deceitfully.',text:'Their grief and anger are understandable; their plan deliberately turns the covenant sign of circumcision into a weapon.'},
-  {ref:'Genesis 34:25-29',title:'Simeon and Levi escalate one man’s crime into slaughter and plunder.',text:'They kill the males of the city, take Dinah, and the brothers spoil the city and take women and children captive.'},
-  {ref:'Genesis 34:30',title:'Jacob finally speaks about the violence.',text:'His first stated concern is the danger brought upon the household; Genesis 49 will later condemn Simeon and Levi’s fierce anger more directly.',cross:[{ref:'Genesis 49:5-7',label:'Later verdict',reason:'Jacob later curses their anger and cruelty rather than blessing the Shechem massacre.'}]}
+   {
+     "ref": "Genesis 34:13, 25-29",
+     "title": "God’s holiness cannot be used to make revenge holy.",
+     "text": "Simeon and Levi take the sign of God’s covenant and turn it into a weapon. Later Jacob condemns their cruelty; belonging to God’s family never makes deceit or vengeance righteous.",
+     "cross": [
+       {
+         "ref": "Genesis 49:5-7",
+         "label": "Later verdict",
+         "reason": "Jacob later condemns Simeon and Levi’s violent anger rather than blessing what they did at Shechem."
+       }
+     ]
+   }
  ],
  underline:{ref:'Genesis 34:13',reason:'This is the hinge where grief turns into deliberate deceit, setting up further violence.'},
  notice:[
+  {ref:'Genesis 34:2',title:'Dinah is taken and violated.',text:'The chapter begins with harm done to her. Later affection or marriage negotiation does not undo the wrong already committed.'},
+  {ref:'Genesis 34:13',title:'The brothers answer deceitfully.',text:'Their grief and anger are understandable; their plan deliberately turns the covenant sign of circumcision into a weapon.'},
+  {ref:'Genesis 34:25-29',title:'Simeon and Levi escalate one man’s crime into slaughter and plunder.',text:'They kill the males of the city, take Dinah, and the brothers spoil the city and take women and children captive.'},
+  {ref:'Genesis 34:30',title:'Jacob finally speaks about the violence.',text:'His first stated concern is the danger brought upon the household; Genesis 49 will later condemn Simeon and Levi’s fierce anger more directly.',cross:[{ref:'Genesis 49:5-7',label:'Later verdict',reason:'Jacob later curses their anger and cruelty rather than blessing the Shechem massacre.'}]},
   {ref:'Genesis 34:1-31',title:'Dinah is not responsible for the violence done to her.',text:'The text says Shechem took and defiled her. Older interpreters sometimes blamed her curiosity; Bookmark does not place an attacker’s guilt on the person harmed.'},
   {ref:'Genesis 34:14-17',title:'A holy sign is weaponized.',text:'Circumcision is used as the bait for an ambush. Religious language does not make treachery righteous.'},
   {ref:'Genesis 34:31',title:'The brothers’ final question does not erase their own wrongdoing.',text:'Shechem’s treatment of Dinah was evil; mass killing and plunder were also evil. One wrong does not sanctify another.'}
@@ -166,13 +178,23 @@ Object.assign(studyMeta,{
 'Genesis 35':{
  oneLine:'God calls Jacob back to Bethel, Jacob cleanses his household of foreign gods, God renews his name and promises, and the chapter also carries the grief of Deborah’s, Rachel’s, and Isaac’s deaths.',
  write:[
-  {ref:'Genesis 35:1-3',title:'Back to Bethel means back to the God who answered in distress.',text:'Jacob remembers the place of his earlier vow and the God who “was with me in the way which I went.”'},
-  {ref:'Genesis 35:2-4',title:'Return to worship begins with putting away idols.',text:'Jacob calls the household to remove foreign gods, cleanse themselves, and change garments before going up to Bethel.'},
-  {ref:'Genesis 35:9-12',title:'God repeats the name Israel and the covenant promise.',text:'The new name, fruitfulness, nations, kings, and land promise are all reaffirmed.'},
-  {ref:'Genesis 35:18',title:'Rachel dies giving birth to Benjamin.',text:'The chapter of return and renewed promise also contains profound family grief; blessing does not make the journey painless.'}
+   {
+     "ref": "Genesis 35:1",
+     "title": "The Lord calls Jacob back.",
+     "text": "After fear, compromise, and the disaster at Shechem, God does not abandon Jacob. He tells him to rise and return to Bethel—the place where He first met him on the road."
+   },
+   {
+     "ref": "Genesis 35:9-12",
+     "title": "God repeats His blessing after all the mess.",
+     "text": "Jacob’s failures have not exhausted God’s faithfulness. The Lord appears again, names him Israel again, and speaks the covenant promise again."
+   }
  ],
  underline:{ref:'Genesis 35:3',reason:'Jacob remembers God as the One “who answered me in the day of my distress, and was with me in the way.”'},
  notice:[
+  {ref:'Genesis 35:1-3',title:'Back to Bethel means back to the God who answered in distress.',text:'Jacob remembers the place of his earlier vow and the God who “was with me in the way which I went.”'},
+  {ref:'Genesis 35:2-4',title:'Return to worship begins with putting away idols.',text:'Jacob calls the household to remove foreign gods, cleanse themselves, and change garments before going up to Bethel.'},
+  {ref:'Genesis 35:9-12',title:'God repeats the name Israel and the covenant promise.',text:'The new name, fruitfulness, nations, kings, and land promise are all reaffirmed.'},
+  {ref:'Genesis 35:18',title:'Rachel dies giving birth to Benjamin.',text:'The chapter of return and renewed promise also contains profound family grief; blessing does not make the journey painless.'},
   {ref:'Genesis 35:4',title:'The idols are buried before the journey continues.',text:'The return to Bethel is concrete, not merely emotional: things incompatible with worship are actually put away.'},
   {ref:'Genesis 35:8',title:'Deborah’s death receives a named place of mourning.',text:'Rebekah’s nurse might seem like a minor figure, yet the household’s grief is remembered in the name Allon-bachuth—oak of weeping.'},
   {ref:'Genesis 35:22',title:'Reuben’s act is recorded briefly but will matter later.',text:'Jacob hears of it; Genesis 49 will return to it when he addresses Reuben’s forfeited preeminence.'}
