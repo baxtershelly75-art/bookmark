@@ -18,13 +18,25 @@ Object.assign(studyMeta,{
 'Genesis 36':{
  oneLine:'Genesis pauses before Joseph’s story to trace Esau’s descendants in Seir, showing Edom becoming a people with chiefs and kings just as earlier promises had said.',
  write:[
-  {ref:'Genesis 36:1',title:'Esau is Edom.',text:'The repeated name ties this people back to Esau and prepares for Edom’s later place beside—and often against—Israel.'},
-  {ref:'Genesis 36:6-8',title:'Esau and Jacob separate because their possessions are too great.',text:'As with Abraham and Lot, abundance creates a practical need for geographic separation.'},
-  {ref:'Genesis 36:9',title:'Esau becomes “the father of the Edomites.”',text:'The brother who did not carry Jacob’s covenant line still becomes a substantial nation.'},
-  {ref:'Genesis 36:31',title:'Edom has kings before Israel does.',text:'Genesis looks ahead to a developed neighboring nation long before Israel asks for a human king.'}
+   {
+     "ref": "Genesis 36:6-9",
+     "title": "God keeps His word beyond Jacob’s line.",
+     "text": "Esau also becomes a people and receives a place to live. The Lord’s faithfulness is not narrow or forgetful; what He said about two nations really comes to pass.",
+     "cross": [
+       {
+         "ref": "Genesis 25:23",
+         "label": "Earlier promise",
+         "reason": "Before the twins were born, the LORD told Rebekah that two nations were in her womb."
+       }
+     ]
+   }
  ],
  underline:{ref:'Genesis 36:8',reason:'“Esau is Edom” is the key that makes this long genealogy useful later in Scripture.'},
  notice:[
+  {ref:'Genesis 36:1',title:'Esau is Edom.',text:'The repeated name ties this people back to Esau and prepares for Edom’s later place beside—and often against—Israel.'},
+  {ref:'Genesis 36:6-8',title:'Esau and Jacob separate because their possessions are too great.',text:'As with Abraham and Lot, abundance creates a practical need for geographic separation.'},
+  {ref:'Genesis 36:9',title:'Esau becomes “the father of the Edomites.”',text:'The brother who did not carry Jacob’s covenant line still becomes a substantial nation.'},
+  {ref:'Genesis 36:31',title:'Edom has kings before Israel does.',text:'Genesis looks ahead to a developed neighboring nation long before Israel asks for a human king.'},
   {ref:'Genesis 36:1-43',title:'A genealogy can be a map for later Bible reading.',text:'Names such as Edom, Seir, Amalek, Teman, and the Edomite chiefs will reappear in Israel’s history and the prophets.'},
   {ref:'Genesis 36:12',title:'Amalek appears inside Esau’s line.',text:'Later conflict with Amalek does not begin as a random new nation; Genesis has already located the family relationship.'},
   {ref:'Genesis 36:6-7',title:'Separation does not mean Esau disappeared from God’s providence.',text:'His family grows, possesses territory, and becomes organized, fulfilling the earlier announcement that two nations would come from Rebekah.'}
@@ -36,13 +48,18 @@ Object.assign(studyMeta,{
 'Genesis 37':{
  oneLine:'Jacob’s favoritism and Joseph’s dreams intensify his brothers’ hatred until they strip him, throw him into a pit, sell him into slavery, and deceive their father with the bloodied coat.',
  write:[
-  {ref:'Genesis 37:3-4',title:'Favoritism becomes visible and corrosive.',text:'Jacob’s special love for Joseph is embodied in the coat, and the brothers’ hatred grows until they cannot speak peaceably to him.'},
-  {ref:'Genesis 37:5-11',title:'The dreams point forward before anyone understands how.',text:'The family hears them as Joseph’s claim to rule; later events will reveal a providential meaning Joseph himself cannot yet see.'},
-  {ref:'Genesis 37:23-28',title:'The brothers turn a person into merchandise.',text:'They strip Joseph, pit him, sit down to eat, and finally sell their own brother to traders headed for Egypt.'},
-  {ref:'Genesis 37:31-35',title:'Jacob is deceived by clothing and a goat.',text:'The man who once used Esau’s clothes and goat skins in a deception now receives Joseph’s coat dipped in goat’s blood and draws a false conclusion.'}
+   {
+     "ref": "Genesis 37:5-11",
+     "title": "God can speak before the rescue is visible.",
+     "text": "The dreams come before the pit, the slavery, and the famine. Joseph cannot yet see where the story is going, but the Lord’s providence is already ahead of what this family is about to face."
+   }
  ],
  underline:{ref:'Genesis 37:28',reason:'The promised family’s sin becomes trafficking: “they sold Joseph.”'},
  notice:[
+  {ref:'Genesis 37:3-4',title:'Favoritism becomes visible and corrosive.',text:'Jacob’s special love for Joseph is embodied in the coat, and the brothers’ hatred grows until they cannot speak peaceably to him.'},
+  {ref:'Genesis 37:5-11',title:'The dreams point forward before anyone understands how.',text:'The family hears them as Joseph’s claim to rule; later events will reveal a providential meaning Joseph himself cannot yet see.'},
+  {ref:'Genesis 37:23-28',title:'The brothers turn a person into merchandise.',text:'They strip Joseph, pit him, sit down to eat, and finally sell their own brother to traders headed for Egypt.'},
+  {ref:'Genesis 37:31-35',title:'Jacob is deceived by clothing and a goat.',text:'The man who once used Esau’s clothes and goat skins in a deception now receives Joseph’s coat dipped in goat’s blood and draws a false conclusion.'},
   {ref:'Genesis 37:21-22',title:'Reuben tries to prevent murder but does not stop the injustice.',text:'His plan is limited and secret; by the time he returns, Joseph is gone.'},
   {ref:'Genesis 37:25',title:'They eat while Joseph is in the pit.',text:'Genesis 42:21 later tells us Joseph was in anguish and begged them to listen.'},
   {ref:'Genesis 37:36',title:'The chapter ends in Egypt, not with God absent.',text:'God’s name is not mentioned in Genesis 37, but the destination will become central to the preservation of the family.'}
@@ -54,13 +71,25 @@ Object.assign(studyMeta,{
 'Genesis 38':{
  oneLine:'Judah’s family story exposes wicked sons, his own injustice toward Tamar, Tamar’s desperate deception, Judah’s hypocrisy, and finally his public recognition that she has been more righteous than he.',
  write:[
-  {ref:'Genesis 38:7, 10',title:'Er and Onan are judged for their own wickedness.',text:'The text does not blame Tamar for their deaths; each man’s conduct is explicitly described as evil before the LORD.'},
-  {ref:'Genesis 38:11, 14',title:'Judah withholds Shelah and leaves Tamar trapped.',text:'He sends her back as a widow but does not fulfill the family obligation once Shelah is grown.'},
-  {ref:'Genesis 38:24-26',title:'Judah condemns publicly what he has participated in privately.',text:'The identifying pledges expose him, and he admits, “She hath been more righteous than I.”'},
-  {ref:'Genesis 38:29',title:'Perez enters the line.',text:'This morally tangled chapter becomes part of the ancestry later traced through David and ultimately in Matthew’s genealogy of Jesus.',cross:[{ref:'Matthew 1:3',label:'Later genealogy',reason:'Matthew explicitly names Judah, Tamar, and Perez in Jesus’ genealogy.'}]}
+   {
+     "ref": "Genesis 38:29",
+     "title": "God does not lose His promise in a broken family.",
+     "text": "This chapter is tangled with sin, failure, and shame, yet Perez becomes part of the line that leads to Jesus. The Lord’s redemptive purpose is not defeated by the ugliness of the people He is working through.",
+     "cross": [
+       {
+         "ref": "Matthew 1:3",
+         "label": "The line continues to Christ",
+         "reason": "Matthew explicitly names Judah, Tamar, and Perez in the genealogy of Jesus."
+       }
+     ]
+   }
  ],
  underline:{ref:'Genesis 38:26',reason:'Judah’s confession is the chapter’s moral turning point: “She hath been more righteous than I.”'},
  notice:[
+  {ref:'Genesis 38:7, 10',title:'Er and Onan are judged for their own wickedness.',text:'The text does not blame Tamar for their deaths; each man’s conduct is explicitly described as evil before the LORD.'},
+  {ref:'Genesis 38:11, 14',title:'Judah withholds Shelah and leaves Tamar trapped.',text:'He sends her back as a widow but does not fulfill the family obligation once Shelah is grown.'},
+  {ref:'Genesis 38:24-26',title:'Judah condemns publicly what he has participated in privately.',text:'The identifying pledges expose him, and he admits, “She hath been more righteous than I.”'},
+  {ref:'Genesis 38:29',title:'Perez enters the line.',text:'This morally tangled chapter becomes part of the ancestry later traced through David and ultimately in Matthew’s genealogy of Jesus.',cross:[{ref:'Matthew 1:3',label:'Later genealogy',reason:'Matthew explicitly names Judah, Tamar, and Perez in Jesus’ genealogy.'}]},
   {ref:'Genesis 38:1',title:'The Joseph story pauses to show what is happening in Judah.',text:'That matters because Judah will later emerge as the brother willing to become surety for Benjamin.'},
   {ref:'Genesis 38:15-18',title:'Tamar’s plan is deception, not a clean moral solution.',text:'Judah’s injustice helps explain her desperation; it does not make every part of the scheme righteous.'},
   {ref:'Genesis 38:24',title:'Judah is harsher toward Tamar than toward himself.',text:'The chapter exposes the ease of condemning publicly what a person excuses privately.'}
@@ -72,13 +101,23 @@ Object.assign(studyMeta,{
 'Genesis 39':{
  oneLine:'In slavery and then in prison, the repeated truth is that the LORD is with Joseph; Joseph faithfully resists persistent sexual pressure, is falsely accused, and suffers for doing right.',
  write:[
-  {ref:'Genesis 39:2-3',title:'“The LORD was with Joseph” begins in slavery.',text:'God’s presence is not measured by Joseph’s social position; he belongs to another man and yet the chapter repeatedly says God is with him.'},
-  {ref:'Genesis 39:8-9',title:'Joseph names the temptation morally.',text:'He thinks about trust, marriage, and above all asks how he could do “this great wickedness, and sin against God.”'},
-  {ref:'Genesis 39:10-12',title:'He refuses repeatedly, then runs.',text:'The temptation is not a single moment. Joseph avoids being with her and finally leaves his garment behind to escape.'},
-  {ref:'Genesis 39:20-23',title:'Doing right does not keep Joseph out of prison.',text:'A false accusation costs him dearly, but the same phrase returns in confinement: “the LORD was with Joseph.”'}
+   {
+     "ref": "Genesis 39:2, 21",
+     "title": "The Lord is with Joseph in both places.",
+     "text": "God is with him in Potiphar’s house and again in prison. His presence is not proof that life is easy; it is proof that Joseph is not abandoned."
+   },
+   {
+     "ref": "Genesis 39:21",
+     "title": "God shows mercy inside the prison.",
+     "text": "The chapter does not only say that the Lord is present. It says He shows Joseph mercy there, inside the place created by injustice."
+   }
  ],
  underline:{ref:'Genesis 39:9',reason:'Joseph’s deepest reason for refusal is Godward: “how then can I do this great wickedness, and sin against God?”'},
  notice:[
+  {ref:'Genesis 39:2-3',title:'“The LORD was with Joseph” begins in slavery.',text:'God’s presence is not measured by Joseph’s social position; he belongs to another man and yet the chapter repeatedly says God is with him.'},
+  {ref:'Genesis 39:8-9',title:'Joseph names the temptation morally.',text:'He thinks about trust, marriage, and above all asks how he could do “this great wickedness, and sin against God.”'},
+  {ref:'Genesis 39:10-12',title:'He refuses repeatedly, then runs.',text:'The temptation is not a single moment. Joseph avoids being with her and finally leaves his garment behind to escape.'},
+  {ref:'Genesis 39:20-23',title:'Doing right does not keep Joseph out of prison.',text:'A false accusation costs him dearly, but the same phrase returns in confinement: “the LORD was with Joseph.”'},
   {ref:'Genesis 39:7-18',title:'Power matters in this scene.',text:'Joseph is enslaved inside the household of the woman pressuring him; after he refuses, she controls the story told about him.'},
   {ref:'Genesis 39:12',title:'Sometimes wisdom looks like leaving the garment and running.',text:'Joseph does not remain in the room to prove spiritual strength.'},
   {ref:'Genesis 39:21',title:'God’s presence does not mean immediate vindication.',text:'Joseph is innocent and still imprisoned. The chapter refuses the idea that faithfulness always produces quick outward success.'}
@@ -90,13 +129,18 @@ Object.assign(studyMeta,{
 'Genesis 40':{
  oneLine:'Joseph serves two imprisoned royal officials, insists that dream interpretations belong to God, accurately explains both dreams, asks the restored cupbearer to remember him, and is forgotten.',
  write:[
-  {ref:'Genesis 40:6-7',title:'Joseph notices other people’s faces while imprisoned himself.',text:'His own suffering has not made him unable to ask why someone else is sad.'},
-  {ref:'Genesis 40:8',title:'“Do not interpretations belong to God?”',text:'Joseph does not advertise private mystical power; he directs the mystery toward God before hearing the dreams.'},
-  {ref:'Genesis 40:14-15',title:'Joseph names the injustice done to him.',text:'He does not pretend prison is fine: he says he was stolen from the land of the Hebrews and has done nothing deserving the dungeon.'},
-  {ref:'Genesis 40:23',title:'The cupbearer forgets him.',text:'Joseph’s requested human route out of prison fails, and two more years will pass before the memory returns.'}
+   {
+     "ref": "Genesis 40:8",
+     "title": "God still gives light in a forgotten place.",
+     "text": "Joseph has no way out of the dungeon yet, but he still knows that interpretation belongs to God. The prison has not put him beyond the Lord’s working."
+   }
  ],
  underline:{ref:'Genesis 40:8',reason:'Joseph’s gift never becomes self-glory: “Do not interpretations belong to God?”'},
  notice:[
+  {ref:'Genesis 40:6-7',title:'Joseph notices other people’s faces while imprisoned himself.',text:'His own suffering has not made him unable to ask why someone else is sad.'},
+  {ref:'Genesis 40:8',title:'“Do not interpretations belong to God?”',text:'Joseph does not advertise private mystical power; he directs the mystery toward God before hearing the dreams.'},
+  {ref:'Genesis 40:14-15',title:'Joseph names the injustice done to him.',text:'He does not pretend prison is fine: he says he was stolen from the land of the Hebrews and has done nothing deserving the dungeon.'},
+  {ref:'Genesis 40:23',title:'The cupbearer forgets him.',text:'Joseph’s requested human route out of prison fails, and two more years will pass before the memory returns.'},
   {ref:'Genesis 40:9-19',title:'The two interpretations are not equally pleasant.',text:'Joseph tells the favorable and the fatal meaning plainly rather than reshaping the message to please the hearer.'},
   {ref:'Genesis 40:20-22',title:'The interpretations happen exactly as stated.',text:'The cupbearer is restored and the baker executed on Pharaoh’s birthday.'},
   {ref:'Genesis 40:23',title:'Being forgotten is not the same as being abandoned by God.',text:'The chapter ends with human forgetfulness, but the Joseph story does not.'}
@@ -108,13 +152,23 @@ Object.assign(studyMeta,{
 'Genesis 41':{
  oneLine:'After two more years, Pharaoh dreams, the cupbearer finally remembers Joseph, Joseph credits God for interpretation, and the prisoner is raised in a day to govern Egypt through abundance and famine.',
  write:[
-  {ref:'Genesis 41:14',title:'The prison-to-palace change happens suddenly.',text:'Joseph is hurried from the dungeon, shaved, changed, and brought before Pharaoh after years with no visible route upward.'},
-  {ref:'Genesis 41:16',title:'“It is not in me.”',text:'Joseph refuses credit before he even hears the dreams: God will give Pharaoh an answer of peace.'},
-  {ref:'Genesis 41:28-32',title:'The dreams are doubled because the matter is established.',text:'Seven years of plenty will be followed by seven years of severe famine; Joseph treats revelation as a call for wise preparation.'},
-  {ref:'Genesis 41:38-41',title:'Pharaoh sees wisdom tied to God’s Spirit.',text:'The foreign king recognizes Joseph’s discernment and places the former slave and prisoner over Egypt.'}
+   {
+     "ref": "Genesis 41:25, 28, 32",
+     "title": "God makes provision before the need arrives.",
+     "text": "The famine will be severe, but God reveals it years ahead so food can be gathered and lives preserved. His providence is already preparing for a need that has not arrived yet."
+   },
+   {
+     "ref": "Genesis 41:16",
+     "title": "God gives what Joseph cannot manufacture.",
+     "text": "Joseph refuses the credit: “It is not in me.” The answer and the wisdom come from God, not from Joseph’s brilliance alone."
+   }
  ],
  underline:{ref:'Genesis 41:16',reason:'At the moment Joseph could most easily promote himself, he says, “It is not in me: God shall give Pharaoh an answer.”'},
  notice:[
+  {ref:'Genesis 41:14',title:'The prison-to-palace change happens suddenly.',text:'Joseph is hurried from the dungeon, shaved, changed, and brought before Pharaoh after years with no visible route upward.'},
+  {ref:'Genesis 41:16',title:'“It is not in me.”',text:'Joseph refuses credit before he even hears the dreams: God will give Pharaoh an answer of peace.'},
+  {ref:'Genesis 41:28-32',title:'The dreams are doubled because the matter is established.',text:'Seven years of plenty will be followed by seven years of severe famine; Joseph treats revelation as a call for wise preparation.'},
+  {ref:'Genesis 41:38-41',title:'Pharaoh sees wisdom tied to God’s Spirit.',text:'The foreign king recognizes Joseph’s discernment and places the former slave and prisoner over Egypt.'},
   {ref:'Genesis 41:33-36',title:'Faith in God’s warning produces practical planning.',text:'Joseph immediately proposes administration, storage, and preparation; spiritual dependence and competent action belong together here.'},
   {ref:'Genesis 41:50-52',title:'Joseph names his sons from his lived story.',text:'Manasseh speaks of forgetting toil; Ephraim of fruitfulness in the land of affliction. Egypt remains both provision and affliction.'},
   {ref:'Genesis 41:55-57',title:'The famine extends beyond Egypt.',text:'That wider crisis is what will eventually bring Joseph’s brothers to the grain stores he oversees.'}
@@ -126,13 +180,18 @@ Object.assign(studyMeta,{
 'Genesis 42':{
  oneLine:'Famine brings Joseph’s brothers before him without recognizing him, Joseph tests them, and the men finally speak aloud the guilt they have carried for more than twenty years.',
  write:[
-  {ref:'Genesis 42:6',title:'The old dreams quietly stand in the room.',text:'The brothers bow before Joseph without knowing him; Genesis 37 is being fulfilled in a way none of them planned.'},
-  {ref:'Genesis 42:18',title:'Joseph says, “I fear God.”',text:'Though he holds extraordinary power over the men who harmed him, he names a higher authority over himself.'},
-  {ref:'Genesis 42:21',title:'Conscience remembers Joseph’s anguish.',text:'The brothers recall not merely selling him but seeing his distress and refusing to listen when he begged them.'},
-  {ref:'Genesis 42:24',title:'Joseph turns away and weeps.',text:'His stern testing is not evidence of emotional indifference; the narrative repeatedly shows his hidden tenderness.'}
+   {
+     "ref": "Genesis 42:21-24",
+     "title": "God can bring buried guilt into the light.",
+     "text": "The brothers finally remember Joseph’s anguish and name their guilt. Before reconciliation can come, the truth they buried has to be faced."
+   }
  ],
  underline:{ref:'Genesis 42:21',reason:'More than twenty years later, they finally say, “We are verily guilty concerning our brother.”'},
  notice:[
+  {ref:'Genesis 42:6',title:'The old dreams quietly stand in the room.',text:'The brothers bow before Joseph without knowing him; Genesis 37 is being fulfilled in a way none of them planned.'},
+  {ref:'Genesis 42:18',title:'Joseph says, “I fear God.”',text:'Though he holds extraordinary power over the men who harmed him, he names a higher authority over himself.'},
+  {ref:'Genesis 42:21',title:'Conscience remembers Joseph’s anguish.',text:'The brothers recall not merely selling him but seeing his distress and refusing to listen when he begged them.'},
+  {ref:'Genesis 42:24',title:'Joseph turns away and weeps.',text:'His stern testing is not evidence of emotional indifference; the narrative repeatedly shows his hidden tenderness.'},
   {ref:'Genesis 42:9-17',title:'Joseph does not reveal himself immediately.',text:'He tests what kind of men his brothers have become and seeks information about Benjamin and Jacob.'},
   {ref:'Genesis 42:22',title:'Reuben remembers his protest.',text:'Even so, he remained part of the group that let Joseph disappear into slavery; partial resistance did not undo the outcome.'},
   {ref:'Genesis 42:27-28',title:'Returned money frightens rather than delights them.',text:'A guilty conscience changes how unexpected events are interpreted: “What is this that God hath done unto us?”'}
@@ -144,13 +203,23 @@ Object.assign(studyMeta,{
 'Genesis 43':{
  oneLine:'The continuing famine forces Jacob to send Benjamin, Judah becomes personally responsible for his safety, and the brothers return to Egypt where fear unexpectedly gives way to hospitality and a meal with Joseph.',
  write:[
-  {ref:'Genesis 43:8-9',title:'Judah becomes surety for Benjamin.',text:'The brother once involved in selling Joseph now pledges himself for the safety of Joseph’s full brother.'},
-  {ref:'Genesis 43:14',title:'Jacob finally releases what he cannot control.',text:'He sends Benjamin with the prayer, “God Almighty give you mercy,” then faces the possibility of loss.'},
-  {ref:'Genesis 43:23',title:'The steward answers their fear with peace.',text:'The returned money has terrified them, but the household servant tells them, “Peace be to you, fear not.”'},
-  {ref:'Genesis 43:29-30',title:'Joseph sees Benjamin and must leave to weep.',text:'The powerful governor remains a brother overcome with affection, even while the test continues.'}
+   {
+     "ref": "Genesis 43:14",
+     "title": "The Lord can give mercy in the place we fear.",
+     "text": "Jacob sends Benjamin away with a prayer that God Almighty would give them mercy. The chapter moves toward a table and a brother’s tears, not the loss Jacob feared."
+   },
+   {
+     "ref": "Genesis 43:23",
+     "title": "God can provide before fear understands what it sees.",
+     "text": "The brothers think the returned money means danger; the steward tells them their God has given them treasure. What they feared as a trap had become provision."
+   }
  ],
  underline:{ref:'Genesis 43:9',reason:'Judah’s “I will be surety for him” marks a striking change from the brother who proposed selling Joseph.'},
  notice:[
+  {ref:'Genesis 43:8-9',title:'Judah becomes surety for Benjamin.',text:'The brother once involved in selling Joseph now pledges himself for the safety of Joseph’s full brother.'},
+  {ref:'Genesis 43:14',title:'Jacob finally releases what he cannot control.',text:'He sends Benjamin with the prayer, “God Almighty give you mercy,” then faces the possibility of loss.'},
+  {ref:'Genesis 43:23',title:'The steward answers their fear with peace.',text:'The returned money has terrified them, but the household servant tells them, “Peace be to you, fear not.”'},
+  {ref:'Genesis 43:29-30',title:'Joseph sees Benjamin and must leave to weep.',text:'The powerful governor remains a brother overcome with affection, even while the test continues.'},
   {ref:'Genesis 43:11-14',title:'Jacob uses both prudence and prayer.',text:'He sends gifts and double money while entrusting the outcome to God Almighty.'},
   {ref:'Genesis 43:26-28',title:'The family bows again.',text:'Joseph’s dreams continue to unfold without the brothers recognizing what they are participating in.'},
   {ref:'Genesis 43:33-34',title:'Joseph deliberately favors Benjamin at the meal.',text:'Benjamin receives five times as much, creating a quiet test inside a family with a long history of destructive favoritism.'}
@@ -162,13 +231,18 @@ Object.assign(studyMeta,{
 'Genesis 44':{
  oneLine:'Joseph’s silver cup test puts Benjamin in danger, but this time the brothers refuse to abandon the favored son, and Judah offers himself as a slave in Benjamin’s place to spare their father.',
  write:[
-  {ref:'Genesis 44:13',title:'All eleven tear their clothes and return.',text:'No brother takes the opportunity to leave Benjamin behind and escape the crisis.'},
-  {ref:'Genesis 44:16',title:'Judah speaks of deeper guilt than the cup.',text:'He says, “God hath found out the iniquity of thy servants,” while Joseph knows they are innocent of stealing the planted cup.'},
-  {ref:'Genesis 44:30-31',title:'Judah now understands his father’s grief.',text:'The man once involved in sending home Joseph’s bloodied coat cannot bear to bring Jacob another devastating loss.'},
-  {ref:'Genesis 44:33',title:'Judah offers himself in Benjamin’s place.',text:'“Let thy servant abide instead of the lad” is the clearest evidence yet that Judah has changed.'}
+   {
+     "ref": "Genesis 44:33",
+     "title": "God is not finished with a man who has failed badly.",
+     "text": "Judah once helped sell a brother and let his father carry the grief. Now he offers himself so Benjamin can go free. A life is not frozen forever at its worst chapter."
+   }
  ],
  underline:{ref:'Genesis 44:33',reason:'Judah once helped sell a brother into slavery; now he volunteers to become a slave so a brother can go free.'},
  notice:[
+  {ref:'Genesis 44:13',title:'All eleven tear their clothes and return.',text:'No brother takes the opportunity to leave Benjamin behind and escape the crisis.'},
+  {ref:'Genesis 44:16',title:'Judah speaks of deeper guilt than the cup.',text:'He says, “God hath found out the iniquity of thy servants,” while Joseph knows they are innocent of stealing the planted cup.'},
+  {ref:'Genesis 44:30-31',title:'Judah now understands his father’s grief.',text:'The man once involved in sending home Joseph’s bloodied coat cannot bear to bring Jacob another devastating loss.'},
+  {ref:'Genesis 44:33',title:'Judah offers himself in Benjamin’s place.',text:'“Let thy servant abide instead of the lad” is the clearest evidence yet that Judah has changed.'},
   {ref:'Genesis 44:1-12',title:'The cup is planted; Benjamin is not guilty of theft.',text:'The test creates a crisis, but the reader must not confuse the staged accusation with Benjamin’s moral guilt.'},
   {ref:'Genesis 44:18-34',title:'Judah’s speech centers his father and brother, not himself.',text:'He retells the family’s vulnerability and ends by taking the cost onto his own life.'},
   {ref:'Genesis 44:34',title:'“How shall I go up… and the lad be not with me?”',text:'Judah can no longer save himself by sacrificing Rachel’s favored son.'}
@@ -180,13 +254,23 @@ Object.assign(studyMeta,{
 'Genesis 45':{
  oneLine:'Joseph finally reveals himself, names both his brothers’ real wrongdoing and God’s preserving purpose, reconciles with them in tears, and sends for Jacob to bring the whole household to Egypt.',
  write:[
-  {ref:'Genesis 45:1-3',title:'“I am Joseph.”',text:'The hidden identity ends in an explosion of tears, and the brothers are too terrified to answer him.'},
-  {ref:'Genesis 45:4',title:'Joseph does not rewrite the crime.',text:'He says plainly, “whom ye sold into Egypt.” Forgiveness does not require pretending the wrong never happened.'},
-  {ref:'Genesis 45:5-8',title:'Providence does not erase responsibility.',text:'Joseph says God sent him before them to preserve life while still naming their sale of him. Genesis 50:20 will state both intentions even more clearly.',cross:[{ref:'Genesis 50:20',label:'Later summary',reason:'Joseph later says, “ye thought evil against me; but God meant it unto good,” holding human evil and divine good purpose together.'}]},
-  {ref:'Genesis 45:14-15',title:'Reconciliation becomes embodied.',text:'Joseph and Benjamin weep on each other, Joseph kisses all his brothers, and only then are the brothers able to talk with him.'}
+   {
+     "ref": "Genesis 45:5-8",
+     "title": "God was preserving life before they could see it.",
+     "text": "The brothers meant real harm, but the Lord had already been working through the years to keep this family alive. His providence does not call evil good; it overrules evil for a saving purpose."
+   },
+   {
+     "ref": "Genesis 45:14-15",
+     "title": "The Lord can make room for reconciliation after truth.",
+     "text": "Joseph does not pretend the past never happened. The wrong is named, tears come, and the brothers are received again. God can bring peace without requiring anyone to call evil good."
+   }
  ],
  underline:{ref:'Genesis 45:5',reason:'The same sentence keeps both truths in view: “ye sold me hither” and “God did send me before you to preserve life.”'},
  notice:[
+  {ref:'Genesis 45:1-3',title:'“I am Joseph.”',text:'The hidden identity ends in an explosion of tears, and the brothers are too terrified to answer him.'},
+  {ref:'Genesis 45:4',title:'Joseph does not rewrite the crime.',text:'He says plainly, “whom ye sold into Egypt.” Forgiveness does not require pretending the wrong never happened.'},
+  {ref:'Genesis 45:5-8',title:'Providence does not erase responsibility.',text:'Joseph says God sent him before them to preserve life while still naming their sale of him. Genesis 50:20 will state both intentions even more clearly.',cross:[{ref:'Genesis 50:20',label:'Later summary',reason:'Joseph later says, “ye thought evil against me; but God meant it unto good,” holding human evil and divine good purpose together.'}]},
+  {ref:'Genesis 45:14-15',title:'Reconciliation becomes embodied.',text:'Joseph and Benjamin weep on each other, Joseph kisses all his brothers, and only then are the brothers able to talk with him.'},
   {ref:'Genesis 45:3',title:'The brothers’ first response is fear, not relief.',text:'Standing before the powerful brother they betrayed makes their guilt suddenly personal and present.'},
   {ref:'Genesis 45:9-13',title:'Forgiveness moves toward concrete care.',text:'Joseph’s response is not merely emotional; he plans food, housing, transport, and protection for the family during famine.'},
   {ref:'Genesis 45:24',title:'“See that ye fall not out by the way.”',text:'Even after reconciliation, Joseph knows these brothers well enough to warn them not to quarrel on the trip home.'}
