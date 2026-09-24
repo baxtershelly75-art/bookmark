@@ -13,13 +13,23 @@ Object.assign(studyMeta,{
 'Genesis 46':{
  oneLine:'Jacob worships before leaving Canaan, God tells him not to fear Egypt and promises His presence, the whole household goes down, and Jacob is reunited with Joseph.',
  write:[
-  {ref:'Genesis 46:1-4',title:'Jacob pauses to worship before the move.',text:'At Beersheba, on the edge of a major transition, he offers sacrifices and receives God’s word in the night visions.'},
-  {ref:'Genesis 46:3-4',title:'“Fear not to go down into Egypt.”',text:'Egypt is the place Jacob might reasonably fear, yet God promises to go down with him and to make the family a great nation there.',cross:[{ref:'Genesis 15:13-14',label:'Promise remembered',reason:'God had already told Abraham that his descendants would live as strangers in another land before being brought out.'}]},
-  {ref:'Genesis 46:29',title:'Years of grief end in an embrace.',text:'Joseph goes to Goshen, presents himself to his father, falls on his neck, and weeps there a long time.'},
-  {ref:'Genesis 46:31-34',title:'Joseph prepares the family to live distinctly in Goshen.',text:'He plans how they should answer Pharaoh so their shepherding household can settle in the region suited to their flocks.'}
+   {
+     "ref": "Genesis 46:3-4",
+     "title": "God answers fear with His presence.",
+     "text": "Jacob is afraid to go down to Egypt, and the Lord does not merely tell him to be brave. He says, “I will go down with thee.”"
+   },
+   {
+     "ref": "Genesis 46:4",
+     "title": "The Lord speaks tenderly into Jacob’s fear.",
+     "text": "God promises presence, future return, and even that Joseph will be there at Jacob’s death. His care reaches into the details Jacob is afraid to lose."
+   }
  ],
  underline:{ref:'Genesis 46:4',reason:'God does not merely send Jacob into Egypt: “I will go down with thee into Egypt.”'},
  notice:[
+  {ref:'Genesis 46:1-4',title:'Jacob pauses to worship before the move.',text:'At Beersheba, on the edge of a major transition, he offers sacrifices and receives God’s word in the night visions.'},
+  {ref:'Genesis 46:3-4',title:'“Fear not to go down into Egypt.”',text:'Egypt is the place Jacob might reasonably fear, yet God promises to go down with him and to make the family a great nation there.',cross:[{ref:'Genesis 15:13-14',label:'Promise remembered',reason:'God had already told Abraham that his descendants would live as strangers in another land before being brought out.'}]},
+  {ref:'Genesis 46:29',title:'Years of grief end in an embrace.',text:'Joseph goes to Goshen, presents himself to his father, falls on his neck, and weeps there a long time.'},
+  {ref:'Genesis 46:31-34',title:'Joseph prepares the family to live distinctly in Goshen.',text:'He plans how they should answer Pharaoh so their shepherding household can settle in the region suited to their flocks.'},
   {ref:'Genesis 46:8-27',title:'The family list marks a threshold.',text:'Genesis deliberately counts the household entering Egypt because this family will become the people whose multiplication opens Exodus.'},
   {ref:'Genesis 46:28',title:'Judah is sent ahead.',text:'The brother who has recently emerged as a responsible leader now goes before Jacob to direct the family toward Goshen.'},
   {ref:'Genesis 46:4',title:'“I will also surely bring thee up again” is larger than Jacob’s remaining lifetime.',text:'Jacob’s body will return to Canaan for burial, and his descendants will later be brought out of Egypt.'}
@@ -31,13 +41,18 @@ Object.assign(studyMeta,{
 'Genesis 47':{
  oneLine:'Pharaoh settles Jacob’s family in Goshen, Jacob blesses Pharaoh, the famine deepens under Joseph’s administration, and Israel takes root in Egypt while Jacob prepares to be buried in Canaan.',
  write:[
-  {ref:'Genesis 47:7, 10',title:'The old shepherd blesses Pharaoh twice.',text:'Jacob stands before the ruler who has given his family land and speaks blessing over him at both entrance and departure.'},
-  {ref:'Genesis 47:9',title:'Jacob calls his life a pilgrimage.',text:'At 130, he describes his years as “few and evil” compared with his fathers—a sober summary from a man whose life has held promise, failure, conflict, grief, and grace.'},
-  {ref:'Genesis 47:27',title:'Israel grows in the place of exile.',text:'The family gains possessions, is fruitful, and multiplies greatly in Goshen—the beginning of the growth that will alarm a later Pharaoh.'},
-  {ref:'Genesis 47:29-31',title:'Jacob’s burial request looks back toward the promise.',text:'Even while living safely in Egypt, he insists that his body be carried to the burial place of his fathers.'}
+   {
+     "ref": "Genesis 47:27",
+     "title": "God can make His promise grow in a place that is not home.",
+     "text": "Egypt is not the promised land, yet Israel is fruitful and multiplying there. The Lord’s promise keeps growing even in a place His people will not remain forever."
+   }
  ],
  underline:{ref:'Genesis 47:27',reason:'The small household entering Egypt begins to become a people: “they grew, and multiplied exceedingly.”'},
  notice:[
+  {ref:'Genesis 47:7, 10',title:'The old shepherd blesses Pharaoh twice.',text:'Jacob stands before the ruler who has given his family land and speaks blessing over him at both entrance and departure.'},
+  {ref:'Genesis 47:9',title:'Jacob calls his life a pilgrimage.',text:'At 130, he describes his years as “few and evil” compared with his fathers—a sober summary from a man whose life has held promise, failure, conflict, grief, and grace.'},
+  {ref:'Genesis 47:27',title:'Israel grows in the place of exile.',text:'The family gains possessions, is fruitful, and multiplies greatly in Goshen—the beginning of the growth that will alarm a later Pharaoh.'},
+  {ref:'Genesis 47:29-31',title:'Jacob’s burial request looks back toward the promise.',text:'Even while living safely in Egypt, he insists that his body be carried to the burial place of his fathers.'},
   {ref:'Genesis 47:13-26',title:'The famine policy is described in detail, not handed to us as a timeless political blueprint.',text:'Joseph exchanges grain for money, livestock, land, and labor, while Pharaoh’s ownership expands and a fifth becomes the continuing tax.'},
   {ref:'Genesis 47:22',title:'The priests are treated differently.',text:'Their land is not purchased because they receive an allowance from Pharaoh.'},
   {ref:'Genesis 47:29',title:'Egypt is provision, but it is not Jacob’s final home.',text:'His burial request keeps Canaan and God’s earlier promises in view.'}
@@ -49,13 +64,23 @@ Object.assign(studyMeta,{
 'Genesis 48':{
  oneLine:'Jacob adopts Joseph’s two sons into his own inheritance, blesses them in the name of the God who shepherded him all his life, and deliberately gives the younger Ephraim the greater place.',
  write:[
-  {ref:'Genesis 48:3-5',title:'Jacob blesses the next generation by remembering the promise.',text:'He begins with God’s appearance at Luz and the promise of fruitfulness, nations, and land before adopting Ephraim and Manasseh as his own sons.'},
-  {ref:'Genesis 48:11',title:'Grace exceeds Jacob’s expectation.',text:'He tells Joseph, “I had not thought to see thy face,” and now God has allowed him to see Joseph’s children too.'},
-  {ref:'Genesis 48:15-16',title:'Jacob remembers God as his lifelong Shepherd.',text:'Near the end of his life, his testimony is not that the road was easy but that God fed and redeemed him through it all.',cross:[{ref:'Psalms 23:1-4',label:'Shepherd connection',reason:'Psalm 23 gives fuller poetic language for trusting the LORD as shepherd through provision, guidance, and dark valleys.'}]},
-  {ref:'Genesis 48:19',title:'The younger is deliberately placed before the elder.',text:'Jacob refuses Joseph’s attempt to move his hands; the reversal is intentional, continuing a Genesis pattern in which customary birth order does not control God’s purpose.'}
+   {
+     "ref": "Genesis 48:11",
+     "title": "God’s kindness can exceed what grief taught us to expect.",
+     "text": "Jacob thought Joseph was gone forever. Now he is looking at Joseph’s children. The Lord’s kindness has reached beyond what Jacob believed he would ever see again."
+   },
+   {
+     "ref": "Genesis 48:15-16",
+     "title": "God has shepherded Jacob all his life.",
+     "text": "Jacob’s life has been crooked, painful, and full of his own failures, but at the end he can call God the One who fed him all his life. The Shepherd was faithful through every uneven mile."
+   }
  ],
  underline:{ref:'Genesis 48:15',reason:'Jacob can look across his whole uneven life and call God “the God which fed me all my life long unto this day.”'},
  notice:[
+  {ref:'Genesis 48:3-5',title:'Jacob blesses the next generation by remembering the promise.',text:'He begins with God’s appearance at Luz and the promise of fruitfulness, nations, and land before adopting Ephraim and Manasseh as his own sons.'},
+  {ref:'Genesis 48:11',title:'Grace exceeds Jacob’s expectation.',text:'He tells Joseph, “I had not thought to see thy face,” and now God has allowed him to see Joseph’s children too.'},
+  {ref:'Genesis 48:15-16',title:'Jacob remembers God as his lifelong Shepherd.',text:'Near the end of his life, his testimony is not that the road was easy but that God fed and redeemed him through it all.',cross:[{ref:'Psalms 23:1-4',label:'Shepherd connection',reason:'Psalm 23 gives fuller poetic language for trusting the LORD as shepherd through provision, guidance, and dark valleys.'}]},
+  {ref:'Genesis 48:19',title:'The younger is deliberately placed before the elder.',text:'Jacob refuses Joseph’s attempt to move his hands; the reversal is intentional, continuing a Genesis pattern in which customary birth order does not control God’s purpose.'},
   {ref:'Genesis 48:5',title:'Ephraim and Manasseh are counted like Jacob’s own sons.',text:'This helps explain why later tribal lists can speak of Joseph through two tribal inheritances.'},
   {ref:'Genesis 48:14',title:'Jacob crosses his hands “wittingly.”',text:'The text removes the idea that an elderly Jacob accidentally confused the boys.'},
   {ref:'Genesis 48:20',title:'The blessing becomes a saying in Israel.',text:'Ephraim is named before Manasseh in the formula Jacob gives for future blessing.'}
@@ -67,13 +92,30 @@ Object.assign(studyMeta,{
 'Genesis 49':{
  oneLine:'Jacob gathers his sons and speaks searching, poetic words over each tribe’s future, confronting old sins while giving special attention to Judah’s rule and Joseph’s fruitfulness under God’s strength.',
  write:[
-  {ref:'Genesis 49:3-4',title:'Reuben’s privilege does not erase his instability.',text:'The firstborn is named in honor and then confronted with the act from Genesis 35 that cost him preeminence.'},
-  {ref:'Genesis 49:5-7',title:'Simeon and Levi’s violence is not blessed.',text:'Jacob returns to the slaughter at Shechem and curses their fierce anger and cruelty, confirming that Genesis 34 did not endorse their revenge.'},
-  {ref:'Genesis 49:8-10',title:'Judah receives royal language.',text:'His brothers will praise him; the lion and scepter imagery place enduring rule in Judah’s line.',cross:[{ref:'Revelation 5:5',label:'Later messianic connection',reason:'Revelation identifies Jesus as “the Lion of the tribe of Juda.”'}]},
-  {ref:'Genesis 49:22-25',title:'Joseph’s suffering is remembered beside the God who sustained him.',text:'The archers grieved and hated him, yet his bow remained strong through “the mighty God of Jacob,” the Shepherd, and the Stone of Israel.'}
+   {
+     "ref": "Genesis 49:24-25",
+     "title": "God is the strength beneath Joseph’s endurance.",
+     "text": "Joseph was hated and attacked, but Jacob names the One who held him steady: the Mighty God, the Shepherd, the Stone of Israel."
+   },
+   {
+     "ref": "Genesis 49:10",
+     "title": "God’s promise is moving toward a King.",
+     "text": "The scepter is placed with Judah, and the rest of Scripture carries that line forward to Jesus, the Lion of Judah. The Lord has not lost the kingdom He intends to give.",
+     "cross": [
+       {
+         "ref": "Revelation 5:5",
+         "label": "The Lion of Judah",
+         "reason": "Revelation identifies Jesus as the Lion of the tribe of Judah."
+       }
+     ]
+   }
  ],
  underline:{ref:'Genesis 49:24',reason:'Jacob piles up names for God at the end of his life: Mighty God of Jacob, Shepherd, Stone of Israel.'},
  notice:[
+  {ref:'Genesis 49:3-4',title:'Reuben’s privilege does not erase his instability.',text:'The firstborn is named in honor and then confronted with the act from Genesis 35 that cost him preeminence.'},
+  {ref:'Genesis 49:5-7',title:'Simeon and Levi’s violence is not blessed.',text:'Jacob returns to the slaughter at Shechem and curses their fierce anger and cruelty, confirming that Genesis 34 did not endorse their revenge.'},
+  {ref:'Genesis 49:8-10',title:'Judah receives royal language.',text:'His brothers will praise him; the lion and scepter imagery place enduring rule in Judah’s line.',cross:[{ref:'Revelation 5:5',label:'Later messianic connection',reason:'Revelation identifies Jesus as “the Lion of the tribe of Juda.”'}]},
+  {ref:'Genesis 49:22-25',title:'Joseph’s suffering is remembered beside the God who sustained him.',text:'The archers grieved and hated him, yet his bow remained strong through “the mighty God of Jacob,” the Shepherd, and the Stone of Israel.'},
   {ref:'Genesis 49:10',title:'“Until Shiloh come” is a difficult phrase.',text:'Historic Christian interpretation often reads it messianically, while translations differ over the underlying wording. The clear larger thread is that Judah receives enduring ruler language.'},
   {ref:'Genesis 49:28',title:'These words are called blessings even when some contain rebuke.',text:'Biblical blessing here is not flattery; Jacob speaks truth about character, consequence, and tribal future.'},
   {ref:'Genesis 49:29-32',title:'Jacob ends where Abraham’s burial purchase began.',text:'He gives exact instructions for the cave of Machpelah, naming Abraham, Sarah, Isaac, Rebekah, and Leah.'}
@@ -85,13 +127,30 @@ Object.assign(studyMeta,{
 'Genesis 50':{
  oneLine:'Jacob is buried in Canaan, Joseph’s brothers again fear revenge, Joseph answers with tears, truth, forgiveness, and providence, and Genesis closes with Joseph dying in faith that God will bring Israel home.',
  write:[
-  {ref:'Genesis 50:1-3',title:'Joseph grieves openly.',text:'He falls on his father’s face, weeps, kisses him, and allows the long Egyptian period of mourning to proceed.'},
-  {ref:'Genesis 50:12-13',title:'The sons carry Jacob back to Canaan.',text:'The burial request is fulfilled at Machpelah, the one piece of Canaan Abraham had purchased as permanent family ground.'},
-  {ref:'Genesis 50:19-21',title:'Joseph forgives without calling evil good.',text:'He says the brothers meant evil, God meant good, refuses God’s place as judge, and then promises to nourish them and their children.'},
-  {ref:'Genesis 50:24-25',title:'Joseph dies looking beyond Egypt.',text:'He makes the family swear to carry his bones up when God visits them and brings them to the promised land.',cross:[{ref:'Hebrews 11:22',label:'Later explanation',reason:'Hebrews specifically names Joseph’s instruction about his bones as an act of faith.'}]}
+   {
+     "ref": "Genesis 50:20",
+     "title": "God’s goodness can overrule what was meant to destroy.",
+     "text": "Joseph does not soften what his brothers intended, but he sees a deeper purpose underneath it: God was preserving many lives. His goodness is strong enough to overrule what was meant for evil."
+   },
+   {
+     "ref": "Genesis 50:24-25",
+     "title": "God does not forget a promise when a generation dies.",
+     "text": "Joseph dies in Egypt still trusting that God will visit His people and bring them out. The Lord’s faithfulness outlives the people waiting for it.",
+     "cross": [
+       {
+         "ref": "Hebrews 11:22",
+         "label": "Joseph’s faith remembered",
+         "reason": "Hebrews names Joseph’s instruction about his bones as an act of faith."
+       }
+     ]
+   }
  ],
  underline:{ref:'Genesis 50:20',reason:'Genesis gives its clearest providence sentence: human intention was evil; God’s intention was good and life-preserving.'},
  notice:[
+  {ref:'Genesis 50:1-3',title:'Joseph grieves openly.',text:'He falls on his father’s face, weeps, kisses him, and allows the long Egyptian period of mourning to proceed.'},
+  {ref:'Genesis 50:12-13',title:'The sons carry Jacob back to Canaan.',text:'The burial request is fulfilled at Machpelah, the one piece of Canaan Abraham had purchased as permanent family ground.'},
+  {ref:'Genesis 50:19-21',title:'Joseph forgives without calling evil good.',text:'He says the brothers meant evil, God meant good, refuses God’s place as judge, and then promises to nourish them and their children.'},
+  {ref:'Genesis 50:24-25',title:'Joseph dies looking beyond Egypt.',text:'He makes the family swear to carry his bones up when God visits them and brings them to the promised land.',cross:[{ref:'Hebrews 11:22',label:'Later explanation',reason:'Hebrews specifically names Joseph’s instruction about his bones as an act of faith.'}]},
   {ref:'Genesis 50:15-17',title:'The brothers still fear Joseph after Jacob dies.',text:'Forgiveness has been spoken, but years of guilt leave them wondering whether revenge was only postponed.'},
   {ref:'Genesis 50:17',title:'Joseph weeps when they ask again.',text:'The request does not trigger triumph over their fear; it brings him to tears.'},
   {ref:'Genesis 50:26',title:'Genesis ends with a coffin in Egypt.',text:'The book that began with creation closes with death and an unburied promise waiting for Exodus. Joseph’s bones remain a quiet pledge that Egypt is not the end.'}
